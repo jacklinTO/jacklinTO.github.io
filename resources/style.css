@@ -1,0 +1,222 @@
+﻿	body {
+		background-color: #FFFFFF;
+		margin: 3px;
+		padding: 0px;
+		font-family: sans-serif;
+		font-stretch: semi-expanded;
+		color: black;
+		background: white
+	}
+	h2 { font-size: 150% }
+	h3 { font-size: 130% }
+	h4 { font-size: 105% }
+	h5 { font-size: 90% }
+	big {
+		font-style: normal;
+		font-weight: 600;
+		font-variant: small-caps;
+		color: red;
+		background-color: #FFFFFF;
+	}
+	p { 
+		line-height: 17px;
+		text-indent: 5em;
+	}
+	li { list-style: square outside }
+	hr {
+		border: none 0; 
+		border-top: 1px dashed #0099CC;
+		width: 100%;
+		height: 1px;
+	}
+
+	#originalFont { font-size: 80%; }
+	#bar {
+		background-color:#006B84;
+		color: white;
+		font-size: 125%;
+		font-weight: bold;
+	}
+	#paraRed {
+		border: 2px solid red;
+		margin: 5px;
+		padding: 10px;
+	}
+	#paraWhite {
+		border: 2px dashed white;
+		margin: 0px;
+		padding: 1px;
+	}
+	#menuWords {
+		font-size: 80%;
+		font-weight: 400;
+		line-height: 100%;
+	}
+	#songTitle { font-size: 130% }
+	br { clear: left; }
+	img {
+		border: 2px;
+		text-align: center;
+	}
+
+	#slideShow {
+		width: 480px;
+		height: auto;
+	}
+	#slideShowNumber a{
+		font-weight: bold;
+		text-decoration: none;
+	}
+	#buttons{
+		margin-top: 6px;
+	}
+
+	#title { text-align: center }		
+
+	a:link {
+		text-decoration: underline;
+		font-weight: bolder;
+		color: #0099CC;
+	}
+	a:visited {
+		text-decoration: underline;
+		font-weight: bolder;
+		color: #0066FF;
+	}
+	a:hover { background: #99FFFF }
+
+	.year {
+		font-size: smaller;
+		color: #006B84;
+	}
+
+	.date { font-size: smaller }
+
+	.venue { font-size: smaller }
+
+	.headliner { color: #006B84; }
+	.headliner a:link {
+		text-decoration: underline;
+		font-weight: normal;
+		color: #006B84;
+	}
+	.headliner a:visited {
+		text-decoration: underline;
+		font-weight: normal;
+		color: #0099CC;
+	}
+
+	.support {
+		color: #0066FF;
+		font-size: smaller;
+	}
+	.support a:link {
+		text-decoration: underline;
+		font-weight: normal;
+		color: #0066FF;
+	}
+	.support a:visited {
+		text-decoration: underline;
+		font-weight: normal;
+		color: #0099CC;
+	}
+
+	.song {
+		font-size: smaller;
+		color: #808080;
+	}
+
+	.notes {
+		font-size: smaller;
+		color: #808080;
+	}
+
+	#Header {
+		margin: 50px 0px 10px 0px;
+		padding: 17px 0px 0px 20px;
+		height: 33px;
+		border-style: solid;
+		border-color: black;
+		border-width: 1px 0px;
+		line-height: 11px;
+		background-color: #eee;
+		voice-family: "\"}\"";
+		voice-family: inherit;
+		height: 14px;
+	}
+
+	#left_current {
+		font-size: 110%;
+		color: #0033FF;
+		font-variant: small-caps;
+		font-weight: bold;
+	}
+
+	#left {
+		position: absolute;
+		top: 0px;
+		left: 5px;
+		margin: 5px;
+		padding: 10px;
+		background-color: white;
+		width: 130px; /* ie5win fudge begins */
+		voice-family: "\"}\"";
+		voice-family:inherit;
+		width: 140px;
+		font-size: 90%;
+		line-height: 200%;
+		display: block;
+	}
+
+	div#left a span {display: none;}
+
+	div#left a:hover span {
+		display: block;
+   		position: absolute; 
+		top: 300px;
+		left: 5px;
+		margin: 5px;
+		padding: 10px;
+		border: 3px;
+		z-index: 1000;
+   		color: #006B84; 
+		background: white;
+   		font-size: 100%;
+		font-weight: 550;
+		text-align: center;
+		text-decoration: none;
+		line-height: 100%;
+	}
+
+	html>body #left {
+		width: 100px; /* ie5win fudge ends */
+	}
+
+	#middle {
+		margin: 15px 140px 15px 160px;
+		padding: 10px;
+		border: 2px solid #99FFCC;
+	}
+
+	#right {
+		position: absolute;
+		top: 0px;
+		right: 0px; /* Opera5.02 will show a space at right when there is no scroll bar */
+		margin: 3px;
+		padding: 10px;
+		border: 2px dashed #0099CC;
+		background-color: #99FFFF;
+		width: 140px; /* ie5win fudge begins */
+		voice-family: "\"}\"";
+		voice-family:inherit;
+		width: 130px;
+		font-size: 85%;
+	}
+
+	html>body #right {
+		width: 120px; /* ie5win fudge ends */
+	}
+
+	.mid {
+		margin: 20px;
+	}

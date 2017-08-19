@@ -140,7 +140,7 @@
 
 <title>Gigography</title>
 
-<link rel="stylesheet" href="style.css" type="text/css"> </link>
+<link rel="stylesheet" href="resources/style.css" type="text/css"> </link>
 
 </head>
 
