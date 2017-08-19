@@ -1,0 +1,6412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shows>
+
+	<annual>
+		<year>2002</year>
+		<show>
+			<date>Saturday, August 17</date>
+			<venue>Molson Amphitheatre, Toronto</venue>
+			<headliner>
+				<name>Oasis</name>
+			</headliner>
+			<support>
+				<name>Sloan</name>
+			</support>
+			<support>
+				<name>Mercury Rev</name>
+			</support>
+			<support>
+				<name>The Soundtrack Of Our Lives</name>
+			</support>
+			<support>
+				<name>Sam Roberts Band</name>
+			</support>
+			<notes>Heathen Chemistry Tour</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2003</year>
+		<show>
+			<date>Saturday, June 21</date>
+			<venue>Skydome, Toronto</venue>
+			<headliner>
+				<name>The Tragically Hip</name>
+			</headliner>
+			<support>
+				<name>Barenaked Ladies</name>
+			</support>
+			<support>
+				<name>Avril Lavigne</name>
+			</support>
+			<support>
+				<name>Our Lady Peace</name>
+			</support>
+			<support>
+				<name>Sum 41</name>
+			</support>
+			<support>
+				<name>Swollen Members</name>
+			</support>
+			<notes>Concert For Toronto</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2005</year>
+		<show>
+			<date>Friday, June 17</date>
+			<venue>Molson Amphitheatre, Toronto</venue>
+			<headliner>
+				<name>Oasis</name>
+			</headliner>
+			<support>
+				<name>Jet</name>
+			</support>
+			<support>
+				<name>Nic Armstrong &amp; The Thieves</name>
+			</support>
+			<notes>Don't Believe The Truth Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 7</date>
+			<venue>Berkley Church, Toronto</venue>
+			<headliner>
+				<name>Bedouin Soundclash</name>
+			</headliner>
+			<notes>The Edge Next Big Thing Concert / Sounding A Mosaic Tour</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2006</year>
+		<show>
+			<date>Monday, March 20</date>
+			<venue>Air Canada Centre, Toronto</venue>
+			<headliner>
+				<name>Oasis</name>
+			</headliner>
+			<support>
+				<name>Arctic Monkeys</name>
+			</support>
+			<notes>Don't Believe The Truth Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 9</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Controller.Controller</name>
+			</headliner>
+			<support>
+				<name>Uncut</name>
+			</support>
+			<support>
+				<name>Magneta Lane</name>
+			</support>
+			<support>
+				<name>Cities In Dust</name>
+			</support>
+			<support>
+				<name>Tokyo Police Club</name>
+			</support>
+			<notes>Paperbag Records Showcase / X-Amounts Tour</notes>
+		</show>
+		<show>
+			<date>Friday, August 18</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>&#27792;&#23888;Moulann</name>
+			</headliner>
+			<support>
+				<name>&#26106;&#31119;WonFu</name>
+			</support>
+			<support>
+				<name>&#35377;&#21746;&#29678;Peggy Hsu</name>
+			</support>
+			<notes>2006 Taiwanese Cultural Festival</notes>
+		</show>
+		<show>
+			<date>Monday, August 28</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>The Stance</name>
+			</headliner>
+			<support>
+				<name>The Midways</name>
+			</support>
+			<support>
+				<name>The Z Rays</name>
+			</support>
+			<support>
+				<name>The Superstitions</name>
+			</support>
+			<notes>The Stance Shall Inherit the Earth Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 8</date>
+			<venue>Back Campus, University of Toronto, Toronto</venue>
+			<headliner>
+				<name>Metric</name>
+			</headliner>
+			<notes>Frosh Week UTSU Concert / Live It Out Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 8</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Sadies</name>
+			</headliner>
+			<support>
+				<name>The Good Brothers</name>
+			</support>
+			<notes>Live Concert CD Release</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2007</year>
+		<show>
+			<date>Saturday, May 26</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>The Cobbs</name>
+			</support>
+			<notes>Baby 81 Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, July 19</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+				<name>John Paul White</name>
+			</support>
+			<notes>The Boy With No Name Tour</notes>
+		</show>
+		<show>
+			<date>Friday, August 24</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>&#20116;&#26376;&#22825;Mayday</name>
+			</headliner>
+			<notes>2007 Taiwanese Cultural Festival / Jump! World Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 5</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>The Veils</name>
+			</headliner>
+			<support>
+				<name>Jenn Grant</name>
+			</support>
+			<notes>Nux Vomica Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday September 19</date>
+			<venue>Guvernment, Toronto</venue>
+			<headliner>
+				<name>K-os</name>
+			</headliner>
+			<support>
+				<name>Joel Plaskett Emergency</name>
+			</support>
+			<support>
+				<name>You Say Party! We Say Die!</name>
+			</support>
+			<support>
+				<name>Jewish Legend</name>
+			</support>
+			<notes>Bazaar Disco Tour</notes>
+		</show>
+		<show>
+			<date>Monday, October 1</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>The Dirtbombs</name>
+			</support>
+			<support>
+				<name>Uncut</name>
+			</support>
+			<notes>Baby 81 Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, October 3</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>The Hives</name>
+			</headliner>
+			<notes>The Black and White Album Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, November 28</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Stars</name>
+			</headliner>
+			<support>
+				<name>Jade McNeils</name>
+			</support>
+			<notes>In Our Bedroom After The War Tour</notes>
+		</show>
+		<show>
+			<date>Friday, November 30</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>The Whigs</name>
+			</headliner>
+			<support>
+				<name>Jonathan Rice</name>
+			</support>
+			<notes>Mission Control Tour</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2008</year>
+		<show>
+			<date>Friday, January 25</date>
+			<venue>Taipei World Trade Center, Taipei</venue>
+			<headliner>
+				<name>&#20116;&#26376;&#22825;Mayday</name>
+			</headliner>
+			<notes>Taipei Game Show / XBOX 360 &#20116;&#26376;&#22825; LIVE Party</notes>
+		</show>
+		<show>
+			<date>Sunday, April 20</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Sara Bareilles</name>
+			</headliner>
+			<support>
+				<name>Rachael Yamagata</name>
+			</support>			
+			<support>
+				<name>Raining Jane</name>
+			</support>			
+			<notes>Little Voice Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, April 29</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Eisley</name>
+			</headliner>
+			<support>
+				<name>The Myriad</name>
+			</support>
+			<support>
+				<name>Vedera</name>
+			</support>
+			<notes>Combinations Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 3</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>The Coast</name>
+			</support>
+			<support>
+				<name>Winter Games</name>
+			</support>
+			<notes>Exclaim! 16th Anniversary Tour / Elephant Shell Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 8</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Melanie C</name>
+			</headliner>
+			<support>
+				<name>Adam Crossley</name>
+			</support>
+			<support>
+				<name>Spirits</name>
+			</support>
+			<notes>This Time Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, June 12</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Ted Leo And The Parmacists</name>
+			</support>
+			<support>
+				<name>Hospital Bombers</name>
+			</support>
+			<notes>NXNE 2008 / Parallel Play Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 13</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>OK City OK</name>
+			</headliner>
+			<support>
+				<name>Bird Week</name>
+			</support>
+			<notes>NXNE 2008 / Magnificent Seven Showcase</notes>
+		</show>
+		<show>
+			<date>Monday, June 16</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Ting Tings</name>
+			</headliner>
+			<support>
+				<name>Anni Rossi</name>
+			</support>
+			<notes>We Started Nothing Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, June 26</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>The Black Angels</name>
+			</headliner>
+			<support>
+				<name>The Warlocks</name>
+			</support>
+			<notes>Directions to See a Ghost Tour</notes>
+		</show>
+		<show>
+			<date>Friday, July 12</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Hush Sound</name>
+			</headliner>
+			<support>
+				<name>The Cab</name>
+			</support>
+			<support>
+				<name>We Are The Take</name>
+			</support>
+			<notes>Dance Across the Country Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, July 24</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Crash Parallel</name>
+			</headliner>
+			<support>
+				<name>The Junction</name>
+			</support>
+			<notes>World We Know Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, August 3</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>The Black Keys</name>
+			</headliner>
+			<support>
+				<name>The Kills</name>
+			</support>
+			<notes>Attack &amp; Release Tour</notes>
+		</show>
+		<show>
+			<date>Monday, August 11</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Stirling</name>
+			</support>
+			<notes>Baby 81 Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 27</date>
+			<venue>Burroughes Building, Toronto</venue>
+			<headliner>
+				<name>You Say Party! We Say Die!</name>
+			</headliner>
+			<support>
+				<name>The Rapture</name>
+			</support>
+			<notes>Remik's Cube Tour</notes>
+		</show>
+		<show>	
+			<date>Sunday, September 7</date>
+			<venue>Toronto Island Park, Toronto</venue>
+			<headliner>
+				<name>Oasis</name>
+			</headliner>
+			<support>
+				<name>Paul Weller</name>
+			</support>
+			<support>
+				<name>Stereophonics</name>
+			</support>
+			<support>
+				<name>Silversun Pickups</name>
+			</support>
+			<support>
+				<name>Matt Costa</name>
+			</support>
+			<support>
+				<name>Danko Jones</name>
+			</support>
+			<notes>Virgin Festival 2008 / Dig Out Your Soul Tour</notes>
+		</show>
+		<show>	
+			<date>Saturday, December 13</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Metric</name>
+			</headliner>
+			<support>
+				<name>Tokyo Police Club</name>
+			</support>
+			<support>
+				<name>The Dears</name>
+			</support>
+			<support>
+				<name>Sebastien Grainger &amp; The Mountains</name>
+			</support>
+			<support>
+				<name>Mike Relm</name>
+			</support>
+			<notes>Jingle Bell Rock Tour / Help, I'm Alive Tour</notes>
+		</show>
+	</annual>	
+
+	<annual>
+		<year>2009</year>
+		<show>
+			<date>Saturday, March 14</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Ting Tings</name>
+			</headliner>
+			<support>
+				<name>Spirits</name>
+			</support>
+			<notes>CMF 2009 / We Started Nothing Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, April 21</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+				<name>The Republic Tigers</name>
+			</support>
+			<notes>Ode To J. Smith Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, April 22</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Lily Allen</name>
+			</headliner>
+			<support>
+				<name>Natalie Portman's Shaved Head</name>
+			</support>
+			<notes>It's Not Me, It's You Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 9</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>K-os</name>
+			</headliner>
+			<support>
+				<name>Flash Lightnin'</name>
+			</support>
+			<notes>Yes! Karma Tour</notes>
+		</show>
+		<show>
+			<date>Monday, June 1</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>A Camp</name>
+			</headliner>
+			<support>
+				<name>Gentleman Reg</name>
+			</support>
+			<notes>Colonia Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 17</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Patrick Wolf</name>
+			</headliner>
+			<support>
+				<name>Living Things</name>
+			</support>
+			<support>
+				<name>Plastiscines</name>
+			</support>
+			<support>
+				<name>Jaquar Love</name>
+			</support>
+			<notes>NXNE 2009 / Nylon Summer Music Tour</notes>
+		</show>	
+		<show>
+			<date>Thursday, June 18</date>
+			<venue>Neutral Lounge, Toronto</venue>
+			<headliner>
+				<name>Ume</name>
+			</headliner>
+			<support>
+				<name>Silverghost</name>
+			</support>
+			<notes>NXNE 2009 / Sunshower Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, June 18</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>You Say Party! We Say Die!</name>
+			</headliner>
+			<support>
+				<name>Natalie Portman's Shaved Head</name>
+			</support>
+			<notes>NXNE 2009 / Musebox Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, June 19</date>
+			<venue>Whipper Snapper Gallery, Toronto</venue>
+			<headliner>
+				<name>Matt &amp; Kim</name>
+			</headliner>
+			<support>
+				<name>Spiral Beach</name>
+			</support>
+			<notes>NXNE 2009 / Grand Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 19</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Spinnerette</name>
+			</headliner>
+			<notes>NXNE 2009 / Sex Bomb Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 20</date>
+			<venue>Neutral Lounge, Toronto</venue>
+			<headliner>
+				<name>Simeon Ross</name>
+			</headliner>
+			<notes>NXNE 2009 / Sound at Sea Level Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 20</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>In-Flight Safety</name>
+			</support>
+			<support>
+				<name>Novillero</name>
+			</support>
+			<support>
+				<name>Young Rival</name>
+			</support>
+			<support>
+				<name>The British Columbians</name>
+			</support>
+			<notes>NXNE 2009 / Myspace Showcase / Baby Darling Dollface Honey Tour</notes>
+		</show>
+		<show>
+			<date>Monday, July 6</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Jet</name>
+			</headliner>
+			<support>
+				<name>Paper Tongues</name>
+			</support>
+			<notes>Shaka Rock Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, July 11</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Broken Social Scene</name>
+			</headliner>
+			<support>
+				<name>Rattlesnake Choir</name>
+			</support>
+			<notes>Something For All Of Us... Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, July 18</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Ice Cube</name>
+			</headliner>
+			<support>
+				<name>Big Page</name>
+			</support>
+			<notes>Raw Footage Tour</notes>
+		</show>
+		<show>
+			<date>Monday, July 20</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Datsuns</name>
+			</headliner>
+			<support>
+				<name>Turbo Fruits</name>
+			</support>
+			<notes>Head Stunts Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 5</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Yeah Yeah Yeahs</name>
+			</headliner>
+			<support>
+				<name>Amanda Blank</name>
+			</support>
+			<support>
+				<name>Spank Rock</name>
+			</support>
+			<notes>It's Blitz! Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, August 8</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Boxer Rebellion</name>
+			</headliner>
+			<support>
+				<name>These Electric Lives</name>
+			</support>
+			<notes>Union Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 11</date>
+			<venue>Loft, Maidstone, Kent</venue>
+			<headliner>
+				<name>Them Is Me</name>
+			</headliner>
+			<support>
+				<name>Allegro</name>
+			</support>
+			<support>
+				<name>Archie Wah Wahs</name>
+			</support>
+			<notes>Them Is Me Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 25</date>
+			<venue>Standard Music Venue, Walthamstow, London</venue>
+			<headliner>
+				<name>Oasiz</name>
+			</headliner>
+			<notes>Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Wednesday, October 28</date>
+			<venue>Alcatraz, Milan</venue>
+			<headliner>
+				<name>Lily Allen</name>
+			</headliner>
+			<support>
+				<name>Professor Green</name>
+			</support>
+			<notes>It's Not Me, It's You Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 19</date>
+			<venue>Cavern, Liverpool</venue>
+			<headliner>
+				<name>The Blue Meanies</name>
+			</headliner>
+			<support>
+				<name>Jon Keats</name>
+			</support>
+			<notes>Christmas With The Beatles</notes>
+		</show>
+	</annual>	
+
+	<annual>
+		<year>2010</year>
+		<show>
+			<date>Saturday, January 30</date>
+			<venue>Barfly, Camden, London</venue>
+			<headliner>
+				<name>Goldhawks</name>
+			</headliner>
+			<support>
+				<name>Django Django</name>
+			</support>
+			<support>
+				<name>Stornoway</name>
+			</support>
+			<support>
+				<name>Goldheart Assembly</name>
+			</support>
+			<support>
+				<name>Kill It Kid</name>
+			</support>
+			<support>
+				<name>Totally Enormous Extinct Dinosaurs</name>
+			</support>
+			<support>
+				<name>Tinashe</name>
+			</support>
+			<support>
+				<name>Holly Miranda</name>
+			</support>
+			<support>
+				<name>The Cordelier Club</name>
+			</support>
+			<support>
+				<name>King Charles</name>
+			</support>
+			<notes>XFM X-Posure Live All Dayer</notes>
+		</show>
+		<show>
+			<date>Friday, February 5</date>
+			<venue>Garage, Highbury, London</venue>
+			<headliner>
+				<name>Marina &amp; The Diamonds</name>
+			</headliner>
+			<support>
+				<name>Fenech-Soler</name>
+			</support>
+			<support>
+				<name>Clock Opera</name>
+			</support>
+			<notes>HMV Next Big Thing Festival / The Family Jewels Tour</notes>
+		</show>
+		<show>
+			<date>Friday, February 12</date>
+			<venue>Garage, Highbury, London</venue>
+			<headliner>
+				<name>Band of Skulls</name>
+			</headliner>
+			<support>
+				<name>General Fiasco</name>
+			</support>
+			<support>
+				<name>Birds of Tokyo</name>
+			</support>
+			<notes>HMV Next Big Thing Festival / Baby Darling Dollface Honey Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, April 1</date>
+			<venue>City Arts &amp; Music Project, Shoreditch, London</venue>
+			<headliner>
+				<name>Chapel Club</name>
+			</headliner>
+			<notes>NME Radio Easter Party / O Maybe I Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, April 4</date>
+			<venue>Clore Ballroom, Southbank Centre, Southwark, London</venue>
+			<headliner>
+				<name>Ms Dynamite</name>
+			</headliner>
+			<notes>B.Supreme Festival</notes>
+		</show>
+		<show>
+			<date>Friday, April 9</date>
+			<venue>Ocho Y Medio Club, Madrid</venue>
+			<headliner>
+				<name>Plastiscines</name>
+			</headliner>
+			<notes>B.I.T.C.H. Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 10</date>
+			<venue>Moby Dick Club, Madrid</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<notes>Fire Like This Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, April 15</date>
+			<venue>Electric Ballroom, Camden, London</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<notes>Beat The Devil's Tattoo Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 23</date>
+			<venue>Forum, Kentish Town, London</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Dark Horses</name>
+			</support>
+			<notes>Beat The Devil's Tattoo Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 30</date>
+			<venue>KOKO, Camden, London</venue>
+			<headliner>
+				<name>Lucky Soul</name>
+			</headliner>
+			<support>
+				<name>The Like</name>
+			</support>
+			<notes>Club NME / A Coming Of Age Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 1</date>
+			<venue>Barfly, Camden, London</venue>
+			<headliner>
+				<name>Lonelady</name>
+			</headliner>
+			<support>
+				<name>Art Vs. Science</name>
+			</support>
+			<notes>Camden Crawl 2010 / John Kennedy's Xposure Live / Nerve Up Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 1</date>
+			<venue>Fiddler's Elbow, Camden, London</venue>
+			<headliner>
+				<name>The Wilderness of Manitoba</name>
+			</headliner>
+			<notes>Camden Crawl 2010 / Canadian Blast / Hymns Of Love And Spirits Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 1</date>
+			<venue>Underworld, Camden, London</venue>
+			<headliner>
+				<name>Comanechi</name>
+			</headliner>
+			<notes>Camden Crawl 2010 / Crime Of Love Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 1</date>
+			<venue>Dublin, Camden, London</venue>
+			<headliner>
+				<name>That F***ing Tank</name>
+			</headliner>
+			<support>
+				<name>Calories</name>
+			</support>
+			<notes>Camden Crawl 2010 / Tanknology Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 1</date>
+			<venue>Roundhouse, Camden, London</venue>
+			<headliner>
+				<name>Plan B</name>
+			</headliner>
+			<notes>Camden Crawl 2010 / The Defamation of Strickland Banks Tour</notes>
+		</show>
+		<show>
+			<date>Friday, May 14</date>
+			<venue>Electric Ballroom, Camden, London</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>Thomas Tantrum</name>
+			</support>
+			<notes>Baby Darling Dollface Honey Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 20</date>
+			<venue>Forum, Kentish Town, London</venue>
+			<headliner>
+				<name>Noisettes</name>
+			</headliner>
+			<support>
+				<name>Chew Lips</name>
+			</support>
+			<notes>Russian Standard Vodka Originals Showcase / Wild Young Hearts Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 22</date>
+			<venue>Captain's Rest, Glasgow</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Kid Adrift</name>
+			</support>
+			<support>
+				<name>Crocodiles</name>
+			</support>
+			<support>
+				<name>Turbo Fruits</name>
+			</support>
+			<support>
+				<name>Copy Haho</name>
+			</support>
+			<support>
+				<name>White Hinterland</name>
+			</support>
+			<support>
+				<name>Tripwires</name>
+			</support>
+			<support>
+				<name>Islet</name>
+			</support>
+			<support>
+				<name>Sparrow &amp; The Workshop</name>
+			</support>
+			<support>
+				<name>Olympic Swimmers</name>
+			</support>
+			<notes>Stag &amp; Dagger Festival / Fire Like This Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, May 23</date>
+			<venue>KOKO, Camden, London</venue>
+			<headliner>
+				<name>Metric</name>
+			</headliner>
+			<support>
+				<name>Baby Monster</name>
+			</support>
+			<notes>Fantasies Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 2</date>
+			<venue>Comet Club, Berlin</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>Turbo Fruits</name>
+			</support>
+			<notes>Baby Darling Dollface Honey Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, June 8</date>
+			<venue>Barfly, Camden, London</venue>
+			<headliner>
+				<name>Company Of Thieves</name>
+			</headliner>
+			<support>
+				<name>Civil Twilight</name>
+			</support>
+			<notes>Ordinary Riches Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 11</date>
+			<venue>Academy, Islington, London</venue>
+			<headliner>
+				<name>Definitely Mightbe</name>
+			</headliner>
+			<support>
+				<name>Blow</name>
+			</support>
+			<notes>Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Friday, June 11</date>
+			<venue>HMS President, Victoria Embankment, London</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>We Are Standard</name>
+			</support>
+			<notes>A Typical Day On Golden Beach / Baby Darling Dollface Honey Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, June 17</date>
+			<venue>Audio Blood Media Rooftop, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<support>
+				<name>Sandman Viper Command</name>
+			</support>
+			<support>
+				<name>Molly Rankin</name>
+			</support>
+			<support>
+				<name>Boxer The Horse</name>
+			</support>
+			<support>
+				<name>PS I Love You</name>
+			</support>
+			<notes>Audio Blood Media Showcase / Hollerado's Nacho House</notes>
+		</show>
+		<show>
+			<date>Thursday, June 17</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Comanechi</name>
+			</headliner>
+			<support>
+				<name>Dead Famous</name>
+			</support>
+			<support>
+				<name>I-Languages</name>
+			</support>
+			<notes>NXNE 2010 / NeXT Showcase / Crime Of Love Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 26</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Delta Spirit</name>
+			</headliner>
+			<support>
+				<name>Ezra Furman &amp; The Harpoons</name>
+			</support>
+			<notes>History From Below Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, July 7</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Whale Tooth</name>
+			</headliner>
+			<support>
+				<name>The Ghost Is Dancing</name>
+			</support>
+			<support>
+				<name>Revolvers</name>
+			</support>
+			<notes>Zoobomb's 2010 US / Canada Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 11</date>
+			<venue>Wrongbar, Toronto</venue>
+			<headliner>
+				<name>Warpaint</name>
+			</headliner>
+			<support>
+				<name>Javelin</name>
+			</support>
+			<notes>Exquisite Corpse Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 15</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>The Dears</name>
+			</headliner>
+			<support>
+				<name>Braids</name>
+			</support>
+			<notes>Degeneration Street Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, October 16</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Drums</name>
+			</headliner>
+			<support>
+				<name>The Hairs</name>
+			</support>
+			<notes>The Drums Tour</notes>
+		</show>
+		<show>
+			<date>Friday, December 10</date>
+			<venue>Rivoli, Toronto</venue>
+			<headliner>
+				<name>Make Your Exit</name>
+			</headliner>
+			<support>
+				<name>Sandman Viper Command</name>
+			</support>
+			<support>
+				<name>Charlotte Cornfield</name>
+			</support>
+			<notes>Audio Blood's Holiday 2 Night Stand</notes>
+		</show>
+		<show>
+			<date>Saturday, December 11</date>
+			<venue>Rivoli, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<support>
+				<name>Clothes Make The Man</name>
+			</support>
+			<support>
+				<name>Teenage Kicks</name>
+			</support>
+			<notes>Audio Blood's Holiday 2 Night Stand</notes>
+		</show>
+	</annual>
+
+	<annual>
+		<year>2011</year>
+		<show>
+			<date>Saturday, January 15</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Two Door Cinema Club</name>
+			</support>
+			<support>
+				<name>PS I Love You</name>
+			</support>
+			<notes>Champ Tour</notes>
+		</show>
+		<show>
+			<date>Friday, March 11</date>
+			<venue>Sonic Boom, Toronto</venue>
+			<headliner>
+				<name>David Vertesi (Hey Ocean)</name>
+			</headliner>
+			<notes>CMF 2011</notes>
+		</show>
+		<show>
+			<date>Friday, March 11</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Bombay Bicycle Club</name>
+			</headliner>
+			<support>
+				<name>Dinosaur Bones</name>
+			</support>
+			<support>
+				<name>The Jezabels</name>
+			</support>
+			<support>
+				<name>The Coppertone</name>
+			</support>
+			<notes>CMF 2011 / The Great Escape &amp; Dine Alone Records Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, March 12</date>
+			<venue>Comfort Zone, Toronto</venue>
+			<headliner>
+				<name>Hands &amp; Teeth</name>
+			</headliner>
+			<support>
+				<name>Mad Ones</name>
+			</support>
+			<support>
+				<name>Union city</name>
+			</support>
+			<support>
+				<name>Roads</name>
+			</support>
+			<support>
+				<name>Catl</name>
+			</support>
+			<notes>CMF 2011 / NeXT Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, March 25</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<support>
+				<name>Michael Bernard Firzgerald</name>
+			</support>
+			<notes>Juno Fest</notes>
+		</show>
+		<show>
+			<date>Friday, March 25</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Whale Tooth</name>
+			</headliner>
+			<support>
+				<name>The Darcys</name>
+			</support>
+			<notes>Juno Fest</notes>
+		</show>
+		<show>
+			<date>Saturday, March 26</date>
+			<venue>Wrongbar, Toronto</venue>
+			<headliner>
+				<name>Warpaint</name>
+			</headliner>
+			<support>
+				<name>PVT</name>
+			</support>
+			<support>
+				<name>The Family Band</name>
+			</support>
+			<notes>The Fool Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 26</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Basia Bulat</name>
+			</headliner>
+			<support>
+				<name>New Country Rehab</name>
+			</support>
+			<notes>Juno Fest</notes>
+		</show>
+		<show>
+			<date>Friday, April 1</date>
+			<venue>Peter Clark Hall, University of Guelph, Guelph</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Hollerado</name>
+			</support>
+			<support>
+				<name>Dinosaur Bones</name>
+			</support>
+			<notes>Champ Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 2</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Joy Formidable</name>
+			</headliner>
+			<support>
+				<name>The Lonely Forest</name>
+			</support>
+			<notes>The Big Roar Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 23</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Biffy Clyro</name>
+			</headliner>
+			<support>
+				<name>Monster Truck</name>
+			</support>
+			<notes>Only Revolutions Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 14</date>
+			<venue>Sonic Boom, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>XX Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 21</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Arctic Monkeys</name>
+			</headliner>
+			<support>
+				<name>The Vaccines</name>
+			</support>
+			<notes>Suck It And See Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 3</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Jonny</name>
+			</headliner>
+			<support>
+				<name>Ross Flournoy</name>
+			</support>
+			<notes>Jonny Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 4</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>The Soundtrack Of Our Lives</name>
+			</headliner>
+			<support>
+				<name>The Mommyheads</name>
+			</support>
+			<support>
+				<name>Elephant Stone</name>
+			</support>
+			<notes>Golden Greats, No. 1 Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 11</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>Allo Darlin'</name>
+			</headliner>
+			<notes>Europe Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 17</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Cults</name>
+			</headliner>
+			<support>
+				<name>Dum Dum Girls</name>
+			</support>
+			<support>
+				<name>Dirty Beaches</name>
+			</support>
+			<support>
+				<name>Writer</name>
+			</support>
+			<notes>NXNE 2011 / SESAC Showcase / Cults Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 18</date>
+			<venue>Supermarket, Toronto</venue>
+			<headliner>
+				<name>Louise Burns &amp; The Moonshiners</name>
+			</headliner>
+			<notes>NXNE 2011 / Light Organ Records Showcase / Mellow Drama Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 18</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>&#30333;&#30446;The White Eyes</name>
+			</headliner>
+			<notes>NXNE 2011 / NeXT / Untold Cities Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 18</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>The Coppertone</name>
+			</headliner>
+			<support>
+				<name>Gentlemen Husbands</name>
+			</support>
+			<notes>NXNE 2011</notes>
+		</show>
+		<show>
+			<date>Saturday, June 18</date>
+			<venue>Comfort Zone, Toronto</venue>
+			<headliner>
+				<name>Preelander-Z</name>
+			</headliner>
+			<support>
+				<name>Catl</name>
+			</support>
+			<notes>NXNE 2011</notes>
+		</show>
+		<show>
+			<date>Saturday, June 18</date>
+			<venue>Sneaky Dee's, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<notes>NXNE 2011 / Audio Blood / White Girl Records Showcase</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 22</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Hot Kid</name>
+			</support>
+			<notes>XX Tour</notes>
+		</show>
+		<show>
+			<date>Friday, July 15</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Speaking Tongues</name>
+			</headliner>
+			<support>
+				<name>Moon Pool &amp; Dead Band</name>
+			</support>
+			<notes>Party Store Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, July 23</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>EMA</name>
+			</headliner>
+			<support>
+				<name>Helado Negro</name>
+			</support>
+			<notes>Past Life Martyred Saints Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 3</date>
+			<venue>Phoenix Concert Theatre, Toronto, Toronto</venue>
+			<headliner>
+				<name>White Lies</name>
+			</headliner>
+			<support>
+				<name>San Sebastian</name>
+			</support>
+			<notes>Ritual Tour</notes>
+		</show>
+		<show>
+			<date>Friday, August 5</date>
+			<venue>Echo Beach, Ontario Place, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Modern Superstitions</name>
+			</support>
+			<support>
+				<name>Whale Tooth</name>
+			</support>
+			<notes>XX Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, August 27</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>&#33891;&#20107;&#38263;&#27138;&#22296;Chairman Band</name>
+			</headliner>
+			<support>
+				<name>&#19969;&#22137;Della</name>
+			</support>
+			<support>
+				<name>&#24378;&#36777;Champion</name>
+			</support>
+			<notes>2011 Taiwan Fest</notes>
+		</show>
+		<show>
+			<date>Saturday, September 10</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<support>
+				<name>Samantha Savage Smith</name>
+			</support>
+			<support>
+				<name>The Rival Boys</name>
+			</support>
+			<support>
+				<name>Army Girls</name>
+			</support>
+			<notes>The Drake Hotel @ TIFF</notes>
+		</show>
+		<show>
+			<date>Thursday, September 15</date>
+			<venue>Edge 102 Studios, Sugar Beach, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<notes>Champ Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 16</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Modern Superstitions</name>
+			</headliner>
+			<support>
+				<name>SHVRS</name>
+			</support>
+			<notes>Last Gang Entertainments Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, September 16</date>
+			<venue>Shop, Parts &amp; Labour, Toronto</venue>
+			<headliner>
+				<name>Widowspeak</name>
+			</headliner>
+			<support>
+				<name>Grave Babies</name>
+			</support>
+			<notes>Share The Joy Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 17</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Two Door Cinema Club</name>
+			</headliner>
+			<support>
+				<name>Bombay Bicycle Club</name>
+			</support>
+			<support>
+				<name>The Lonely Forest</name>
+			</support>
+			<notes>Tourist History Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 23</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Snake &amp; Crane</name>
+			</headliner>
+			<support>
+				<name>The Murder Plans</name>
+			</support>
+			<notes>Eastborough CD Release Party</notes>
+		</show>
+		<show>
+			<date>Friday, September 23</date>
+			<venue>Wrongbar, Toronto</venue>
+			<headliner>
+				<name>No Joy</name>
+			</headliner>
+			<support>
+				<name>Army Girls</name>
+			</support>
+			<support>
+				<name>The Raincoats</name>
+			</support>
+			<notes>No Joy Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, September 25</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Yuck</name>
+			</headliner>
+			<support>
+				<name>The Rival Boys</name>
+			</support>
+			<notes>Yuck Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 28</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>We Are Enfant Terrible</name>
+			</support>
+			<notes>Sweet Sour Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, October 15</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>Rich Robinson</name>
+			</headliner>
+			<support>
+				<name>Dylan LeBlanc</name>
+			</support>
+			<notes>Through A Crooked Sun Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, October 16</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Dum Dum Girls</name>
+			</headliner>
+			<support>
+				<name>Crocodiles</name>
+			</support>
+			<support>
+				<name>Colleen Green</name>
+			</support>
+			<notes>He Gets Me High Tour</notes>
+		</show>
+		<show>
+			<date>Monday, October 24</date>
+			<venue>Air Canada Centre, Toronto</venue>
+			<headliner>
+				<name>Avril Lavigne</name>
+			</headliner>
+			<support>
+				<name>The New Cities</name>
+			</support>
+			<support>
+				<name>Evan Taubenfeld</name>
+			</support>
+			<notes>Black Star Tour</notes>
+		</show>
+		<show>
+			<date>Monday, November 7</date>
+			<venue>Massey Hall, Toronto</venue>
+			<headliner>
+				<name>Noel Gallagher's High Flying Birds</name>
+			</headliner>
+			<support>
+				<name>The Hours</name>
+			</support>
+			<notes>Noel Gallagher's High Flying Birds Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, December 8</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Born Ruffians</name>
+			</support>
+			<support>
+				<name>Said The Whale</name>
+			</support>
+			<notes>Champ Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 10</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Born Ruffians</name>
+			</support>
+			<support>
+				<name>Said The Whale</name>
+			</support>
+			<support>
+				<name>We Barbarians</name>
+			</support>
+			<notes>Champ Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, December 15</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>St. Vincent</name>
+			</headliner>
+			<support>
+				<name>Cold Specks</name>
+			</support>
+			<notes>Strange Mercy Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, December 21</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>The Rural Alberta Advantage</name>
+			</support>
+			<support>
+				<name>Ohbijou</name>
+			</support>
+			<support>
+				<name>Bonjay</name>
+			</support>
+			<notes>One Chord To Another Benefit Show</notes>
+		</show>
+	</annual>
+
+	<annual>
+		<year>2012</year>
+		<show>
+			<date>Saturday, February 25</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Mona</name>
+			</headliner>
+			<support>
+				<name>The Rassle</name>
+			</support>
+			<support>
+				<name>Gentlemen Husbands</name>
+			</support>
+			<notes>Mona Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, February 29</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>The Twlight Sad</name>
+			</headliner>
+			<support>
+				<name>Odonis Odonis</name>
+			</support>
+			<notes>No One Can Ever Know Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, March 1</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Bombay Bicycle Club</name>
+			</headliner>
+			<support>
+				<name>The Darcys</name>
+			</support>
+			<support>
+				<name>Lucy Rose</name>
+			</support>
+			<notes>A Different Kind Of Fix Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 3</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Wannabe</name>
+			</headliner>
+			<notes>Spice Girls Tribute Band</notes>
+		</show>
+		<show>
+			<date>Saturday, March 10</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Young Prisms</name>
+			</headliner>
+			<support>
+				<name>Boy Friend</name>
+			</support>
+			<notes>In Between Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 13</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Morning Parade</name>
+			</headliner>
+			<notes>Morning Parade Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, March 21</date>
+			<venue>Neutral Lounge, Toronto</venue>
+			<headliner>
+				<name>Fiction In Motion</name>
+			</headliner>
+			<support>
+				<name>Cartoon</name>
+			</support>
+			<notes>CMF 2012</notes>
+		</show>
+		<show>
+			<date>Wednesday, March 21</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>The Corner</name>
+			</headliner>
+			<support>
+				<name>9yrs</name>
+			</support>
+			<support>
+				<name>Lindsay Broughton</name>
+			</support>
+			<notes>CMF 2012 / Cerberus MGMT / Curve Music / Sonic Envy Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, March 22</date>
+			<venue>Sonic Boom, Toronto</venue>
+			<headliner>
+				<name>Chains Of Love</name>
+			</headliner>
+			<notes>CMF 2012</notes>
+		</show>
+		<show>
+			<date>Thursday, March 22</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>Modern Superstitions</name>
+			</headliner>
+			<notes>CMF 2012 / NeXT / Untold City Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, March 22</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Tribes</name>
+			</headliner>
+			<support>
+				<name>The Postelles</name>
+			</support>
+			<notes>CMF 2012 / The Great Escape Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, March 23</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<support>
+				<name>Eight And A Half</name>
+			</support>
+			<support>
+				<name>Gold &amp; Youth</name>
+			</support>
+			<support>
+				<name>Snowblink</name>
+			</support>
+			<notes>CMF 2012 / Arts &amp; Crafts Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, March 24</date>
+			<venue>Canadian Room, Royal York Hotel, Toronto</venue>
+			<headliner>
+				<name>Treble Charger</name>
+			</headliner>
+			<support>
+				<name>Young Empires</name>
+			</support>
+			<support>
+				<name>The Pack A.D.</name>
+			</support>
+			<support>
+				<name>Pavlo</name>
+			</support>
+			<notes>CMF 2012 / The Indies</notes>
+		</show>
+		<show>
+			<date>Saturday, March 24</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<notes>CMF 2012 / Red Bull Music Academy Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, March 29</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Kasabian</name>
+			</headliner>
+			<support>
+				<name>Hacienda</name>
+			</support>
+			<notes>Velociraptor Tour</notes>
+		</show>
+		<show>
+			<date>Friday, March 30</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>We Are Augustines</name>
+			</support>
+			<notes>Sweet Sour Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 31</date>
+			<venue>Theatre Corona, Montreal</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>We Are Augustines</name>
+			</support>
+			<notes>Sweet Sour Tour</notes>
+		</show>
+		<show>
+			<date>Monday, April 2</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>The Joy Formidable</name>
+			</headliner>
+			<support>
+				<name>A Place To Bury Strangers</name>
+			</support>
+			<support>
+				<name>Exitmusic</name>
+			</support>
+			<notes>The Big Roar Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 6</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>The Ting Tings</name>
+			</headliner>
+			<support>
+				<name>MNDR</name>
+			</support>
+			<notes>Sounds From Nowheresville Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, April 18</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Jezabels</name>
+			</headliner>
+			<support>
+				<name>Imagine Dragons</name>
+			</support>
+			<support>
+				<name>Benjamin Francis Leftwich</name>
+			</support>
+			<notes>Prisoner Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 21</date>
+			<venue>Sonic Boom, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<support>
+				<name>Army Girls</name>
+			</support>
+			<notes>2012 Record Store Day</notes>
+		</show>
+		<show>
+			<date>Wednesday, April 25</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Cults</name>
+			</headliner>
+			<support>
+				<name>Spectrals</name>
+			</support>
+			<support>
+				<name>No Joy</name>
+			</support>
+			<notes>Cults Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, May 2</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Boxer Rebellion</name>
+			</headliner>
+			<support>
+				<name>Canon Blue</name>
+			</support>
+			<notes>The Cold Still Tour</notes>
+		</show>
+		<show>
+			<date>Friday, May 11</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Allen Stone</name>
+			</headliner>
+			<support>
+				<name>Sugar &amp; The Hi Lows</name>
+			</support>
+			<support>
+				<name>ZZ Ward</name>
+			</support>
+			<notes>Allen Stone Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 26</date>
+			<venue>Paradise Rock Club, Boston</venue>
+			<headliner>
+				<name>Garbage</name>
+			</headliner>
+			<notes>Not Your Kind Of People Tour</notes>
+		</show>
+		<show>
+			<date>Monday, May 28</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Garbage</name>
+			</headliner>
+			<notes>Not Your Kind Of People Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 9</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Zeus</name>
+			</headliner>
+			<support>
+				<name>Two Hours Traffic</name>
+			</support>
+			<support>
+				<name>The Elwins</name>
+			</support>
+			<notes>Busting Visions Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, June 12</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Metric</name>
+			</headliner>
+			<notes>Synthetica Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, June 14</date>
+			<venue>Audio Blood Rooftop, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<support>
+				<name>Les Breastfeeders</name>
+			</support>
+			<support>
+				<name>Sandman Viper Command</name>
+			</support>
+			<notes>NXNE 2012 / Audio Blood &amp; Bonsound Rooftop Riot</notes>
+		</show>
+		<show>
+			<date>Thursday, June 14</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>Army Girls</name>
+			</headliner>
+			<support>
+				<name>Beliefs</name>
+			</support>
+			<notes>NXNE 2012 / Hand Drawn Dracula Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, June 15</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Courage My Love</name>
+			</headliner>
+			<notes>NXNE 2012</notes>
+		</show>
+		<show>
+			<date>Friday, June 15</date>
+			<venue>Central, Toronto</venue>
+			<headliner>
+				<name>Feed The Birds</name>
+			</headliner>
+			<notes>NXNE 2012</notes>
+		</show>
+		<show>
+			<date>Friday, June 15</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>2:54</name>
+			</headliner>
+			<notes>NXNE 2012 / 2:54 Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 15</date>
+			<venue>El Mocambo, Toronto</venue>
+			<headliner>
+				<name>Kovak</name>
+			</headliner>
+			<notes>NXNE 2012 / Killer Boots Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 15</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Black Belles</name>
+			</headliner>
+			<notes>NXNE 2012 / The Black Belles Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 16</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Of Montreal</name>
+			</headliner>
+			<support>
+				<name>Hollerado</name>
+			</support>
+			<notes>NXNE 2012 / Spinner.ca Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 16</date>
+			<venue>Rivoli, Toronto</venue>
+			<headliner>
+				<name>The Deer Tracks</name>
+			</headliner>
+			<notes>NXNE 2012 / The Archer Trilogy Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 29</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Paper Lions</name>
+			</headliner>
+			<notes>Virgin Mobile Presents Indie Fridays / At Long Creek Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 30</date>
+			<venue>Paul Kane Parkette, Toronto</venue>
+			<headliner>
+				<name>Wannabe</name>
+			</headliner>
+			<notes>Pride 2012 / Spice Girls Tribute Band</notes>
+		</show>
+		<show>
+			<date>Sunday, July 1</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>The Hidden Cameras</name>
+			</headliner>
+			<support>
+				<name>Zaki Ibrahim</name>
+			</support>
+			<notes>Canada Day 2012 / Origin:Orphan Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, July 14</date>
+			<venue>HMV Superstore, Toronto</venue>
+			<headliner>
+				<name>Late July</name>
+			</headliner>
+			<notes>Artist Series In Store / When The Curtain Falls Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, July 21</date>
+			<venue>Garrison Common, Fort York, Toronto</venue>
+			<headliner>
+				<name>Sarah Harmer</name>
+			</headliner>
+			<support>
+				<name>Shad</name>
+			</support>
+			<support>
+				<name>Rural Alberta Advantage</name>
+			</support>
+			<notes>War Of 1812 On Common Ground / Oh Little Fire Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, July 26</date>
+			<venue>Echo Beach, Ontario Place, Toronto</venue>
+			<headliner>
+				<name>Sam Roberts Band</name>
+			</headliner>
+			<support>
+				<name>Bombay Bicycle Club</name>
+			</support>
+			<support>
+				<name>The Jezabels</name>
+			</support>
+			<notes>Collider Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 1</date>
+			<venue>Hoxton, Toronto</venue>
+			<headliner>
+				<name>The Big Pink</name>
+			</headliner>
+			<support>
+				<name>Moon King</name>
+			</support>
+			<notes>Future This Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, August 4</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Tashaki Miyaki</name>
+			</headliner>
+			<support>
+				<name>Jules Verne Band</name>
+			</support>
+			<notes>Tashaki Miyaki Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, August 12</date>
+			<venue>Queen &amp; Soho, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Hollerado</name>
+			</support>
+			<support>
+				<name>JD Era</name>
+			</support>
+			<support>
+				<name>Tyler Shaw</name>
+			</support>
+			<support>
+				<name>Danyka Nadeau</name>
+			</support>		
+			<notes>London 2012 Coca-Cola Beat Bus Tour / Champ Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, August 28</date>
+			<venue>Horseshoe Tavern</venue>
+			<headliner>
+				<name>Little Barrie</name>
+			</headliner>
+			<support>
+				<name>Secret Suburbia</name>
+			</support>
+			<notes>King of the Waves Tour</notes>
+		</show>
+		<show>
+			<date>Friday, August 31</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Cuff The Duke</name>
+			</headliner>
+			<notes>Virgin Mobile Presents Indie Fridays / Union Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 7</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Modern Superstitions</name>
+			</headliner>
+			<support>
+				<name>The Magic</name>
+			</support>
+			<support>
+				<name>New Hands</name>
+			</support>
+			<notes>TIFF Overdrive Launch</notes>
+		</show>
+		<show>
+			<date>Saturday, September 15</date>
+			<venue>Hoxton, Toronto</venue>
+			<headliner>
+				<name>Ladyhawke</name>
+			</headliner>
+			<support>
+				<name>Computer Magic</name>
+			</support>
+			<notes>Anxiety Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, September 18</date>
+			<venue>Mercury Lounge, New York City</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>DZ Deathrays</name>
+			</support>
+			<notes>In Time To Voices Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 19</date>
+			<venue>Glasslands, Brooklyn</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>DZ Deathrays</name>
+			</support>
+			<support>
+				<name>Freshkills</name>
+			</support>
+			<notes>In Time To Voices Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, September 20</date>
+			<venue>Kung Fu Necktie, Philadelphia</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>DZ Deathrays</name>
+			</support>
+			<notes>In Time To Voices Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 21</date>
+			<venue>Red Palace, Washington, D.C.</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>DZ Deathrays</name>
+			</support>
+			<notes>In Time To Voices Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 26</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>DZ Deathrays</name>
+			</support>
+			<notes>In Time To Voices Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 29</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Austra</name>
+			</headliner>
+			<support>
+				<name>You Say Party!</name>
+			</support>
+			<support>
+				<name>Young Galaxy</name>
+			</support>
+			<support>
+				<name>The Luyas</name>
+			</support>
+			<notes>Paper Bag Records 10th Anniversary / Feel It Break Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, October 2</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Niki And The Dove</name>
+			</headliner>
+			<support>
+				<name>Twin Shadow</name>
+			</support>
+			<notes>The Drummer Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 5</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Two Door Cinema Club</name>
+			</headliner>
+			<support>
+				<name>Friends</name>
+			</support>
+			<support>
+				<name>Moon King</name>
+			</support>
+			<notes>Beacon Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 19</date>
+			<venue>Tralf Music Hall, Buffalo</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>Twice Removed Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 26</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Pack A.D.</name>
+			</headliner>
+			<support>
+				<name>Topanga</name>
+			</support>
+			<support>
+				<name>Army Girls</name>
+			</support>
+			<notes>Unpersons Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 22</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>Twice Removed Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, November 24</date>
+			<venue>OLG Stage, Front Street, Toronto</venue>
+			<headliner>
+				<name>Our Lady Peace</name>
+			</headliner>
+			<support>
+				<name>Zeus</name>
+			</support>
+			<support>
+				<name>Said The Whale</name>
+			</support>
+			<support>
+				<name>Fefe Dobson</name>
+			</support>
+			<notes>100th Grey Cup Telus Street Festival / Curve Tour</notes>
+		</show>
+		<show>
+			<date>Monday, November 26</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Joy Formidable</name>
+			</headliner>
+			<support>
+				<name>Alvvays</name>
+			</support>
+			<notes>Wolf's Law Tour</notes>
+		</show>
+		<show>
+			<date>Monday, December 3</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Marina &amp; The Diamonds</name>
+			</headliner>
+			<support>
+				<name>Icona Pop</name>
+			</support>
+			<notes>Electra Heart Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, December 6</date>
+			<venue>Art Gallery Of Ontario, Toronto</venue>
+			<headliner>
+				<name>Yamantaka//Sonic Titan</name>
+			</headliner>
+			<notes>1st Thursday / YT//ST Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 15</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Hollerado</name>
+			</support>
+			<support>
+				<name>Topanga</name>
+			</support>
+			<notes>Edgefest Jingle Bell Concert Series / Champ Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, December 26</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>July Talk</name>
+			</headliner>
+			<support>
+				<name>Sandman Viper Command</name>
+			</support>
+			<support>
+				<name>Dilly Dally</name>
+			</support>
+			<notes>What's In The Box 2012</notes>
+		</show>
+	</annual>
+
+	<annual>
+		<year>2013</year>
+		<show>
+			<date>Monday, January 21</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Amazing</name>
+			</headliner>
+			<support>
+				<name>The Dickens</name>
+			</support>
+			<support>
+				<name>The Volunteers</name>
+			</support>
+			<notes>Gentle Stream Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, February 2</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Wannabe</name>
+			</headliner>
+			<notes>Spice Girls Tribute Band</notes>
+		</show>
+		<show>
+			<date>Saturday, March 23</date>
+			<venue>Night &amp; Day Cafe, Manchester</venue>
+			<headliner>
+				<name>Dark Horses</name>
+			</headliner>
+			<support>
+				<name>Kins</name>
+			</support>
+			<support>
+				<name>We Saw Angela</name>
+			</support>
+			<support>
+				<name>We The Dead</name>
+			</support>
+			<notes>Artrocker Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, March 24</date>
+			<venue>Ritz, Manchester</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>The Big Pink</name>
+			</support>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Monday, March 25</date>
+			<venue>Dome, Doncaster</venue>
+			<headliner>
+				<name>Stereophonics</name>
+			</headliner>
+			<support>
+				<name>Josh Weller</name>
+			</support>
+			<notes>Graffiti On The Train Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 26</date>
+			<venue>Institute, Birmingham</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>The Big Pink</name>
+			</support>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, March 27</date>
+			<venue>Academy, Brixton, London</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>The Big Pink</name>
+			</support>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Friday, March 29</date>
+			<venue>Rock City, Nottingham</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>The Big Pink</name>
+			</support>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Monday, April 1</date>
+			<venue>Ancienne Belgique, Brussels</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Transfer</name>
+			</support>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Monday, April 15</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Widowspeak</name>
+			</headliner>
+			<support>
+				<name>The Auras</name>
+			</support>
+			<notes>Almanac Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, April 23</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Sandman Viper Command</name>
+			</support>
+			<support>
+				<name>Sorry Ok Yes</name>
+			</support>
+			<notes>In Time To Voices Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 26</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Lucius</name>
+			</headliner>
+			<support>
+				<name>Tall Tall Trees</name>
+			</support>
+			<support>
+				<name>Plume Giant</name>
+			</support>
+			<notes>Lucius Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 2</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Rachel Zeffira</name>
+			</headliner>
+			<notes>The Deserters Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 9</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Thenewno2</name>
+			</support>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 23</date>
+			<venue>Echo Beach, Toronto</venue>
+			<headliner>
+				<name>Marina &amp; The Diamonds</name>
+			</headliner>
+			<support>
+				<name>Charli XCX</name>
+			</support>
+			<notes>Electra Heart Tour</notes>
+		</show>
+		<show>
+			<date>Friday, May 24</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>The Boxer Rebellion</name>
+			</headliner>
+			<support>
+				<name>Still Life Still</name>
+			</support>
+			<notes>Promises Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, June 2</date>
+			<venue>Sugar Beach, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Dinosaur Bones</name>
+			</support>
+			<notes>Red Bull Tour Bus Hometown Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, June 4</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Rachael Yamagata</name>
+			</headliner>
+			<support>
+				<name>Sanders Bohlke</name>
+			</support>
+			<notes>Dealbreaker Heart Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, June 11</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The British Columbians</name>
+			</headliner>
+			<support>
+				<name>Stephanie Cameron</name>
+			</support>
+			<notes>Dave Bookman's Nu Music Nite</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 12</date>
+			<venue>May Cafe, Toronto</venue>
+			<headliner>
+				<name>Attagirl</name>
+			</headliner>
+			<notes>NXNE 2013 / CIUT Showcase</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 12</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Sue Newberry &amp; The Law</name>
+			</headliner>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 12</date>
+			<venue>Arts &amp; Crafts Pop Up Store, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<notes>Craft Services AC10 Showcase / Warring Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 12</date>
+			<venue>Shop, Parts &amp; Labour, Toronto</venue>
+			<headliner>
+				<name>Rituals</name>
+			</headliner>
+			<support>
+				<name>Milk Music</name>
+			</support>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Thursday, June 13</date>
+			<venue>St. James Gazebo, Toronto</venue>
+			<headliner>
+				<name>The Balconies</name>
+			</headliner>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Thursday, June 13</date>
+			<venue>Arts &amp; Crafts Pop Up Store, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<notes>Craft Services AC10 Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, June 13</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Camera</name>
+			</headliner>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Thursday, June 13</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Coeur de Pirate</name>
+			</headliner>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Thursday, June 13</date>
+			<venue>Blk Box Theatre, Toronto</venue>
+			<headliner>
+				<name>No Joy</name>
+			</headliner>
+			<support>
+				<name>Black Marble</name>
+			</support>
+			<notes>NXNE 2013 / Pretty Pretty Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, June 14</date>
+			<venue>Urban Outfitters, Toronto</venue>
+			<headliner>
+				<name>Still Corners</name>
+			</headliner>
+			<support>
+				<name>Beach Day</name>
+			</support>
+			<support>
+				<name>Bear Mountain</name>
+			</support>
+			<support>
+				<name>Decades</name>
+			</support>
+			<notes>NXNE 2013 / Free Day Show</notes>
+		</show>
+		<show>
+			<date>Friday, June 14</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Mike O'Neill</name>
+			</support>
+			<support>
+				<name>Psyche Tongues</name>
+			</support>
+			<notes>NXNE 2013 / Porter Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, June 14</date>
+			<venue>Wrongbar, Toronto</venue>
+			<headliner>
+				<name>St. Lucia</name>
+			</headliner>
+			<notes>NXNE 2013 / Last Gang Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 15</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>We Are Scientists</name>
+			</headliner>
+			<notes>NXNE 2013 / Ford Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 15</date>
+			<venue>Sneaky Dee's, Toronto</venue>
+			<headliner>
+				<name>The Boxing Lesson</name>
+			</headliner>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Saturday, June 15</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Beliefs</name>
+			</headliner>
+			<notes>NXNE 2013 / Hand Drawn Dracula Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 15</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Villagers</name>
+			</headliner>
+			<support>
+				<name>Brazos</name>
+			</support>
+			<notes>NXNE 2013</notes>
+		</show>
+		<show>
+			<date>Friday, June 28</date>
+			<venue>Bud Light South Stage, Church &amp; Wood, Toronto</venue>
+			<headliner>
+				<name>Diamond Rings</name>
+			</headliner>
+			<support>
+				<name>Carole Pope</name>
+			</support>
+			<support>
+				<name>Light Fires</name>
+			</support>
+			<notes>Pride 2013</notes>
+		</show>
+		<show>
+			<date>Monday, July 1</date>
+			<venue>Echo Beach, Toronto</venue>
+			<headliner>
+				<name>Yeah Yeah Yeahs</name>
+			</headliner>
+			<support>
+				<name>Maximum Hedrum</name>
+			</support>
+			<notes>Mosquito Tour</notes>
+		</show>
+		<show>
+			<date>Friday, July 12</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Chairlift</name>
+			</headliner>
+			<notes>Something Tour / Soundclash Festival</notes>
+		</show>
+		<show>
+			<date>Thursday, August 8</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Teenage Kicks</name>
+			</headliner>
+			<support>
+				<name>Psyche Tongues</name>
+			</support>
+			<support>
+				<name>Christian Punk Band</name>
+			</support>
+			<notes>Young Lions Music Club Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, September 12</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Savages</name>
+			</headliner>
+			<support>
+				<name>Duke Garwood</name>
+			</support>
+			<notes>Silence Yourself Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, September 17</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>MS MR</name>
+			</headliner>
+			<support>
+				<name>Wildcat! Wildcat!</name>
+			</support>
+			<notes>Secondhand Rapture Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 25</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+				<name>Luke Rathborne</name>
+			</support>
+			<notes>Where You Stand Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 27</date>
+			<venue>Vic Theatre, Chicago</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+				<name>Luke Rathborne</name>
+			</support>
+			<notes>Where You Stand Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 28</date>
+			<venue>Vic Theatre, Chicago</venue>
+			<headliner>
+				<name>Stereophonics</name>
+			</headliner>
+			<support>
+				<name>The Wind And The Wave</name>
+			</support>
+			<notes>Graffiti On The Train Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 4</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Biffy Clyro</name>
+			</headliner>
+			<support>
+				<name>Morning Parade</name>
+			</support>
+			<notes>Opposites Tour</notes>
+		</show>
+		<show>
+			<date>Friday, Octeber 11</date>
+			<venue>Adelaide Music Hall, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<support>
+				<name>Lowell</name>
+			</support>
+			<notes>Warring Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, October 13</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The 1975</name>
+			</headliner>
+			<support>
+				<name>Linus Young</name>
+			</support>
+			<notes>The 1975 Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, October 15</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Two Door Cinema Club</name>
+			</headliner>
+			<support>
+				<name>St. Lucia</name>
+			</support>
+			<support>
+				<name>Peace</name>
+			</support>
+			<notes>Beacon Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 25</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>The Belle Game</name>
+			</headliner>
+			<support>
+				<name>Bear Mountain</name>
+			</support>
+			<notes>Ritual Tradition Habit Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, November 5</date>
+			<venue>Kool Haus, Toronto</venue>
+			<headliner>
+				<name>My Bloody Valentine</name>
+			</headliner>
+			<support>
+				<name>Dumb Numbers</name>
+			</support>
+			<notes>MBV Tour</notes>
+		</show>
+		<show>
+			<date>Friday, November 8</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Dr. Dog</name>
+			</headliner>
+			<support>
+				<name>Fly Golden Eagle</name>
+			</support>
+			<notes>B-Room Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, November 23</date>
+			<venue>Bay Hall, Yokohama</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Monday, November 25</date>
+			<venue>Liquid Room, Ebisu, Tokyo</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, November 26</date>
+			<venue>Club Quattro, Umeda, Osaka</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<notes>Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, November 27</date>
+			<venue>Hatch, Namba, Osaka</venue>
+			<headliner>
+				<name>The Cardigans</name>
+			</headliner>
+			<notes>Greatest Hits Show Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 28</date>
+			<venue>AX, Shibuya, Tokyo</venue>
+			<headliner>
+				<name>The Cardigans</name>
+			</headliner>
+			<notes>Greatest Hits Show Tour</notes>
+		</show>
+		<show>
+			<date>Friday, December 27</date>
+			<venue>Drake Hotel Underground, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<support>
+				<name>Programm</name>
+			</support>
+			<support>
+				<name>Parks At Night</name>
+			</support>
+			<notes>What's In The Box 2013</notes>
+		</show>
+	</annual>
+
+	<annual>
+		<year>2014</year>
+		<show>
+			<date>Tuesday, January 14</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Toy</name>
+			</headliner>
+			<support>
+				<name>Spires</name>
+			</support>
+			<support>
+				<name>Beliefs</name>
+			</support>
+			<notes>Join The Dots Tour</notes>
+		</show>
+		<show>
+			<date>Friday, January 17</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Yuck</name>
+			</headliner>
+			<support>
+				<name>Alvvays</name>
+			</support>
+			<support>
+				<name>Elsa</name>
+			</support>
+			<notes>Glow &amp; Behold Tour</notes>
+		</show>
+		<show>
+			<date>Monday, January 20</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>The Strypes</name>
+			</headliner>
+			<support>
+				<name>The Canadian Shield</name>
+			</support>
+			<notes>Snapshot Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, January 22</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>1976</name>
+			</headliner>
+			<support>
+				<name>Bearbabes</name>
+			</support>
+			<notes>Performing Taiwan Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, January 23</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<support>
+				<name>Trust</name>
+			</support>>
+			<support>
+				<name>Lowell</name>
+			</support>
+			<notes>Red Bull Sound Select Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, February 1</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>Bass Drum Of Death</name>
+			</headliner>
+			<support>
+				<name>Chico No Face</name>
+			</support>
+			<support>
+				<name>Sam Coffey And The Iron Lungs</name>
+			</support>
+			<notes>S/T Tour</notes>
+		</show>
+		<show>
+			<date>Friday, February 7</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Dwayne Gretzky</name>
+			</headliner>
+			<support>
+				<name>Taylor Knox</name>
+			</support>
+			<notes>Ed Sullivan Presents: The Beatles</notes>
+		</show>
+		<show>
+			<date>Saturday, February 8</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Kodaline</name>
+			</headliner>
+			<support>
+				<name>LP</name>
+			</support>
+			<notes>In A Perfect World Tour</notes>
+		</show>
+		<show>
+			<date>Friday, February 14</date>
+			<venue>Adelaide Music Hall, Toronto</venue>
+			<headliner>
+				<name>Odonis Odonis</name>
+			</headliner>
+			<support>
+				<name>Weaves</name>
+			</support>
+			<support>
+				<name>Most People</name>
+			</support>
+			<support>
+				<name>Matrox</name>
+			</support>
+			<notes>Wavelength Music Festival 14</notes>
+		</show>
+		<show>
+			<date>Tuesday, February 18</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Nicole Atkins</name>
+			</headliner>
+			<support>
+				<name>Arc Iris</name>
+			</support>
+			<support>
+				<name>Davey Horne</name>
+			</support>
+			<notes>Slow Phaser Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, February 25</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Army Girls</name>
+			</headliner>
+			<support>
+				<name>Fresh Snow</name>
+			</support>
+			<support>
+				<name>Michael Rault</name>
+			</support>
+			<support>
+				<name>Wish</name>
+			</support>
+			<notes>NXNE RSVP</notes>
+		</show>
+		<show>
+			<date>Thursday, March 6</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Hervana</name>
+			</headliner>
+			<support>
+				<name>Nikki Fierce</name>
+			</support>
+			<support>
+				<name>Ancient Peoples</name>
+			</support>
+			<notes>Nirvana Tribute Band</notes>
+		</show>
+		<show>
+			<date>Saturday, March 8</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Uncut</name>
+			</headliner>
+			<support>
+				<name>Sensei</name>
+			</support>
+			<support>
+				<name>Blackbelt</name>
+			</support>
+			<notes>Infinite Repeats Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 11</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Kandle</name>
+			</headliner>
+			<notes>In Flames Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, March 20</date>
+			<venue>Warsaw, Brooklyn</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>Crushed Out</name>
+			</support>
+			<notes>Himalayan Tour</notes>
+		</show>
+		<show>
+			<date>Friday, March 21</date>
+			<venue>Webster Hall, New York City</venue>
+			<headliner>
+				<name>Warpaint</name>
+			</headliner>
+			<support>
+				<name>Cate Le Bon</name>
+			</support>
+			<notes>Warpaint Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 22</date>
+			<venue>Madison Square Garden, New York City</venue>
+			<headliner>
+				<name>&#20116;&#26376;&#22825;Mayday</name>
+			</headliner>
+			<notes>Now-Here Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 25</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Warpaint</name>
+			</headliner>
+			<support>
+				<name>Cate Le Bon</name>
+			</support>
+			<notes>Warpaint Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 29</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Dum Dum Girls</name>
+			</headliner>
+			<support>
+				<name>Blouse</name>
+			</support>
+			<notes>Too True Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, April 8</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>Tweens</name>
+			</headliner>
+			<support>
+				<name>King Creep</name>
+			</support>
+			<support>
+				<name>Moves</name>
+			</support>
+			<notes>Tweens Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 11</date>
+			<venue>Steam Whistle Brewery, Toronto</venue>
+			<headliner>
+				<name>Young Guv</name>
+			</headliner>
+			<support>
+				<name>Blonde Elvis</name>
+			</support>
+			<notes>Unsigned Indie Music Series</notes>
+		</show>
+		<show>
+			<date>Friday, April 18</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Dwayne Gretzky</name>
+			</headliner>
+			<notes>Big Shiny Dwayne: Songs Of The 90's</notes>
+		</show>
+		<show>
+			<date>Tuesday, April 22</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>I Break Horses</name>
+			</headliner>
+			<support>
+				<name>Ark Analog</name>
+			</support>
+			<support>
+				<name>Paradise Animals</name>
+			</support>
+			<notes>Red Bull Sound Select Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, April 24</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>Sacco</name>
+			</support>
+			<notes>Himalayan Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 1</date>
+			<venue>Art Gallery Of Ontario, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<notes>1st Thursdays / Warring Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, May 6</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>EMA</name>
+			</headliner>
+			<support>
+				<name>Downtown Boys</name>
+			</support>
+			<notes>The Future's Void Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, May 7</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Angel Olsen</name>
+			</headliner>
+			<support>
+				<name>Promised Land Sound</name>
+			</support>
+			<notes>Burn Your Fire For No Witness Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 10</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The BB Guns</name>
+			</headliner>
+			<support>
+				<name>Biblical</name>
+			</support>
+			<support>
+				<name>Public Animal</name>
+			</support>
+			<notes>CMF 2014 / Exclaim! Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, May 16</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Radkey</name>
+			</support>
+			<notes>Blood Red Shoes Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, May 28</date>
+			<venue>Commodore Ballroom, Vancouver</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<support>
+				<name>We Hunt Buffalo</name>
+			</support>
+			<notes>Himalayan Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 31</date>
+			<venue>Massey Hall, Toronto</venue>
+			<headliner>
+				<name>Coeur de Pirate</name>
+			</headliner>
+			<notes>Live At Massey Hall Series</notes>
+		</show>
+		<show>
+			<date>Sunday, June 1</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>La Roux</name>
+			</headliner>
+			<support>
+				<name>Brendan Canning</name>
+			</support>
+			<notes>Trouble In Paradise Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 6</date>
+			<venue>Club 279, Hard Rock Cafe, Toronto</venue>
+			<headliner>
+				<name>SuperSonic</name>
+			</headliner>
+			<support>
+				<name>The Coveralls</name>
+			</support>
+			<notes>Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 18</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Tom The Lion</name>
+			</headliner>
+			<notes>NXNE 2014</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 18</date>
+			<venue>Rivoli, Toronto</venue>
+			<headliner>
+				<name>Bugs In The Dark</name>
+			</headliner>
+			<notes>NXNE 2014</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 18</date>
+			<venue>Tattoo, Toronto</venue>
+			<headliner>
+				<name>Young Magic</name>
+			</headliner>
+			<notes>NXNE 2014 / Red Bull Sound Select Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, June 19</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Sleigh Bells</name>
+			</headliner>
+			<support>
+				<name>Danny Brown</name>
+			</support>
+			<support>
+				<name>Golden Teacher</name>
+			</support>
+			<support>
+				<name>Odonis Odonis</name>
+			</support>
+			<notes>NXNE 2014</notes>
+		</show>
+		<show>
+			<date>Friday, June 20</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Xiu Xiu</name>
+			</headliner>
+			<notes>NXNE 2014 / Burn Down The Capitol Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, June 20</date>
+			<venue>Festival Village, Edward Day Gallery, Toronto</venue>
+			<headliner>
+				<name>Eagulls</name>
+			</headliner>
+			<notes>NXNE 2014 / SESAC Showcase</notes>
+		</show>
+		<show>
+			<date>Friday, June 20</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Crystal Stilts</name>
+			</headliner>
+			<support>
+				<name>Tiers</name>
+			</support>
+			<notes>NXNE 2014 / Hand Drawn Dracula Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 21</date>
+			<venue>Gap, Toronto</venue>
+			<headliner>
+				<name>Beach Day</name>
+			</headliner>
+			<support>
+				<name>Joywave</name>
+			</support>
+			<notes>NXNE 2014 / Sidewalk Hustle Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 21</date>
+			<venue>Microsoft Surface Cafe, Toronto</venue>
+			<headliner>
+				<name>The Darcys</name>
+			</headliner>
+			<notes>Surface Pro 2 Launch</notes>
+		</show>
+		<show>
+			<date>Saturday, June 21</date>
+			<venue>Rivoli, Toronto</venue>
+			<headliner>
+				<name>Camera</name>
+			</headliner>
+			<notes>NXNE 2014</notes>
+		</show>
+		<show>
+			<date>Saturday, June 21</date>
+			<venue>Tattoo Rock Parlor, Toronto</venue>
+			<headliner>
+				<name>Laurel</name>
+			</headliner>
+			<support>
+				<name>Paradise Animals</name>
+			</support>
+			<notes>NXNE 2014 / Red Bull Sound Select Showcase</notes>
+		</show>
+		<show>
+			<date>Saturday, June 21</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Craft Spells</name>
+			</headliner>
+			<support>
+				<name>Snowmine</name>
+			</support>
+			<notes>NXNE 2014 / Dose.ca Showcase</notes>
+		</show>
+		<show>
+			<date>Sunday, June 22</date>
+			<venue>Sonic Boom, Toronto</venue>
+			<headliner>
+				<name>Courtney Barnett</name>
+			</headliner>
+			<notes>NXNE 2014 / Chart Attack In-Store</notes>
+		</show>
+		<show>
+			<date>Friday, June 27</date>
+			<venue>TD Wellesley Stage, Toronto</venue>
+			<headliner>
+				<name>Carly Rae Jepsen</name>
+			</headliner>
+			<support>
+				<name>Dragonette</name>
+			</support>
+			<support>
+				<name>Fefe Dobson</name>
+			</support>
+			<notes>World Pride 2014 / MTV Presents Pop Goes Pride</notes>
+		</show>
+		<show>
+			<date>Saturday, June 28</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Austra</name>
+			</headliner>
+			<support>
+				<name>Honey Dijon</name>
+			</support>
+			<notes>World Pride 2014 / Smart Party / Habitat Tour</notes>
+		</show>
+		<show>
+			<date>Friday, July 4</date>
+			<venue>Smiling Budha, Toronto</venue>
+			<headliner>
+				<name>No Joy</name>
+			</headliner>
+			<support>
+				<name>Comet Control</name>
+			</support>
+			<support>
+				<name>Heaven For Real</name>
+			</support>
+			<notes>Wait To Pleasure Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, July 6</date>
+			<venue>Garrison Commons, Fort York, Toronto</venue>
+			<headliner>
+				<name>Jeff Tweedy</name>
+			</headliner>
+			<support>
+				<name>Gogol Bordello</name>
+			</support>
+			<support>
+				<name>Jenny Lewis</name>
+			</support>
+			<support>
+				<name>July Talk</name>
+			</support>
+			<notes>TURF 2014</notes>
+		</show>
+		<show>
+			<date>Friday, July 11</date>
+			<venue>Nathan Phillip Square, Toronto</venue>
+			<headliner>
+				<name>Walk Off The Earth</name>
+			</headliner>
+			<notes>Countdown To Panamania 2015 / R.E.V.O. Tour</notes>
+		</show>
+		<show>
+			<date>Monday, July 21</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>The Wytches</name>
+			</headliner>
+			<support>
+				<name>Pet Sun</name>
+			</support>
+			<notes>Annabel Dream Reader Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, August 2</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Temples</name>
+			</headliner>
+			<support>
+				<name>Spires</name>
+			</support>
+			<notes>Sun Structures Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, August 9</date>
+			<venue>Scotiabank Studio Theatre, Pia Bouman School, Toronto</venue>
+			<headliner>
+				<name>Army Girls</name>
+			</headliner>
+			<support>
+				<name>Omhouse</name>
+			</support>
+			<notes>Failure Fest / 2014 Summerworks</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 13</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<support>
+				<name>The Taste</name>
+			</support>
+			<support>
+				<name>Taylor Knox</name>
+			</support>
+			<notes>Alvvays Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, August 24</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Fire EX</name>
+			</headliner>
+			<notes>2014 Taiwan Fest</notes>
+		</show>
+		<show>
+			<date>Saturday, September 6</date>
+			<venue>Downsview Park, Toronto</venue>
+			<headliner>
+				<name>Death From Above 1979</name>
+			</headliner>
+			<support>
+				<name>Paul Weller</name>
+			</support>
+			<support>
+				<name>AWOLNATION</name>
+			</support>
+			<support>
+				<name>Alkaline Trio</name>
+			</support>
+			<support>
+				<name>New Found Glory</name>
+			</support>
+			<notes>Riot Fest 2014</notes>
+		</show>
+		<show>
+			<date>Sunday, September 7</date>
+			<venue>Downsview Park, Toronto</venue>
+			<headliner>
+				<name>Metric</name>
+			</headliner>
+			<support>
+				<name>Death Cab For Cutie</name>
+			</support>
+			<support>
+				<name>Stars</name>
+			</support>
+			<support>
+				<name>The Head And The Heart</name>
+			</support>
+			<support>
+				<name>Tokyo Police Club</name>
+			</support>
+			<support>
+				<name>The Bots</name>
+			</support>
+			<notes>Riot Fest 2014</notes>
+		</show>
+		<show>
+			<date>Saturday, September 13</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>SuperSonic</name>
+			</headliner>
+			<support>
+				<name>The Coveralls</name>
+			</support>
+			<notes>Definitely Maybe 20th Anniversary / Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Sunday, September 28</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Lily Allen</name>
+			</headliner>
+			<support>
+				<name>Lolawolf</name>
+			</support>
+			<notes>Sheezus Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, September 30</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>EMA</name>
+			</headliner>
+			<support>
+				<name>Megan Bonnell</name>
+			</support>
+			<notes>The Future's Void Tour</notes>
+		</show>
+		<show>
+			<date>Monday, October 6</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>We Are Scientists</name>
+			</headliner>
+			<support>
+				<name>Surfer Blood</name>
+			</support>
+			<support>
+				<name>Eternal Summeers</name>
+			</support>
+			<notes>TV En Francais Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, October 9</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Titus Adronicus</name>
+			</headliner>
+			<support>
+				<name>Ice Cream</name>
+			</support>
+			<support>
+				<name>Programm</name>
+			</support>
+			<notes>Red Bull Sound Select Showcase / Wavelength</notes>
+		</show>
+		<show>
+			<date>Friday, October 18</date>
+			<venue>S.H.I.B.G.B.S, Toronto</venue>
+			<headliner>
+				<name>Army Girls</name>
+			</headliner>
+			<support>
+				<name>Wish</name>
+			</support>
+			<support>
+				<name>Bad Channels</name>
+			</support>
+			<notes>Dilly Dally Record Release Show</notes>
+		</show>
+		<show>
+			<date>Tuesday, October 21</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Temples</name>
+			</headliner>
+			<support>
+				<name>The Districts</name>
+			</support>
+			<notes>Sun Structures Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, October 25</date>
+			<venue>Lee's Palace</venue>
+			<headliner>
+				<name>Courtney Barnett</name>
+			</headliner>
+			<support>
+				<name>San Fermin</name>
+			</support>
+			<support>
+				<name>Mikhael Paskalev</name>
+			</support>
+			<notes>A Sea Of Split Peas Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, October 26</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>Jessie Ware</name>
+			</headliner>
+			<notes>Tough Love Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, November 4</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Allo Darlin'</name>
+			</headliner>
+			<support>
+				<name>Persian Rugs</name>
+			</support>
+			<notes>We Come From The Same Place Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 27</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Allah-Las</name>
+			</headliner>
+			<support>
+				<name>Tashaki Miyaki</name>
+			</support>
+			<support>
+				<name>Invasions</name>
+			</support>
+			<notes>Worship The Sun Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, November 29</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>Commonwealth Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 6</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Odonis Odonis</name>
+			</headliner>
+			<support>
+				<name>Weaves</name>
+			</support>
+			<support>
+				<name>Dilly Dally</name>
+			</support>
+			<support>
+				<name>The Beverleys</name>
+			</support>
+			<notes>Buzz Records and Collective Concerts Present: A Very Special Krampus Party</notes>
+		</show>
+		<show>
+			<date>Thursday, December 11</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Said The Whale</name>
+			</support>
+			<support>
+				<name>Dilly Dally</name>
+			</support>
+			<notes>Forcefield Tour</notes>
+		</show>
+		<show>
+			<date>Friday, December 12</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Said The Whale</name>
+			</support>
+			<support>
+				<name>The Pack A.D.</name>
+			</support>
+			<notes>Forcefield Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 20</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<support>
+				<name>Moon King</name>
+			</support>
+			<support>
+				<name>Elsa</name>
+			</support>
+			<notes>Alvvays Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 27</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>The Meligrove Band</name>
+			</headliner>
+			<support>
+				<name>Seas</name>
+			</support>
+			<support>
+				<name>International Zombies Of Love</name>
+			</support>
+			<notes>What's In The Box 2014</notes>
+		</show>
+	</annual>
+
+	<annual>
+		<year>2015</year>
+		<show>
+			<date>Saturday, Janauary 3</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>Only Yours</name>
+			</headliner>
+			<support>
+				<name>Wax Atlantic</name>
+			</support>
+			<support>
+				<name>Fever City</name>
+			</support>
+			<notes>NeXT Presents Class of 2015 #1</notes>
+		</show>
+		<show>
+			<date>Monday, Janauary 19</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Ting Tings</name>
+			</headliner>
+			<support>
+				<name>Kaneholler</name>
+			</support>
+			<notes>Super Critical Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, March 4</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>St. Vincent</name>
+			</headliner>
+			<support>
+				<name>Jenny Hval</name>
+			</support>
+			<notes>St. Vincent Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 31</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Benjamin Booker</name>
+			</headliner>
+			<support>
+				<name>Sam Coffey And The Iron Lungs</name>
+			</support>
+			<support>
+				<name>Olivia Jean</name>
+			</support>
+			<notes>Benjamin Booker Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 17</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Viet Cong</name>
+			</headliner>
+			<support>
+				<name>Rolemodel</name>
+			</support>
+			<notes>Converse Rubber Tracks Presents / Viet Cong Tour</notes>
+		</show>
+		<show>
+			<date>Friday, May 1</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>The Jesus And Mary Chain</name>
+			</headliner>
+			<support>
+				<name>Gateway Drugs</name>
+			</support>
+			<notes>CMW 2015 / 30th Anniversary Of Psychocandy</notes>
+		</show>
+		<show>
+			<date>Saturday, May 2</date>
+			<venue>Massey Hall, Toronto</venue>
+			<headliner>
+				<name>Ron Sexsmith</name>
+			</headliner>
+			<support>
+				<name>Alejandra Ribera</name>
+			</support>
+			<notes>CMW 2015 / Carousel One Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, May 3</date>
+			<venue>Sony Centre, Toronto</venue>
+			<headliner>
+				<name>Noel Gallagher's High Flying Birds</name>
+			</headliner>
+			<notes>Chasing Yesterday Tour</notes>
+		</show>
+		<show>
+			<date>Monday, May 4</date>
+			<venue>Sony Centre, Toronto</venue>
+			<headliner>
+				<name>Noel Gallagher's High Flying Birds</name>
+			</headliner>
+			<notes>CMW 2015 / Chasing Yesterday Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, May 5</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>The Dirty Frigs</name>
+			</headliner>
+			<support>
+				<name>Programm</name>
+			</support>
+			<support>
+				<name>The Wayo</name>
+			</support>
+			<support>
+				<name>Megan Bonnell</name>
+			</support>
+			<notes>CMW 2015 / Toronto Women In Music</notes>
+		</show>
+		<show>
+			<date>Thursday, May 7</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Avec Sans</name>
+			</headliner>
+			<support>
+				<name>Gold Lake</name>
+			</support>
+			<support>
+				<name>Laura roy</name>
+			</support>
+			<support>
+				<name>Kiki Rowe</name>
+			</support>
+			<notes>CMW 2015</notes>
+		</show>
+		<show>
+			<date>Friday, May 8</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>K.I.D.</name>
+			</headliner>
+			<support>
+				<name>Coasts</name>
+			</support>
+			<support>
+				<name>Milk &amp; Bone</name>
+			</support>
+			<notes>CMW 2015 / Osheaga 10 Year Anniversary Party</notes>
+		</show>
+		<show>
+			<date>Friday, May 8</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Glass Gang</name>
+			</headliner>
+			<notes>CMW 2015</notes>
+		</show>
+		<show>
+			<date>Friday, May 8</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Fat White Family</name>
+			</headliner>
+			<support>
+				<name>Twin Peaks</name>
+			</support>
+			<notes>CMW 2015 / Culture Collide Presents</notes>
+		</show>
+		<show>
+			<date>Saturday, May 9</date>
+			<venue>Bovine Sex Club, Toronto</venue>
+			<headliner>
+				<name>Bo Ningen</name>
+			</headliner>
+			<support>
+				<name>The Muscadettes</name>
+			</support>
+			<support>
+				<name>Daddy Issues</name>
+			</support>
+			<support>
+				<name>The Glazzies</name>
+			</support>
+			<notes>CMW 2015 / Monster Energy House</notes>
+		</show>
+		<show>
+			<date>Thursay, May 14</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>Wild Nothing</name>
+			</headliner>
+			<support>
+				<name>Look Vibrant</name>
+			</support>
+			<notes>Converse Rubber Tracks Presents</notes>
+		</show>
+		<show>
+			<date>Friday, May 15</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Palma Violets</name>
+			</headliner>
+			<support>
+				<name>Shit From Hell</name>
+			</support>
+			<notes>Danger In The Club Tour</notes>
+		</show>
+		<show>
+			<date>Friday, May 29</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Dwayne Gretzky</name>
+			</headliner>
+			<notes>Big Shiny Dwayne II</notes>
+		</show>
+		<show>
+			<date>Thursday, June 4</date>
+			<venue>Smiling Buddha, Toronto</venue>
+			<headliner>
+				<name>The Do</name>
+			</headliner>
+			<notes>Shake Shook Shaken Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 17</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Lower Dens</name>
+			</headliner>
+			<support>
+				<name>Moon King</name>
+			</support>
+			<support>
+				<name>Jacco Gardiner</name>
+			</support>
+			<support>
+				<name>Girlfriends And Boyfriends</name>
+			</support>
+			<support>
+				<name>Blonde Elvis</name>
+			</support>
+			<notes>NXNE 2015</notes>
+		</show>
+		<show>
+			<date>Thursday, June 18</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Fake Palms</name>
+			</headliner>
+			<support>
+				<name>Bad Channels</name>
+			</support>
+			<support>
+				<name>Whimm</name>
+			</support>
+			<notes>NXNE 2015 / Buzz Records Showcase</notes>
+		</show>
+		<show>
+			<date>Thursday, June 18</date>
+			<venue>Silver Dollar, Toronto</venue>
+			<headliner>
+				<name>No Joy</name>
+			</headliner>
+			<support>
+				<name>Comet Control</name>
+			</support>
+			<notes>NXNE 2015</notes>
+		</show>
+		<show>
+			<date>Friday, June 19</date>
+			<venue>Adelaid Music Hall, Toronto</venue>
+			<headliner>
+				<name>Warpaint</name>
+			</headliner>
+			<support>
+				<name>DIANA</name>
+			</support>
+			<support>
+				<name>Ava Luna</name>
+			</support>
+			<support>
+				<name>Zoo Owl</name>
+			</support>
+			<notes>NXNE 2015 / Redbull Sound Select / Warpaint Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 20</date>
+			<venue>Yonge Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Best Coast</name>
+			</headliner>
+			<support>
+				<name>Dilly Dally</name>
+			</support>
+			<support>
+				<name>Little Scream</name>
+			</support>
+			<notes>NXNE 2015</notes>
+		</show>
+		<show>
+			<date>Saturday, June 20</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Slim Twig</name>
+			</headliner>
+			<support>
+				<name>Fast Romantics</name>
+			</support>
+			<notes>NXNE 2015</notes>
+		</show>
+		<show>
+			<date>Saturday, June 20</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Girl Band</name>
+			</headliner>
+			<notes>NXNE 2015</notes>
+		</show>
+		<show>
+			<date>Saturday, June 20</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Darlene Shrugg</name>
+			</headliner>
+			<notes>NXNE 2015</notes>
+		</show>
+		<show>
+			<date>Thursday, June 25</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Dave Monks</name>
+			</headliner>
+			<support>
+				<name>Fort Lean</name>
+			</support>
+			<notes>All Signs Point To Yes Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, July 8</date>
+			<venue>Molson Ampitheatre, Toronto</venue>
+			<headliner>
+				<name>Foo Fighters</name>
+			</headliner>
+			<support>
+				<name>Royal Blood</name>
+			</support>
+			<notes>Sonic Highways Tour / Broken Leg Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, July 9</date>
+			<venue>Tattoo Rock Parlor, Toronto</venue>
+			<headliner>
+				<name>Royal Blood</name>
+			</headliner>
+			<support>
+				<name>The Beverleys</name>
+			</support>
+			<notes>Royal Blood Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, July 11</date>
+			<venue>Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Yamantaka//Sonic Titan</name>
+			</headliner>
+			<notes>Party On The Block Festival</notes>
+		</show>
+		<show>
+			<date>Sunday, July 12</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>Death From Above 1979</name>
+			</headliner>
+			<support>
+				<name>BADBADNOTGOOD</name>
+			</support>
+			<notes>Panamania Live</notes>
+		</show>
+		<show>
+			<date>Tuesday, July 14</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>Rich Aucoin</name>
+			</headliner>
+			<notes>Panamania Live</notes>
+		</show>
+		<show>
+			<date>Wednesday, July 15</date>
+			<venue>Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Fefe Dobson</name>
+			</headliner>
+			<notes>Ontario's Celebration Zone</notes>
+		</show>
+		<show>
+			<date>Sunday, July 19</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>The Flaming Lips</name>
+			</headliner>
+			<support>
+				<name>Kiesza</name>
+			</support>
+			<notes>Panamania Live</notes>
+		</show>
+		<show>
+			<date>Wednesday, July 22</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>Stars</name>
+			</headliner>
+			<notes>Panamania Live</notes>
+		</show>
+		<show>
+			<date>Thursday, July 23</date>
+			<venue>Smiling Buddha, Toronto</venue>
+			<headliner>
+				<name>Fake Palms</name>
+			</headliner>
+			<support>
+				<name>New Fries</name>
+			</support>
+			<support>
+				<name>Vallens</name>
+			</support>
+			<notes>Buzz Records Showcase</notes>
+		</show>
+		<show>
+			<date>Monday, July 27</date>
+			<venue>Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Elliott Brood</name>
+			</headliner>
+			<notes>Ontario's Celebration Zone</notes>
+		</show>
+		<show>
+			<date>Sunday, August 9</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>Janelle Monae</name>
+			</headliner>
+			<notes>Panamania Live</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 12</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>Austra</name>
+			</headliner>
+			<notes>Panamania Live</notes>
+		</show>
+		<show>
+			<date>Thursday, August 13</date>
+			<venue>Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>The Beaches</name>
+			</headliner>
+			<support>
+				<name>Brave Shores</name>
+			</support>
+			<notes>Ontario's Celebration Zone</notes>
+		</show>
+		<show>
+			<date>Sunday, August 16</date>
+			<venue>Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Zeus</name>
+			</headliner>
+			<support>
+				<name>Young Empires</name>
+			</support>
+			<notes>Ontario's Celebration Zone</notes>
+		</show>
+		<show>
+			<date>Tuesday, September 1</date>
+			<venue>Debaser Medis, Stockholm, Sweden</venue>
+			<headliner>
+				<name>The Charlatans</name>
+			</headliner>
+			<notes>Modern Nature Tour</notes>
+		</show>
+		<show>
+			<date>Friday, September 11</date>
+			<venue>Massey Hall, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Zeus</name>
+			</support>
+			<notes>Commonwealth Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, September 13</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Say Lou Lou</name>
+			</headliner>
+			<support>
+				<name>Phoebe Ryan</name>
+			</support>
+			<notes>Lucid Dreaming Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, September 20</date>
+			<venue>Garrison Commons, Fort York, Toronto</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Will Butler</name>
+			</support>
+			<support>
+				<name>Neko Case</name>
+			</support>
+			<support>
+				<name>Elliott Brood</name>
+			</support>
+			<support>
+				<name>SATE</name>
+			</support>
+			<support>
+				<name>Ron Sexsmith</name>
+			</support>
+			<support>
+				<name>Ron Hawkins &amp; The Do Good Assassins</name>
+			</support>
+			<notes>TURF 2015 / Specter At The Feast Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 2</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>SuperSonic</name>
+			</headliner>
+			<notes>(What's The Story) Morning Glory? 20th Anniversary / Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Friday, October 23</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>The Darkness</name>
+			</headliner>
+			<support>
+				<name>These Raven Skies</name>
+			</support>
+			<notes>Blast Of Our Kind Tour</notes>
+		</show>
+		<show>
+			<date>Monday, October 26</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Garbage</name>
+			</headliner>
+			<support>
+				<name>Torres</name>
+			</support>
+			<notes>20 Years Queer Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, October 28</date>
+			<venue>9:30 Club, Washington, D.C.</venue>
+			<headliner>
+				<name>Garbage</name>
+			</headliner>
+			<support>
+				<name>Torres</name>
+			</support>
+			<notes>20 Years Queer Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, October 29</date>
+			<venue>9:30 Club, Washington, D.C.</venue>
+			<headliner>
+				<name>Garbage</name>
+			</headliner>
+			<support>
+				<name>Torres</name>
+			</support>
+			<notes>20 Years Queer Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 30</date>
+			<venue>Terminal 5, New York City</venue>
+			<headliner>
+				<name>Gary Clark Jr.</name>
+			</headliner>
+			<support>
+				<name>Black Pistol Fire</name>
+			</support>
+			<notes>The Story of Sonny Boy Slim Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, October 31</date>
+			<venue>Saint Vitus, Brooklyn</venue>
+			<headliner>
+				<name>Wax Idols</name>
+			</headliner>
+			<support>
+				<name>Them Are Us Too</name>
+			</support>
+			<support>
+				<name>Azar Swan</name>
+			</support>
+			<support>
+				<name>DJ Becka Diamond</name>
+			</support>
+		</show>
+		<show>
+			<date>Monday, November 2</date>
+			<venue>Sound Academy, Toronto</venue>
+			<headliner>
+				<name>Marina &amp; The Diamonds</name>
+			</headliner>
+			<support>
+				<name>Christine And The Queens</name>
+			</support>
+			<notes>Neon Nature Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, November 4</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>The Orwells</name>
+			</headliner>
+			<support>
+				<name>King Creep</name>
+			</support>
+			<notes>Converse Rubber Tracks Presents / Disgraceland Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, November 28</date>
+			<venue>Nathan Phillips Square, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>Cavalcade of Lights / Commonwealth Tour</notes>
+		</show>
+		<show>
+			<date>Friday, December 4</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Wolf Alice</name>
+			</headliner>
+			<support>
+				<name>Brave Shores</name>
+			</support>
+			<support>
+				<name>Bart</name>
+			</support>
+			<notes>Creature Songs Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 5</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Black Pistol Fire</name>
+			</headliner>
+			<support>
+				<name>Sun King</name>
+			</support>
+			<notes>Hush Or Howl Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, December 10</date>
+			<venue>Seaky Dee's, Toronto</venue>
+			<headliner>
+				<name>U.S. Girls</name>
+			</headliner>
+			<support>
+				<name>Animalia</name>
+			</support>
+			<suppport>
+				<name>Bad Channels</name>
+			</suppport>
+			<support>
+				<name>Elliott Vincent</name>
+			</support>
+			<notes>Red Bull Sound Select</notes>
+		</show>
+		<show>
+			<date>Friday, December 11</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<support>
+				<name>Mardeen</name>
+			</support>
+			<notes>Alvvays Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, December 12</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<support>
+				<name>Fake Palms</name>
+			</support>
+			<notes>Alvvays Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, December 22</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Most Serene Republic</name>
+			</headliner>
+			<support>
+				<name>Sun K</name>
+			</support>
+			<support>
+				<name>Billy Moon</name>
+			</support>
+			<notes>Mediac Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, December 31</date>
+			<venue>Old Laurel, Toronto</venue>
+			<headliner>
+				<name>Tess Parks &amp; The Auras</name>
+			</headliner>
+			<support>
+				<name>Moonwalks</name>
+			</support>
+			<support>
+				<name>The Green Rays</name>
+			</support>
+			<notes>NYE Night Owl Fest</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2016</year>
+		<show>
+			<date>Saturday, January 9</date>
+			<venue>Silver Dollar Room, Toronto</venue>
+			<headliner>
+				<name>Fake Palms</name>
+			</headliner>
+			<support>
+				<name>Kurt Marble</name>
+			</support>
+			<support>
+				<name>Casper Skulls</name>
+			</support>
+			<support>
+				<name>Pins &amp; Needles</name>
+			</support>
+			<notes>Class of 2016 #3</notes>
+		</show>
+		<show>
+			<date>Tuesday, January 12</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Torres</name>
+			</headliner>
+			<support>
+				<name>Palehound</name>
+			</support>
+			<notes>Sprinter Tour</notes>
+		</show>
+		<show>
+			<date>Monday, February 22</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Best Coast</name>
+			</headliner>
+			<support>
+				<name>Wavves</name>
+			</support>
+			<support>
+				<name>Cherry Glazerr</name>
+			</support>
+			<notes>Summer Is Forever II Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, February 27</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Wolfmother</name>
+			</headliner>
+			<support>
+				<name>Deap Vally</name>
+			</support>
+			<notes>Gyppsy Caravan Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, March 3</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Jack Garratt</name>
+			</headliner>
+			<support>
+				<name>Kacy Hill</name>
+			</support>
+			<notes>Phase Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 5</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Le Butcherettes</name>
+			</headliner>
+			<support>
+				<name>The Dead Ships</name>
+			</support>
+			<support>
+				<name>Eureka The Butcher</name>
+			</support>
+			<notes>A Raw Youth Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, March 10</date>
+			<venue>Massey Hall, Toronto</venue>
+			<headliner>
+				<name>Leon Bridges</name>
+			</headliner>
+			<notes>Coming Home Tour</notes>
+		</show>
+		<show>
+		    <date>Saturday, March 19</date>
+		    <venue>Vans Dupont, Toronto</venue>
+		    <headliner>
+		        <name>Fake Palms</name>
+		    </headliner>
+		    <support>
+		        <name>Teenager</name>
+		    </support>
+		    <notes>Vans 50 Years Anniversary</notes>
+		</show>
+		<show>
+			<date>Saturday, March 26</date>
+			<venue>Rough Trade NYC, Brooklyn</venue>
+			<headliner>
+				<name>Field Music</name>
+			</headliner>
+			<support>
+				<name>Imaginary People</name>
+			</support>
+			<support>
+				<name>The Effects</name>
+			</support>
+			<notes>Commontime Tour</notes>
+		</show>
+		<show>
+		    <date>Sunday, March 27</date>
+		    <venue>Shea Stadium BK, Brooklyn</venue>
+		    <headliner>
+		        <name>Sharkmuffin</name>
+		    </headliner>
+		    <support>
+		        <name>Rosebug</name>
+		    </support>
+		    <support>
+		        <name>Witch Coast</name>
+		    </support>
+		    <support>
+		        <name>Lactate</name>
+		    </support>
+		    <notes>Ipsum Showcase</notes>
+		</show>
+		<show>
+			<date>Monday, March 28</date>
+			<venue>Irving Plaza, New York City</venue>
+			<headliner>
+				<name>Savages</name>
+			</headliner>
+			<support>
+			    <name>Angus Tarnawsky</name>
+			</support>
+			<notes>Adore Life Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 29</date>
+			<venue>Warsaw, Brooklyn</venue>
+			<headliner>
+				<name>Savages</name>
+			</headliner>
+			<support>
+			    <name>Angus Tarnawsky</name>
+			</support>
+			<notes>Adore Life Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 2</date>
+			<venue>Theatre Corona, Montreal</venue>
+			<headliner>
+				<name>Savages</name>
+			</headliner>
+			<support>
+			    <name>Angus Tarnawsky</name>
+			</support>
+			<notes>Adore Life Tour</notes>
+		</show>
+		<show>
+			<date>Monday, April 4</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Savages</name>
+			</headliner>
+			<support>
+			    <name>Angus Tarnawsky</name>
+			</support>
+			<notes>Adore Life Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 8</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Dandy Warhols</name>
+			</headliner>
+			<support>
+			    <name>Seratones</name>
+			</support>
+			<notes>Distortland Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 9</date>
+			<venue>Silver Dollar, Toronto</venue>
+			<headliner>
+				<name>Yuck</name>
+			</headliner>
+			<support>
+			    <name>Saintseneca</name>
+			</support>
+			<support>
+			    <name>Sweet And Lowdown</name>
+			</support>
+			<notes>Stranger Things Tour</notes>
+		</show>
+		<show>
+		    <date>Saturday, April 16</date>
+		    <venue>Smiling Buddha, Toronto</venue>
+		    <headliner>
+		        <name>The Neverleys</name>
+		    </headliner>
+		    <support>
+		        <name>Crosss</name>
+		    </support>
+		    <support>
+		        <name>Surinam</name>
+		    </support>
+		    <support>
+		        <name>Plasmalab</name>
+		    </support>
+		    <notes>Brutal Release Party / Funeral Party</notes>
+		</show>
+		<show>
+		    <date>Sunday, April 17</date>
+		    <venue>Garrison, Toronto</venue>
+		    <headliner>
+		        <name>Bleached</name>
+		    </headliner>
+		    <support>
+		        <name>No Parents</name>
+		    </support>
+		    <notes>Welcome The Worms Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, April 30</date>
+			<venue>Adelaide Music Hall, Toronto</venue>
+			<headliner>
+				<name>SuperSonic</name>
+			</headliner>
+			<notes>Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Monday, May 2</date>
+			<venue>Horseshoe, Toronto</venue>
+			<headliner>
+				<name>Cate Le Bon</name>
+			</headliner>
+			<support>
+			    <name>Mega Bog</name>
+			</support>
+			<notes>Crab Day Tour</notes>
+		</show>
+		<show>
+		    <date>Tuesday, May 3</date>
+		    <venue>Smiling Buddha, Toronto</venue>
+		    <headliner>
+		        <name>Bloody Diamonds</name>
+		    </headliner>
+		    <support>
+		        <name>The K.</name>
+		    </support>
+		    <support>
+		        <name>Dresden Wolves</name>
+		    </support>
+		    <support>
+		        <name>The Black Fever</name>
+		    </support>
+		    <support>
+		        <name>Ruthless Ones</name>
+		    </support>
+		    <notes>CMW 2016</notes>
+		</show>
+		<show>
+		    <date>Wednesday, May 4</date>
+		    <venue>Drake Underground, Toronto</venue>
+		    <headliner>
+		        <name>Woodes</name>
+		    </headliner>
+		    <support>
+		        <name>Wander Years</name>
+		    </support>
+		    <notes>CMW 2016</notes>
+		</show>
+		<show>
+		    <date>Wednesday, May 4</date>
+		    <venue>Garrison, Toronto</venue>
+		    <headliner>
+		        <name>Heat</name>
+		    </headliner>
+		    <support>
+		        <name>B Boys</name>
+		    </support>
+		    <support>
+		        <name>Mardeen</name>
+		    </support>
+		    <notes>CMW 2016</notes>
+		</show>
+		<show>
+		    <date>Thursday, May 5</date>
+		    <venue>Velvet Underground, Toronto</venue>
+		    <headliner>
+		        <name>No Joy</name>
+		    </headliner>
+		    <support>
+		        <name>Vallens</name>
+		    </support>
+		    <support>
+		        <name>Mise En Scene</name>
+		    </support>
+		    <notes>CMW 2016</notes>
+		</show>
+		<show>
+			<date>Saturday, May 7</date>
+			<venue>Albert Hall, Manchester</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+			    <name>Sarah Walk</name>
+			</support>
+			<notes>Everything At Once Tour</notes>
+		</show>
+		<show>
+		    <date>Sunday, May 8</date>
+		    <venue>Night &amp; Day Cafe, Manchester</venue>
+		    <headliner>
+		        <name>Skaters</name>
+		    </headliner>
+		    <support>
+		        <name>Church Party</name>
+		    </support>
+		    <support>
+		        <name>Blinders</name>
+		    </support>
+		    <notes>Rock And Roll Bye Bye Tour</notes>
+		</show>
+		<show>
+			<date>Monday, May 9</date>
+			<venue>02 Forum, Kentish Town, London</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+			    <name>Sarah Walk</name>
+			</support>
+			<notes>Everything At Once Tour</notes>
+		</show>
+		<show>
+		    <date>Tuesday, May 10</date>
+		    <venue>Plug, Sheffield</venue>
+		    <headliner>
+		        <name>Joy Formidable</name>
+		    </headliner>
+		    <support>
+		        <name>Demob Happy</name>
+		    </support>
+		    <notes>Hitch Tour</notes>
+		</show>
+		<show>
+		    <date>Wednesday, May 11</date>
+		    <venue>Hare &amp; Hounds, Birmingham</venue>
+		    <headliner>
+		        <name>Chastity Belt</name>
+		    </headliner>
+		    <support>
+		        <name>Tuff Love</name>
+		    </support>
+		    <notes>Time To Go Home Tour</notes>
+		</show>
+		<show>
+			<date>Thursay, May 12</date>
+			<venue>02 Academy, Birmingham</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+			    <name>Sarah Walk</name>
+			</support>
+			<notes>Everything At Once Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, May 13</date>
+		    <venue>Brudenell Social Club, Leeds</venue>
+		    <headliner>
+		        <name>Eagulls</name>
+		    </headliner>
+		    <support>
+		        <name>FEHM</name>
+		    </support>
+		    <support>
+		        <name>99 Watts</name>
+		    </support>
+		    <notes>Ullages Album Launch Show</notes>
+		</show>
+		<show>
+			<date>Saturday, May 14</date>
+			<venue>02 Academy, Leeds</venue>
+			<headliner>
+				<name>Travis</name>
+			</headliner>
+			<support>
+			    <name>Sarah Walk</name>
+			</support>
+			<notes>Everything At Once Tour</notes>
+		</show>
+		<show>
+		    <date>Monday, May 16</date>
+		    <venue>Amstelkerk, Amsterdam</venue>
+		    <headliner>
+		        <name>Nicki Lane</name>
+		    </headliner>
+		    <notes>All Or Nothin' Tour</notes>
+		</show>
+		<show>
+		    <date>Wednesday, May 18</date>
+		    <venue>Lexington, Islington, London</venue>
+		    <headliner>
+		        <name>Band Of Skulls</name>
+		    </headliner>
+		    <notes>By Default Tour</notes>
+		</show>
+		<show>
+		    <date>Thursday, May 19</date>
+		    <venue>Electric Ballroom, Camden, London</venue>
+		    <headliner>
+		        <name>Band Of Skulls</name>
+		    </headliner>
+		    <support>
+		        <name>Johnny Lloyd</name>
+		    </support>
+		    <notes>By Default Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, May 20</date>
+		    <venue>East Street Tap, Brighton</venue>
+		    <headliner>
+		        <name>Kanguerrilla</name>
+		    </headliner>
+		    <notes>Alternative Escape 2016 / End Of The Trail Records Showcase</notes>
+		</show>
+		<show>
+		    <date>Friday, May 20</date>
+		    <venue>Concorde 2, Brighton</venue>
+		    <headliner>
+		        <name>Band Of Skulls</name>
+		    </headliner>
+		    <support>
+		        <name>Larkin Poe</name>
+		    </support>
+		    <support>
+		        <name>Elle Exxe</name>
+		    </support>
+		    <support>
+		        <name>Man Of Moon</name>
+		    </support>
+		    <notes>Great Escape 2016 / Radio X Showcase / By Default Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, May 20</date>
+		    <venue>Wagner Hall, Brighton</venue>
+		    <headliner>
+		        <name>Blossoms</name>
+		    </headliner>
+		    <notes>Great Escape 2016 / Vevo Showcase</notes>
+		</show>
+		<show>
+		    <date>Saturday, May 21</date>
+		    <venue>Latest Music Bar, Brighton</venue>
+		    <headliner>
+		        <name>The Barberettes</name>
+		    </headliner>
+		    <support>
+		        <name>Danpyunsun And The Sailors</name>
+		    </support>
+		    <notes>Great Escape 2016</notes>
+		</show>
+		<show>
+		    <date>Saturday, May 21</date>
+		    <venue>Concorde 2, Brighton</venue>
+		    <headliner>
+		        <name>Joy Formidable</name>
+		    </headliner>
+		    <support>
+		        <name>Dead!</name>
+		    </support>
+		    <support>
+		        <name>Gang Of Youths</name>
+		    </support>
+		    <support>
+		        <name>Hardwicke Circus</name>
+		    </support>
+		    <notes>Great Escape 2016 / Radio X Showcase / Hitch Tour</notes>
+		</show>
+		<show>
+		    <date>Wednesday, May 25</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>The Darcys</name>
+		    </headliner>
+		    <support>
+		        <name>DCF</name>
+		    </support>
+		    <notes>Red Bull Select Showcase / Centerfold Tour</notes>
+		</show>
+		<show>
+		    <date>Monday, May 30</date>
+		    <venue>Phoenix Concert Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Bloc Party</name>
+		    </headliner>
+		    <support>
+		        <name>MS MR</name>
+		    </support>
+		    <support>
+		        <name>Oliver</name>
+		    </support>
+		    <notes>Hymns Tour</notes>
+		</show>
+		<show>
+		    <date>Monday, June 13</date>
+		    <venue>Horseshoe Tavern, Toronto</venue>
+		    <headliner>
+		        <name>Eagulls</name>
+		    </headliner>
+		    <support>
+		        <name>The Effens</name>
+		    </support>
+		    <support>
+		        <name>Several Futures</name>
+		    </support>
+		    <notes>Ullages Tour</notes>
+		</show>
+		<show>
+		    <date>Wednesday, June 15</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Joy Formidable</name>
+		    </headliner>
+		    <support>
+		        <name>Ferraro</name>
+		    </support>
+		    <notes>Hitch Tour</notes>
+		</show>
+		<show>
+		    <date>Thursday, June 30</date>
+		    <venue>Garrison, Toronto</venue>
+		    <headliner>
+		        <name>Xiu Xiu</name>
+		    </headliner>
+		    <support>
+		        <name>Ice Cream</name>
+		    </support>
+		    <support>
+		        <name>New Fries</name>
+		    </support>
+		    <support>
+		        <name>LA Timpa</name>
+		    </support>
+		    <notes>Red Bull Sound Select / Wavelength Showcase</notes>
+		</show>
+		<show>
+		    <date>Sunday, July 3</date>
+		    <venue>Rex, Toronto</venue>
+		    <headliner>
+		        <name>Toronto Jazz Orchestra</name>
+		    </headliner>
+		    <notes>Radiohead Jazz Project</notes>
+		</show>
+		<show>
+		    <date>Saturday, July 9</date>
+		    <venue>Silver Dollar, Toronto</venue>
+		    <headliner>
+		        <name>Sleepy Kitty</name>
+		    </headliner>
+		    <support>
+		        <name>GirlOnGirl</name>
+		    </support>
+		    <support>
+		        <name>Thrifty Kids</name>
+		    </support>
+		    <support>
+		        <name>The Inanimates</name>
+		    </support>
+		    <notes>Flux Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, July 10</date>
+			<venue>Echo Beach, Toronto</venue>
+			<headliner>
+				<name>Noel Gallagher's High Flying Birds</name>
+			</headliner>
+			<notes>Chasing Yesterday Tour</notes>
+		</show>
+		<show>
+		    <date>Wednesday, July 13</date>
+		    <venue>Silver Dollar, Toronto</venue>
+		    <headliner>
+		        <name>High Waisted</name>
+		    </headliner>
+		    <support>
+		        <name>Blonde Elvis</name>
+		    </support>
+		    <support>
+		        <name>Explorers</name>
+		    </support>
+		    <notes>Eat Trash Be Free Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, July 15</date>
+		    <venue>Adelaide Music Hall, Toronto</venue>
+		    <headliner>
+		        <name>DZ Deathrays</name>
+		    </headliner>
+		    <support>
+		        <name>Stuck On Planet Earth</name>
+		    </support>
+		    <support>
+		        <name>Darenots</name>
+		    </support>
+		    <support>
+		        <name>Heart Attack Kids</name>
+		    </support>
+		    <notes>Black Rat Tour</notes>
+		</show>
+		<show>
+		    <date>Thursday, July 21</date>
+		    <venue>Beer Hall, Mill Street Brewery, Toronto</venue>
+		    <headliner>
+		        <name>White Lung</name>
+		    </headliner>
+		    <notes>Paradise Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, July 22</date>
+		    <venue>Harbourfront Centre, Toronto</venue>
+		    <headliner>
+		        <name>The Elwins</name>
+		    </headliner>
+		    <notes>Play For Keeps Tour</notes>
+		</show>
+		<show>
+		    <date>Saturday, July 23</date>
+		    <venue>Lee's Palace, Toronto</venue>
+		    <headliner>
+		        <name>Black Mountain</name>
+		    </headliner>
+		    <support>
+		        <name>Man Forever</name>
+		    </support>
+		    <notes>IV Tour</notes>
+		</show>
+		<show>
+		    <date>Monday, September 5</date>
+		    <venue>TD Summer Stage, Union Station, Toronto</venue>
+		    <headliner>
+		        <name>Dan Mangan</name>
+		    </headliner>
+		    <support>
+		        <name>Command Sisters</name>
+		    </support>
+		    <notes>Unmake Tour</notes>
+		</show>
+		<show>
+		    <date>Thursday, September 8</date>
+		    <venue>Opera House, Toronto</venue>
+		    <headliner>
+		        <name>Band Of Skulls</name>
+		    </headliner>
+		    <support>
+		        <name>Mothers</name>
+		    </support>
+		    <notes>By Default Tour</notes>
+		</show>
+		<show>
+		    <date>Tuesday, September 13</date>
+		    <venue>Dakota Tavern, Toronto</venue>
+		    <headliner>
+		        <name>Moon Vs. Sun</name>
+		    </headliner>
+		</show>
+		<show>
+		    <date>Friday, September 16</date>
+		    <venue>Distillery Fan Village, Toronto</venue>
+		    <headliner>
+		        <name>The Killers</name>
+		    </headliner>
+		    <support>
+		        <name>Sam Roberts Band</name>
+		    </support>
+		    <support>
+		        <name>Daya</name>
+		    </support>
+		    <notes>Pepsi World Cup of Hockey Premiere Party</notes>
+		</show>
+		<show>
+		    <date>Sunday, September 18</date>
+		    <venue>Lee's Palace, Toronto</venue>
+		    <headliner>
+		        <name>The New Pornographers</name>
+		    </headliner>
+		    <support>
+		        <name>Marlon Williams</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Thursday, September 22</date>
+		    <venue>Lee’s Palace, Toronto</venue>
+		    <headliner>
+		        <name>Allah-Las</name>
+		    </headliner>
+		    <support>
+		        <name>Tops</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, September 23</date>
+		    <venue>Distillery Fan Village, Toronto</venue>
+		    <headliner>
+		        <name>Lenny Kravitz</name>
+		    </headliner>
+		    <support>
+		        <name>The Standstills</name>
+		    </support>
+		    <notes>Distillery District Street Fest</notes>
+		</show>
+		<show>
+		    <date>Saturday, September 24</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Angel Olsen</name>
+		    </headliner>
+		    <support>
+		        <name>Rodrigo Amarante</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Monday, October 3</date>
+		    <venue>Danforth Music Hall, Toronto</venue>
+		    <headliner>
+		        <name>Warpaint</name>
+		    </headliner>
+		    <support>
+		        <name>Facial</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, October 7</date>
+		    <venue>Velvet Underground, Toronto</venue>
+		    <headliner>
+		        <name>Still Corners</name>
+		    </headliner>
+		</show>
+		<show>
+		    <date>Tuesday, October 18</date>
+		    <venue>Adelaide Music Hall, Toronto</venue>
+		    <headliner>
+		        <name>Smino</name>
+		    </headliner>
+		    <support>
+		        <name>Mick Jenkins</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, October 19</date>
+		    <venue>Garrison, Toronto</venue>
+		    <headliner>
+		        <name>Sunflower Bean</name>
+		    </headliner>
+		    <support>
+		        <name>The Lemon Twigs</name>
+		    </support>
+		    <support>
+		        <name>Elsa</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Sunday, October 23</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Wet</name>
+		    </headliner>
+		</show>
+		<show>
+		    <date>Monday, October 24</date>
+		    <venue>Lee's Palace, Toronto</venue>
+		    <headliner>
+		        <name>Temples</name>
+		    </headliner>
+		    <support>
+		        <name>Vinyl Williams</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, October 26</date>
+		    <venue>Lee’s Palace, Toronto</venue>
+		    <headliner>
+		        <name>White Lung</name>
+		    </headliner>
+		    <support>
+		        <name>Greys</name>
+		    </support>
+		    <support>
+		        <name>Flasher</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, October 28</date>
+		    <venue>Silver Dollar, Toronto</venue>
+		    <headliner>
+		        <name>La Sera</name>
+		    </headliner>
+		    <support>
+		        <name>Springtime Carnivore</name>
+		    </support>
+		    <support>
+		        <name>Stefanie McCarrol</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Saturday, October 29</date>
+		    <venue>Parkdale Public Library, Toronto</venue>
+		    <headliner>
+		        <name>Doomsquad</name>
+		    </headliner>
+		</show>
+		<show>
+		    <date>Saturday, October 29</date>
+		    <venue>Baby G, Toronto</venue>
+		    <headliner>
+		        <name>Sahara</name>
+		    </headliner>
+		    <support>
+		        <name>Ducks Unlimited</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Monday, October 31</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Boxer Rebellion</name>
+		    </headliner>
+		    <support>
+		        <name>Hey Anna</name>
+		    </support>
+		    <support>
+		        <name>Ry Cox</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Thursday, November 3</date>
+		    <venue>Horseshoe Tavern, Toronto</venue>
+		    <headliner>
+		        <name>The Veils</name>
+		    </headliner>
+		    <support>
+		        <name>The Inanimates</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, November 4</date>
+		    <venue>Richmond Hill Centre For The Performing Arts, Richmond Hill</venue>
+		    <headliner>
+		        <name>Tokyo Police Club</name>
+		    </headliner>
+		    <support>
+		        <name>The Elwins</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Monday, November 7</date>
+		    <venue>Fillmore, Philadelphia</venue>
+		    <headliner>
+		        <name>Black Rebel Motorcycle Club</name>
+		    </headliner>
+		    <support>
+		        <name>Death From Above 1979</name>
+		    </support>
+		    <support>
+		        <name>Deap Vally</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Tuesday, November 8</date>
+		    <venue>Terminal 5, New York City</venue>
+		    <headliner>
+		        <name>Black Rebel Motorcycle Club</name>
+		    </headliner>
+		    <support>
+		        <name>Death From Above 1979</name>
+		    </support>
+		    <support>
+		        <name>Deap Vally</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, November 9</date>
+		    <venue>Paramount, Huntington, New York</venue>
+		    <headliner>
+		        <name>Black Rebel Motorcycle Club</name>
+		    </headliner>
+		    <support>
+		        <name>Death From Above 1979</name>
+		    </support>
+		    <support>
+		        <name>Deap Vally</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Thursday, November 10</date>
+		    <venue>Ed Sullivan's Theatre, New York</venue>
+		    <headliner>
+		        <name>Sting</name>
+		    </headliner>
+		    <notes>The Late Show With Stephen Colbert</notes>
+		</show>
+		<show>
+		    <date>Thursday, November 10</date>
+		    <venue>Baby's All Right, Brooklyn</venue>
+		    <headliner>
+		        <name>Rural Alberta Advantage</name>
+		    </headliner>
+		    <support>
+		        <name>Winstons</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, November 11</date>
+		    <venue>Fillmore, Washington, D.C.</venue>
+		    <headliner>
+		        <name>Black Rebel Motorcycle Club</name>
+		    </headliner>
+		    <support>
+		        <name>Death From Above 1979</name>
+		    </support>
+		    <support>
+		        <name>Deap Vally</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Saturday, November 12</date>
+		    <venue>House Of Blues, Boston</venue>
+		    <headliner>
+		        <name>Black Rebel Motorcycle Club</name>
+		    </headliner>
+		    <support>
+		        <name>Death From Above 1979</name>
+		    </support>
+		    <support>
+		        <name>Deap Vally</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Thursday, November 17</date>
+		    <venue>Lee's Palace, Toronto</venue>
+		    <headliner>
+		        <name>The Balconies</name>
+		    </headliner>
+		    <support>
+		        <name>Curses</name>
+		    </support>
+		    <support>
+		        <name>Foreign Diplomats</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Tuesday, November 22</date>
+		    <venue>Sound Academy, Toronto</venue>
+		    <headliner>
+		        <name>Two Door Cinema Club</name>
+		    </headliner>
+		    <support>
+		        <name>Broods</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, November 23</date>
+		    <venue>Phoenix Concert Theatre, Toronto</venue>
+		    <headliner>
+		        <name>The Darcys</name>
+		    </headliner>
+		    <support>
+		        <name>Bear Mountain</name>
+		    </support>
+		    <support>
+		        <name>The Beaches</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, November 25</date>
+		    <venue>Lee's Palace, Toronto</venue>
+		    <headliner>
+		        <name>The Jezabels</name>
+		    </headliner>
+		    <support>
+		        <name>Los</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, November 30</date>
+		    <venue>Danforth Music Hall, Toronto</venue>
+		    <headliner>
+		        <name>Wintersleep</name>
+		    </headliner>
+		    <support>
+		        <name>Fake Palms</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Friday, December 2</date>
+		    <venue>Lee's Palace, Toronto</venue>
+		    <headliner>
+		        <name>Dilly Dally</name>
+		    </headliner>
+		    <support>
+		        <name>Beliefs</name>
+		    </support>
+		    <support>
+		        <name>Bad Channels</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Saturday, December 3</date>
+		    <venue>Velvet Underground, Toronto</venue>
+		    <headliner>
+		        <name>SuperSonic</name>
+		    </headliner>
+		    <support>
+		        <name>The Nursery</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, December 7</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Hannah Georgas</name>
+		    </headliner>
+		    <support>
+		        <name>Uni Ika Ai</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Thursday, December 8</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Torkyo Police Club</name>
+		    </headliner>
+		    <support>
+		        <name>Your Boy Tony Braxton</name>
+		    </support>
+		    <support>
+		        <name>Lookalike</name>
+		    </support>
+		    <notes>Melon Collie And The Infinite Radness Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, December 9</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Torkyo Police Club</name>
+		    </headliner>
+		    <support>
+		        <name>Your Boy Tony Braxton</name>
+		    </support>
+		    <support>
+		        <name>Lookalike</name>
+		    </support>
+		    <notes>Melon Collie And The Infinite Radness Tour</notes>
+		</show>
+		<show>
+		    <date>Saturday, December 10</date>
+		    <venue>Mod Club Theatre, Toronto</venue>
+		    <headliner>
+		        <name>Torkyo Police Club</name>
+		    </headliner>
+		    <support>
+		        <name>Your Boy Tony Braxton</name>
+		    </support>
+		    <support>
+		        <name>Lookalike</name>
+		    </support>
+		    <notes>Melon Collie And The Infinite Radness Tour</notes>
+		</show>
+		<show>
+		    <date>Friday, December 16</date>
+		    <venue>Danforth Music Hall, Toronto</venue>
+		    <headliner>
+		        <name>Pup</name>
+		    </headliner>
+		    <support>
+		        <name>The Dirty Nil</name>
+		    </support>
+		    <support>
+		        <name>Pkew Pkew Pkew</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Wednesday, December 21</date>
+		    <venue>Danforth Music Hall, Toronto</venue>
+		    <headliner>
+		        <name>Stars</name>
+		    </headliner>
+		    <support>
+		        <name>The Queer Songbook Orchestra</name>
+		    </support>
+		</show>
+		<show>
+		    <date>Saturday, December 31</date>
+		    <venue>Silver Dollar, Toronto</venue>
+		    <headliner>
+		        <name>Prince Ness</name>
+		    </headliner>
+		    <support>
+		        <name>Scott Hardware</name>
+		    </support>
+		</show>
+	</annual>
+	
+	<annual>
+	    <year>2017</year>
+	    <show>
+	        <date>Friday, January 6</date>
+	        <headliner>
+	            <name>Partner</name>
+	        </headliner>
+	        <support>
+	            <name>The Seams</name>
+	        </support>
+	        <support>
+	            <name>Lonely Parade</name>
+	        </support>
+	        <support>
+	            <name>Veins</name>
+	        </support>
+	        <notes>Class Of 2017</notes>
+	    </show>
+	    <show>
+	        <date>Friday, January 20</date>
+	        <venue>Mod Club Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Austra</name>
+	        </headliner>
+	        <support>
+	            <name>Lafawndah</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Friday, January 27</date>
+	        <venue>Markham Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Sloan</name>
+	        </headliner>
+	        <notes>One Chord To Another 20th Anniversary Tour</notes>
+	    </show>
+	    <show>
+	        <date>Saturday, February 4</date>
+	        <venue>Danforth Music Hall, Toronto</venue>
+	        <headliner>
+	            <name>Coeur De Pirate</name>
+	        </headliner>
+	        <support>
+	            <name>KROY</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Tuesday, February 7</date>
+	        <venue>Garrison, Toronto</venue>
+	        <headliner>
+	            <name>Leon</name>
+	        </headliner>
+	        <support>
+	            <name>Jacob Banks</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, February 11</date>
+	        <venue>Baby G, Toronto</venue>
+	        <headliner>
+	            <name>No Joy</name>
+	        </headliner>
+	        <support>
+	            <name>Mimico</name>
+	        </support>
+	        <support>
+	            <name>Sprawls</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Friday, February 17</date>
+	        <venue>Danforth Music Hall, Toronto</venue>
+	        <headliner>
+	            <name>Japandroids</name>
+	        </headliner>
+	        <support>
+	            <name>Craig Finn &amp; The Uptown Controllers</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, February 18</date>
+	        <venue>Garrison, Toronto</venue>
+	        <headliner>
+	            <name>Fake Palms</name>
+	        </headliner>
+	        <support>
+	            <name>FET.NAT</name>
+	        </support>
+	        <support>
+	            <name>WHOOP-Szo</name>
+	        </support>
+	        <support>
+	            <name>Helena Deland</name>
+	        </support>
+	        <notes>Wavelength Music Festival 17</notes>
+	    </show>
+	    <show>
+	        <date>Saturday, Feburary 25</date>
+	        <venue>Linsmore Tavern, Toronto</venue>
+	        <headliner>
+	            <name>SuperSonic</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Friday, March 3</date>
+	        <venue>Royal Ontario Museum, Toronto</venue>
+	        <headliner>
+	            <name>Luna Li</name>
+	        </headliner>
+	        <notes>ROM Winter Fridays With Women In Music Canada</notes>
+	    </show>
+	    <show>
+	        <date>Monday, March 27</date>
+	        <venue>Troubadour, Los Angeles</venue>
+	        <headliner>
+	            <name>Eisley</name>
+	        </headliner>
+	        <support>
+	            <name>Civillian</name>
+	        </support>
+	        <support>
+	            <name>Backwards Dancer</name>
+	        </support>
+	        <notes>I'm Only Dreaming Tour</notes>
+	    </show>
+	    <show>
+	        <date>Tuesday, March 28</date>
+	        <venue>El Rey Theatre, Los Angeles</venue>
+	        <headliner>
+	            <name>Sleigh Bells</name>
+	        </headliner>
+	        <support>
+	            <name>Tunde Olaniran</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Friday, March 31</date>
+	        <venue>Casbah, San Diego</venue>
+	        <headliner>
+	            <name>Mrs. Henry</name>
+	        </headliner>
+	        <support>
+	            <name>Mission Creeps</name>
+	        </support>
+	        <support>
+	            <name>Strawberry Moons</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, April 1</date>
+	        <venue>Spreckels Theatre, San Diego</venue>
+	        <headliner>
+	            <name>Richard Ashcroft</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Thursday, April 20</date>
+	        <venue>Silver Dollar, Toronto</venue>
+	        <headliner>
+	            <name>Japanese Breakfast</name>
+	        </headliner>
+	        <support>
+	            <name>The Seams</name>
+	        </support>
+	        <support>
+	            <name>Yi</name>
+	        </support>
+	        <support>
+	            <name>Luna Li</name>
+	        </support>
+	        <support>
+	            <name>Teagan Johnston</name>
+	        </support>
+	        <notes>NeXT @ CMW</notes>
+	    </show>
+	    <show>
+	        <date>Friday, April 21</date>
+	        <venue>Horseshoe Tavern, Toronto</venue>
+	        <headliner>
+	            <name>The Beaches</name>
+	        </headliner>
+	        <support>
+	            <name>Common Deer</name>
+	        </support>
+	        <support>
+	            <name>Shy Kids</name>
+	        </support>
+	        <support>
+	            <name>Sc Mira</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, April 22</date>
+	        <venue>Sonic Boom, Toronto</venue>
+	        <headliner>
+	            <name>Lonely Parade</name>
+	        </headliner>
+	        <support>
+	            <name>Sahara</name>
+	        </support>
+	        <notes>RSD17 In-Store</notes>
+	    </show>
+	    <show>
+	        <date>Friday, April 28</date>
+	        <venue>Silver Dollar, Toronto</venue>
+	        <headliner>
+	            <name>Dilly Dally</name>
+	        </headliner>
+	        <support>
+	            <name>Darlene Shrugg</name>
+	        </support>
+	        <support>
+	            <name>Frigs</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, May 6</date>
+	        <venue>Danforth Music Hall, Toronto</venue>
+	        <headliner>
+	            <name>The Black Angels</name>
+	        </headliner>
+	        <support>
+	            <name>A Place To Bury Strangers</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, May 27</date>
+	        <venue>R. C. Harris Water Treatment Plant, Toronto</venue>
+	        <headliner>
+	            <name>Fresh Snow</name>
+	        </headliner>
+	        <notes>Wavelength @ Doors Open</notes>
+	    </show>
+	    <show>
+	        <date>Saturday, May 27</date>
+	        <venue>Masonic Temaple, Toronto</venue>
+	        <headliner>
+	            <name>Kurt Marble</name>
+	        </headliner>
+	        <notes>Wavelength @ Doors Open</notes>
+	    </show>
+	    <show>
+	        <date>Tuesday, June 6</date>
+	        <venue>Le Trianon, Paris</venue>
+	        <headliner>
+	            <name>Angel Olsen</name>
+	        </headliner>
+	        <support>
+	            <name>Chris Cohen</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, June 17</date>
+	        <venue>Roy Thomson Hall, Toronto</venue>
+	        <headliner>
+	            <name>Carly Rae Jepsen</name>
+	        </headliner>
+	        <notes>TSO</notes>
+	    </show>
+	    <show>
+	        <date>Saturday, June 17</date>
+	        <venue>Adelaide Music Hall, Toronto</venue>
+	        <headliner>
+	            <name>Dave Monks</name>
+	        </headliner>
+	        <support>
+	            <name>Fake Palms</name>
+	        </support>
+	        <notes>Discogs Presents Crate Diggers After Party</notes>
+	    </show>
+	    <show>
+	        <date>Tuesday, June 20</date>
+	        <venue>Baby G, Toronto</venue>
+	        <headliner>
+	            <name>Bueller</name>
+	        </headliner>
+	        <support>
+	            <name>Regina</name>
+	        </support>
+	        <support>
+	            <name>Emperor X</name>
+	        </support>
+	        <notes>NXNE 2017 / Leah Fay Curated Showcase</notes>
+	    </show>
+	    <show>
+	        <date>Wednesday, June 21</date>
+	        <venue>Garrison, Toronto</venue>
+	        <headliner>
+	            <name>Secret Satanists</name>
+	        </headliner>
+	        <support>
+	            <name>Big School</name>
+	        </support>
+	        <support>
+	            <name>New Lov</name>
+	        </support>
+	        <notes>NXNE 2017 / The Dirty Nil Curated Showcase</notes>
+	    </show>
+	    <show>
+	        <date>Tuesday, June 27</date>
+	        <venue>Harbourfront Centre, Toronto</venue>
+	        <headliner>
+	            <name>Kardinal Offishall</name>
+	        </headliner>
+	        <notes>Multiculturalism Day</notes>
+	    </show>
+	    <show>
+	        <date>Friday, June 30</date>
+	        <venue>Nathan Phillips Square, Toronto</venue>
+	        <headliner>
+	            <name>Barenaked Ladies</name>
+	        </headliner>
+	        <support>
+	            <name>Buffy Sainte Marie</name>
+	        </support>
+	        <notes>Canada Days 150</notes>
+	    </show>
+	    <show>
+	        <date>Sunday, July 2</date>
+	        <venue>Velvet Underground, Toronto</venue>
+	        <headliner>
+	            <name>(Sandy) Alex G</name>
+	        </headliner>
+	        <support>
+	            <name>Japanese Breakfast</name>
+	        </support>
+	        <support>
+	            <name>Cende</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, July 8</date>
+	        <venue>Harbourfront Centre, Toronto</venue>
+	        <headliner>
+	            <name>The Harpoonist &amp; The Axe Murderer</name>
+	        </headliner>
+	        <notes>Prairies To Pacific Festival</notes>
+	    </show>
+	    <show>
+	        <date>Friday, July 14</date>
+	        <venue>Roy Thomson Hall, Toronto</venue>
+	        <headliner>
+	            <name>The Dears</name>
+	        </headliner>
+	        <support>
+	            <name>Lou Canon</name>
+	        </support>
+	        <notes>Live On The Patio: Paper Bag Records Night / Times Infinity Volume Two Tour</notes>
+	    </show>
+	    <show>
+	        <date>Saturday, July 15</date>
+	        <venue>Harbourfront Centre, Toronto</venue>
+	        <headliner>
+	            <name>Tuns</name>
+	        </headliner>
+	        <support>
+	            <name>Lisa LeBlanc</name>
+	        </support>
+	        <notes>Shield To Shore Festival</notes>
+	    </show>
+	    <show>
+	        <date>Sunday, July 16</date>
+	        <venue>Harbourfront Centre, Toronto</venue>
+	        <headliner>
+	            <name>The Sadies</name>
+	        </headliner>
+	        <notes>Shield To Shores Festival</notes>
+	    </show>
+	    <show>
+	        <date>Friday, July 21</date>
+	        <venue>Yonge-Dundas Square, Toronto</venue>
+	        <headliner>
+	            <name>The Pack A.D.</name>
+	        </headliner>
+	        <support>
+	            <name>Ginger Ale &amp; The Monowhales</name>
+	        </support>
+	        <notes>Chevrolet Indie Fridays</notes>
+	    </show>
+	    <show>
+	        <date>Tuesday, August 8</date>
+	        <venue>Horseshoe Tavern, Toronto</venue>
+	        <headliner>
+	            <name>Slothrust</name>
+	        </headliner>
+	        <support>
+	            <name>Tancred</name>
+	        </support>
+	        <support>
+	            <name>Danielle Duval</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Friday, August 11</date>
+	        <venue>Phoenix Concert Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Michelle Branch</name>
+	        </headliner>
+	        <support>
+	            <name>Haerts</name>
+	        </support>
+	        <notes>The Hopeless Romantic Tour</notes>
+	    </show>
+	    <show>
+	    	<date>Saturday, August 19</date>
+	    	<venue>Harbourfront Centre, Toronto</venue>
+	    	<headliner>
+	    		<name>Austra</name>
+	    	</headliner>
+	    	<notes>Beats, Breaks &amp; Culture Festival</notes>
+	    </show>
+	    <show>
+	        <date>Friday, August 25</date>
+	        <venue>Bovine Sex Club, Toronto</venue>
+	        <headliner>
+	            <name>Joydrop</name>
+	        </headliner>
+	        <support>
+	            <name>The Matte Black Finish</name>
+	        </support>
+	        <support>
+	            <name>Macolly</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Monday, September 11</date>
+	        <venue>Garrison, Toronto</venue>
+	        <headliner>
+	            <name>Widowspeak</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Thursday, September 14</date>
+	        <venue>Lee's Palace, Toronto</venue>
+	        <headliner>
+	            <name>Beach Slang</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Saturday, September 16</date>
+	        <venue>Horseshoe Tavern, Toronto</venue>
+	        <headliner>
+	            <name>Jay Som</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Sunday, September 17</date>
+	        <venue>Mod Club Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Public Service Broadcasting</name>
+	        </headliner>
+	    </show>
+	    <!-- Dwayne 2000, The Opera House September 22/3 -->
+	    <show>
+	        <date>Saturday, October 7</date>
+	        <venue>Garrison, Toronto</venue>
+	        <headliner>
+	            <name>Japanese Breakfast</name>
+	        </headliner>
+	        <support>
+	            <name>Mannequin Pussy</name>
+	        </support>
+	        <support>
+	            <name>The Spirit Of The Beehive</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Saturday, October 14</date>
+	        <venue>Lee's Palace, Toronto</venue>
+	        <headliner>
+	            <name>Beach Fossils</name>
+	        </headliner>
+	    </show> 
+	    Pickwick @ Horseshoe - October 15
+	    <show>
+	        <date>Wednesday, October 18</date>
+	        <venue>Mod Club Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Benjamin Booker</name>
+	        </headliner>
+	    </show>
+	    <!-- Lissie @ The Rivoli - October 20
+	    Cults @ Lee's Palace - October 20  -->
+	    <show>
+	        <date>Saturday, October 21</date>
+	        <venue>Opera House, Toronto</venue>
+	        <headliner>
+	            <name>Chelsea Wolfe</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Friday, October 27</date>
+	        <venue>Academy, Manchester</venue>
+	        <headliner>
+	            <name>Black Rebel Motorcycle Club</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Saturday, October 28</date>
+	        <venue>02 Academy, Birmingham</venue>
+	        <headliner>
+	            <name>Black Rebel Motorcycle Club</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Saturday, November 11</date>
+	        <venue>Mod Club Theatre, Toronto</venue>
+	        <headliner>
+	            <name>The Drums</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Wednesday, November 15</date>
+	        <venue>Garrison, Toronto</venue>
+	        <headliner>
+	            <name>EMA</name>
+	        </headliner>
+	        <support>
+	            <name>The Blow</name>
+	        </support>
+	    </show>
+	    <show>
+	        <date>Friday, November 17</date>
+	        <venue>Phoenix Concert Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Wannabe</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Tuesday, November 21</date>
+	        <venue>Horseshoe Tavern, Toronto</venue>
+	        <headliner>
+	            <name>Son Little</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Thursday, November 23</date>
+	        <venue>Rebel, Toronto</venue>
+	        <headliner>
+	            <name>Liam Gallagher</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Saturday, November 25</date>
+	        <venue>Velvet Underground, Toronto</venue>
+	        <headliner>
+	            <name>SuperSonic</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Friday, December 1</date>
+	        <venue>Danforth Music Hall, Toronto</venue>
+	        <headliner>
+	            <name>Wolf Alice</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Tuesday, December 5</date>
+	        <venue>Massey Hall, Toronto</venue>
+	        <headliner>
+	            <name>Emily Haines &amp; The Soft Skeleton</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Wednesday, December 6</date>
+	        <venue>Phoenix Concert Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Angel Olsen</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Wednesday, December 13</date>
+	        <venue>Mod Club, Toronto</venue>
+	        <headliner>
+	            <name>Alvvays</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Thursday, December 14</date>
+	        <venue>Mod Club, Toronto</venue>
+	        <headliner>
+	            <name>Alvvays</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Friday, December 15</date>
+	        <venue>Mod Club, Toronto</venue>
+	        <headliner>
+	            <name>Alvvays</name>
+	        </headliner>
+	    </show>
+	    <show>
+	        <date>Saturday, December 16</date>
+	        <venue>Mod Club, Toronto</venue>
+	        <headliner>
+	            <name>Alvvays</name>
+	        </headliner>
+	    </show>
+	</annual>
+</shows>

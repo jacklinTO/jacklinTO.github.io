@@ -1,3 +1,40 @@
-<html>
-	<body>Hello World!</body>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="shortcut icon" href="site.ico" />
+		<meta charset="utf-8" />
+		<script language="JavaScript">
+			function loadXMLDoc(document) {
+				if (window.XMLHttpRequest) {
+					xhttp = new XMLHttpRequest();
+				} else {
+					xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xhttp.open("GET", document, false);
+				xhttp.send("");
+				return xhttp.responseXML;
+			}
+			
+			function displayResult() {
+				xml = loadXMLDoc("resources/shows.xml");
+				xsl = loadXMLDoc("resources/shows.xsl");
+				
+				// code for IE
+				if (window.ActiveXObject) {
+					ex = xml.transformNode(xsl);
+					//document.getElementById("shows").innerHTML = ex;
+					document.write(ex);
+				} else if (document.implementation && document.implementation.createDocument) {
+					xsltProcessor = new XSLTProcessor();
+					xsltProcessor.importStylesheet(xsl);
+					resultDocument = xsltProcessor.transformToFragment(xml, document);
+					document.getElementById("shows").appendChild(resultDocument);
+					//document.appendChild(resultDocument);
+				} // code for Chrome, Firefox, Opera, etc.
+			}
+		</script>
+	</head>
+	<body onload="displayResult()">
+		<div id="shows" />
+	</body>
 </html>
