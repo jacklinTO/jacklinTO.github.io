@@ -5372,6 +5372,7 @@
 		    <headliner>
 		        <name>Moon Vs. Sun</name>
 		    </headliner>
+		    <notes>An Intimate Evening With Raine Maida And Chantal Kreviazuk</notes>
 		</show>
 		<show>
 		    <date>Friday, September 16</date>
@@ -5396,6 +5397,7 @@
 		    <support>
 		        <name>Marlon Williams</name>
 		    </support>
+		    <notes>Whiteout Conditions Tour</notes>
 		</show>
 		<show>
 		    <date>Thursday, September 22</date>
@@ -5406,6 +5408,7 @@
 		    <support>
 		        <name>Tops</name>
 		    </support>
+		    <notes>Calico Review Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, September 23</date>
@@ -5427,6 +5430,7 @@
 		    <support>
 		        <name>Rodrigo Amarante</name>
 		    </support>
+		    <notes>My Woman Tour</notes>
 		</show>
 		<show>
 		    <date>Monday, October 3</date>
@@ -5437,6 +5441,7 @@
 		    <support>
 		        <name>Facial</name>
 		    </support>
+		    <notes>Heads Up Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, October 7</date>
@@ -5444,6 +5449,7 @@
 		    <headliner>
 		        <name>Still Corners</name>
 		    </headliner>
+		    <notes>Dead Blue Tour</notes>
 		</show>
 		<show>
 		    <date>Tuesday, October 18</date>
@@ -5454,6 +5460,7 @@
 		    <support>
 		        <name>Mick Jenkins</name>
 		    </support>
+		    <notes>S!Ck S!Ck S!Ck Tour</notes>
 		</show>
 		<show>
 		    <date>Wednesday, October 19</date>
@@ -5467,6 +5474,7 @@
 		    <support>
 		        <name>Elsa</name>
 		    </support>
+		    <notes>Human Ceremony Tour</notes>
 		</show>
 		<show>
 		    <date>Sunday, October 23</date>
@@ -5474,6 +5482,7 @@
 		    <headliner>
 		        <name>Wet</name>
 		    </headliner>
+		    <notes>Don't You Tour</notes>
 		</show>
 		<show>
 		    <date>Monday, October 24</date>
@@ -5484,6 +5493,7 @@
 		    <support>
 		        <name>Vinyl Williams</name>
 		    </support>
+		    <notes>Certainty Tour</notes>
 		</show>
 		<show>
 		    <date>Wednesday, October 26</date>
@@ -5497,6 +5507,7 @@
 		    <support>
 		        <name>Flasher</name>
 		    </support>
+		    <notes>Paradise Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, October 28</date>
@@ -5510,6 +5521,7 @@
 		    <support>
 		        <name>Stefanie McCarrol</name>
 		    </support>
+		    <notes>Music For Listening To Music To Tour</notes>
 		</show>
 		<show>
 		    <date>Saturday, October 29</date>
@@ -5517,6 +5529,7 @@
 		    <headliner>
 		        <name>Doomsquad</name>
 		    </headliner>
+		    <notes>Live In The Stacks / Total Time Tour</notes>
 		</show>
 		<show>
 		    <date>Saturday, October 29</date>
@@ -5527,12 +5540,13 @@
 		    <support>
 		        <name>Ducks Unlimited</name>
 		    </support>
+		    <notes>Sahara Tour</notes>
 		</show>
 		<show>
 		    <date>Monday, October 31</date>
 		    <venue>Mod Club Theatre, Toronto</venue>
 		    <headliner>
-		        <name>Boxer Rebellion</name>
+		        <name>The Boxer Rebellion</name>
 		    </headliner>
 		    <support>
 		        <name>Hey Anna</name>
@@ -5540,6 +5554,7 @@
 		    <support>
 		        <name>Ry Cox</name>
 		    </support>
+		    <notes>Ocean By Ocean Tour</notes>
 		</show>
 		<show>
 		    <date>Thursday, November 3</date>
@@ -5550,6 +5565,7 @@
 		    <support>
 		        <name>The Inanimates</name>
 		    </support>
+		    <notes>Total Depravity Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, November 4</date>
@@ -5560,6 +5576,7 @@
 		    <support>
 		        <name>The Elwins</name>
 		    </support>
+		    <notes>Melon Collie And The Infinite Radness Tour</notes>
 		</show>
 		<show>
 		    <date>Monday, November 7</date>
@@ -5573,6 +5590,7 @@
 		    <support>
 		        <name>Deap Vally</name>
 		    </support>
+		    <notes>Specter At The Feast Tour</notes>
 		</show>
 		<show>
 		    <date>Tuesday, November 8</date>
@@ -5586,6 +5604,7 @@
 		    <support>
 		        <name>Deap Vally</name>
 		    </support>
+		    <notes>Specter At The Feast Tour</notes>
 		</show>
 		<show>
 		    <date>Wednesday, November 9</date>
@@ -5599,6 +5618,7 @@
 		    <support>
 		        <name>Deap Vally</name>
 		    </support>
+		    <notes>Specter At The Feast Tour</notes>
 		</show>
 		<show>
 		    <date>Thursday, November 10</date>
@@ -5606,7 +5626,7 @@
 		    <headliner>
 		        <name>Sting</name>
 		    </headliner>
-		    <notes>The Late Show With Stephen Colbert</notes>
+		    <notes>The Late Show With Stephen Colbert / 57th &amp; 9th Tour</notes>
 		</show>
 		<show>
 		    <date>Thursday, November 10</date>
@@ -5617,6 +5637,7 @@
 		    <support>
 		        <name>Winstons</name>
 		    </support>
+		    <notes>White Light Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, November 11</date>
@@ -5630,6 +5651,7 @@
 		    <support>
 		        <name>Deap Vally</name>
 		    </support>
+		    <notes>Specter At The Feast Tour</notes>
 		</show>
 		<show>
 		    <date>Saturday, November 12</date>
@@ -5643,6 +5665,7 @@
 		    <support>
 		        <name>Deap Vally</name>
 		    </support>
+		    <notes>Specter At The Feast Tour</notes>
 		</show>
 		<show>
 		    <date>Thursday, November 17</date>
@@ -5656,6 +5679,7 @@
 		    <support>
 		        <name>Foreign Diplomats</name>
 		    </support>
+		    <notes>Rhonda Tour</notes>
 		</show>
 		<show>
 		    <date>Tuesday, November 22</date>
@@ -5666,6 +5690,7 @@
 		    <support>
 		        <name>Broods</name>
 		    </support>
+		    <notes>Gameshow Tour</notes>
 		</show>
 		<show>
 		    <date>Wednesday, November 23</date>
@@ -5679,6 +5704,7 @@
 		    <support>
 		        <name>The Beaches</name>
 		    </support>
+		    <notes>WayHome For The Holidays / Centerfold Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, November 25</date>
@@ -5689,6 +5715,7 @@
 		    <support>
 		        <name>Los</name>
 		    </support>
+		    <notes>Synthia Tour</notes>
 		</show>
 		<show>
 		    <date>Wednesday, November 30</date>
@@ -5699,6 +5726,7 @@
 		    <support>
 		        <name>Fake Palms</name>
 		    </support>
+		    <notes>The Great Detachment Tour</notes>
 		</show>
 		<show>
 		    <date>Friday, December 2</date>
@@ -5712,6 +5740,7 @@
 		    <support>
 		        <name>Bad Channels</name>
 		    </support>
+		    <notes>Sore Tour</notes>
 		</show>
 		<show>
 		    <date>Saturday, December 3</date>
@@ -5722,6 +5751,7 @@
 		    <support>
 		        <name>The Nursery</name>
 		    </support>
+		    <notes>Oasis Tribute Band</notes>
 		</show>
 		<show>
 		    <date>Wednesday, December 7</date>
@@ -5732,6 +5762,7 @@
 		    <support>
 		        <name>Uni Ika Ai</name>
 		    </support>
+		    <notes>For Evelyn Tour</notes>
 		</show>
 		<show>
 		    <date>Thursday, December 8</date>
@@ -5787,6 +5818,7 @@
 		    <support>
 		        <name>Pkew Pkew Pkew</name>
 		    </support>
+		    <notes>The Dream Is Over Tour</notes>
 		</show>
 		<show>
 		    <date>Wednesday, December 21</date>
@@ -5807,6 +5839,7 @@
 		    <support>
 		        <name>Scott Hardware</name>
 		    </support>
+		    <notes>New Year's Eve Show</notes>
 		</show>
 	</annual>
 	
@@ -5814,6 +5847,7 @@
 	    <year>2017</year>
 	    <show>
 	        <date>Friday, January 6</date>
+	        <venue>Silver Dollar, Toronto</venue>
 	        <headliner>
 	            <name>Partner</name>
 	        </headliner>
@@ -5837,6 +5871,7 @@
 	        <support>
 	            <name>Lafawndah</name>
 	        </support>
+	        <notes>Future Politics Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, January 27</date>
@@ -5855,6 +5890,7 @@
 	        <support>
 	            <name>KROY</name>
 	        </support>
+	        <notes>Roses Tour</notes>
 	    </show>
 	    <show>
 	        <date>Tuesday, February 7</date>
@@ -5865,6 +5901,7 @@
 	        <support>
 	            <name>Jacob Banks</name>
 	        </support>
+	        <notes>For You Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, February 11</date>
@@ -5878,6 +5915,7 @@
 	        <support>
 	            <name>Sprawls</name>
 	        </support>
+	        <notes>Creep Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, February 17</date>
@@ -5888,6 +5926,7 @@
 	        <support>
 	            <name>Craig Finn &amp; The Uptown Controllers</name>
 	        </support>
+	        <notes>Near To The Wild Heart Of Life Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, February 18</date>
@@ -5912,6 +5951,7 @@
 	        <headliner>
 	            <name>SuperSonic</name>
 	        </headliner>
+	        <notes>Oasis Tribute Band</notes>
 	    </show>
 	    <show>
 	        <date>Friday, March 3</date>
@@ -5944,6 +5984,7 @@
 	        <support>
 	            <name>Tunde Olaniran</name>
 	        </support>
+	        <notes>Jessica Rabbit Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, March 31</date>
@@ -5957,6 +5998,7 @@
 	        <support>
 	            <name>Strawberry Moons</name>
 	        </support>
+	        <notes>Mrs. Henry Vol I Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, April 1</date>
@@ -5964,6 +6006,7 @@
 	        <headliner>
 	            <name>Richard Ashcroft</name>
 	        </headliner>
+	        <notes>These People Tour</notes>
 	    </show>
 	    <show>
 	        <date>Thursday, April 20</date>
@@ -5983,7 +6026,7 @@
 	        <support>
 	            <name>Teagan Johnston</name>
 	        </support>
-	        <notes>NeXT @ CMW</notes>
+	        <notes>NeXT @ CMW / Psychopomp Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, April 21</date>
@@ -6000,6 +6043,7 @@
 	        <support>
 	            <name>Sc Mira</name>
 	        </support>
+	        <notes>Money Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, April 22</date>
@@ -6010,7 +6054,7 @@
 	        <support>
 	            <name>Sahara</name>
 	        </support>
-	        <notes>RSD17 In-Store</notes>
+	        <notes>RSD17 In-Store / No Shade Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, April 28</date>
@@ -6024,6 +6068,7 @@
 	        <support>
 	            <name>Frigs</name>
 	        </support>
+	        <notes>Sour Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, May 6</date>
@@ -6034,6 +6079,7 @@
 	        <support>
 	            <name>A Place To Bury Strangers</name>
 	        </support>
+	        <notes>Death Song Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, May 27</date>
@@ -6041,7 +6087,7 @@
 	        <headliner>
 	            <name>Fresh Snow</name>
 	        </headliner>
-	        <notes>Wavelength @ Doors Open</notes>
+	        <notes>Wavelength @ Doors Open / One Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, May 27</date>
@@ -6049,7 +6095,7 @@
 	        <headliner>
 	            <name>Kurt Marble</name>
 	        </headliner>
-	        <notes>Wavelength @ Doors Open</notes>
+	        <notes>Wavelength @ Doors Open / Friend Of Mine Tour</notes>
 	    </show>
 	    <show>
 	        <date>Tuesday, June 6</date>
@@ -6060,6 +6106,7 @@
 	        <support>
 	            <name>Chris Cohen</name>
 	        </support>
+	        <notes>My Woman Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, June 17</date>
@@ -6067,7 +6114,7 @@
 	        <headliner>
 	            <name>Carly Rae Jepsen</name>
 	        </headliner>
-	        <notes>TSO</notes>
+	        <notes>Toronto Symphony Orchestra / Emotion Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, June 17</date>
@@ -6078,7 +6125,7 @@
 	        <support>
 	            <name>Fake Palms</name>
 	        </support>
-	        <notes>Discogs Presents Crate Diggers After Party</notes>
+	        <notes>Discogs Presents Crate Diggers After Party / All Signs Point To Yes​ Tour</notes>
 	    </show>
 	    <show>
 	        <date>Tuesday, June 20</date>
@@ -6139,6 +6186,7 @@
 	        <support>
 	            <name>Cende</name>
 	        </support>
+	        <notes>Rocket Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, July 8</date>
@@ -6146,7 +6194,7 @@
 	        <headliner>
 	            <name>The Harpoonist &amp; The Axe Murderer</name>
 	        </headliner>
-	        <notes>Prairies To Pacific Festival</notes>
+	        <notes>Prairies To Pacific Festival / Apocalipstick Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, July 14</date>
@@ -6168,7 +6216,7 @@
 	        <support>
 	            <name>Lisa LeBlanc</name>
 	        </support>
-	        <notes>Shield To Shore Festival</notes>
+	        <notes>Shield To Shore Festival / Tuns Tour</notes>
 	    </show>
 	    <show>
 	        <date>Sunday, July 16</date>
@@ -6176,7 +6224,7 @@
 	        <headliner>
 	            <name>The Sadies</name>
 	        </headliner>
-	        <notes>Shield To Shores Festival</notes>
+	        <notes>Shield To Shores Festival / Northern Passages Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, July 21</date>
@@ -6187,7 +6235,7 @@
 	        <support>
 	            <name>Ginger Ale &amp; The Monowhales</name>
 	        </support>
-	        <notes>Chevrolet Indie Fridays</notes>
+	        <notes>Chevrolet Indie Fridays / Positive Thinking Tour</notes>
 	    </show>
 	    <show>
 	        <date>Tuesday, August 8</date>
@@ -6201,6 +6249,7 @@
 	        <support>
 	            <name>Danielle Duval</name>
 	        </support>
+	        <notes>Everyone Else Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, August 11</date>
@@ -6219,7 +6268,10 @@
 	    	<headliner>
 	    		<name>Austra</name>
 	    	</headliner>
-	    	<notes>Beats, Breaks &amp; Culture Festival</notes>
+	    	<support>
+	    		<name>Harrison</name>
+	    	</support>
+	    	<notes>Beats, Breaks &amp; Culture Festival / Future Politics Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, August 25</date>
@@ -6233,6 +6285,7 @@
 	        <support>
 	            <name>Macolly</name>
 	        </support>
+	        <notes>Metasexual Tour</notes>
 	    </show>
 	    <show>
 	        <date>Monday, September 11</date>
@@ -6240,6 +6293,7 @@
 	        <headliner>
 	            <name>Widowspeak</name>
 	        </headliner>
+	        <notes>Expect The Best Tour</notes>
 	    </show>
 	    <show>
 	        <date>Thursday, September 14</date>
@@ -6247,6 +6301,7 @@
 	        <headliner>
 	            <name>Beach Slang</name>
 	        </headliner>
+	        <notes>A Loud Bash Of Teenage Feelings Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, September 16</date>
@@ -6254,6 +6309,7 @@
 	        <headliner>
 	            <name>Jay Som</name>
 	        </headliner>
+	        <notes>Everybody Works Tour</notes>
 	    </show>
 	    <show>
 	        <date>Sunday, September 17</date>
@@ -6261,6 +6317,7 @@
 	        <headliner>
 	            <name>Public Service Broadcasting</name>
 	        </headliner>
+	        <notes>Every Valley Tour</notes>
 	    </show>
 	    <!-- Dwayne 2000, The Opera House September 22/3 -->
 	    <show>
@@ -6275,6 +6332,7 @@
 	        <support>
 	            <name>The Spirit Of The Beehive</name>
 	        </support>
+	        <notes>Soft Sounds From Another Planet Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, October 14</date>
@@ -6282,23 +6340,31 @@
 	        <headliner>
 	            <name>Beach Fossils</name>
 	        </headliner>
+	        <notes>Somersault Tour</notes>
 	    </show> 
-	    Pickwick @ Horseshoe - October 15
 	    <show>
 	        <date>Wednesday, October 18</date>
 	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
 	            <name>Benjamin Booker</name>
 	        </headliner>
+	        <notes>Witness Tour</notes>
 	    </show>
-	    <!-- Lissie @ The Rivoli - October 20
-	    Cults @ Lee's Palace - October 20  -->
+	    <show>
+	    	<date>Friday, October 20</date>
+	    	<venue>Lee's Palace, Toronto</venue>
+	    	<headliner>
+	    		<name>Cults</name>
+	    	</headliner>
+	    	<notes>Offering Tour</notes>
+	    </show>
 	    <show>
 	        <date>Saturday, October 21</date>
 	        <venue>Opera House, Toronto</venue>
 	        <headliner>
 	            <name>Chelsea Wolfe</name>
 	        </headliner>
+	        <notes>Hiss Spun Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, October 27</date>
@@ -6330,6 +6396,7 @@
 	        <support>
 	            <name>The Blow</name>
 	        </support>
+	        <notes>Exile In The Outer Ring Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, November 17</date>
@@ -6337,6 +6404,7 @@
 	        <headliner>
 	            <name>Wannabe</name>
 	        </headliner>
+	        <notes>Spice Girls Tribute Band</notes>
 	    </show>
 	    <show>
 	        <date>Tuesday, November 21</date>
@@ -6344,6 +6412,7 @@
 	        <headliner>
 	            <name>Son Little</name>
 	        </headliner>
+	        <notes>Son Little</notes>
 	    </show>
 	    <show>
 	        <date>Thursday, November 23</date>
@@ -6351,6 +6420,7 @@
 	        <headliner>
 	            <name>Liam Gallagher</name>
 	        </headliner>
+	        <notes>As You Were Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, November 25</date>
@@ -6358,6 +6428,7 @@
 	        <headliner>
 	            <name>SuperSonic</name>
 	        </headliner>
+	        <notes>Oasis Tribute Band</notes>
 	    </show>
 	    <show>
 	        <date>Friday, December 1</date>
@@ -6365,6 +6436,7 @@
 	        <headliner>
 	            <name>Wolf Alice</name>
 	        </headliner>
+	        <notes>Visions Of A Life Tour</notes>
 	    </show>
 	    <show>
 	        <date>Tuesday, December 5</date>
@@ -6372,6 +6444,7 @@
 	        <headliner>
 	            <name>Emily Haines &amp; The Soft Skeleton</name>
 	        </headliner>
+	        <notes>Choir Of The Mind Tour</notes>
 	    </show>
 	    <show>
 	        <date>Wednesday, December 6</date>
@@ -6379,34 +6452,39 @@
 	        <headliner>
 	            <name>Angel Olsen</name>
 	        </headliner>
+	        <notes>My Woman Tour</notes>
 	    </show>
 	    <show>
 	        <date>Wednesday, December 13</date>
-	        <venue>Mod Club, Toronto</venue>
+	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
 	            <name>Alvvays</name>
 	        </headliner>
+	        <notes>Antisocialites Tour</notes>
 	    </show>
 	    <show>
 	        <date>Thursday, December 14</date>
-	        <venue>Mod Club, Toronto</venue>
+	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
 	            <name>Alvvays</name>
 	        </headliner>
+	        <notes>Antisocialites Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, December 15</date>
-	        <venue>Mod Club, Toronto</venue>
+	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
 	            <name>Alvvays</name>
 	        </headliner>
+	        <notes>Antisocialites Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, December 16</date>
-	        <venue>Mod Club, Toronto</venue>
+	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
 	            <name>Alvvays</name>
 	        </headliner>
+	        <notes>Antisocialites Tour</notes>
 	    </show>
 	</annual>
 </shows>
