@@ -5829,6 +5829,7 @@
 		    <support>
 		        <name>The Queer Songbook Orchestra</name>
 		    </support>
+		    <notes>Jack Daniel's Showcase</notes>
 		</show>
 		<show>
 		    <date>Saturday, December 31</date>
@@ -6271,6 +6272,9 @@
 	    	<support>
 	    		<name>Harrison</name>
 	    	</support>
+	    	<support>
+	    		<name>Young Guv</name>
+	    	</support>
 	    	<notes>Beats, Breaks &amp; Culture Festival / Future Politics Tour</notes>
 	    </show>
 	    <show>
@@ -6320,6 +6324,7 @@
 	        <notes>Every Valley Tour</notes>
 	    </show>
 	    <!-- Dwayne 2000, The Opera House September 22/3 -->
+	    No Joy (w Quicksand) @ Lee’s Palace - September 25
 	    <show>
 	        <date>Saturday, October 7</date>
 	        <venue>Garrison, Toronto</venue>
@@ -6412,7 +6417,15 @@
 	        <headliner>
 	            <name>Son Little</name>
 	        </headliner>
-	        <notes>Son Little</notes>
+	        <notes>Son Little Tour</notes>
+	    </show>
+	    <show>
+	    	<date>Wednesday, November 22</date>
+	    	<venue>Great Hall, Toronto</venue>
+	    	<headliner>
+	    		<name>Stars</name>
+	    	</headliner>
+	    	<notes>There Is No Love In Fluorescent Light Tour</notes>
 	    </show>
 	    <show>
 	        <date>Thursday, November 23</date>
@@ -6452,6 +6465,9 @@
 	        <headliner>
 	            <name>Angel Olsen</name>
 	        </headliner>
+	        <support>
+	        	<name>Alex Cameron</name>
+	        </support>
 	        <notes>My Woman Tour</notes>
 	    </show>
 	    <show>
