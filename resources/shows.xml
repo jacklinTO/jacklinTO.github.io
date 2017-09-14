@@ -6305,6 +6305,12 @@
 	        <headliner>
 	            <name>Beach Slang</name>
 	        </headliner>
+	        <support>
+	        	<name>*Repeat Repeat</name>
+	        </support>
+	        <support>
+	        	<name>Tragic Hearts</name>
+	        </support>
 	        <notes>A Loud Bash Of Teenage Feelings Tour</notes>
 	    </show>
 	    <show>
@@ -6323,8 +6329,6 @@
 	        </headliner>
 	        <notes>Every Valley Tour</notes>
 	    </show>
-	    <!-- Dwayne 2000, The Opera House September 22/3 -->
-	    No Joy (w Quicksand) @ Lee’s Palace - September 25
 	    <show>
 	        <date>Saturday, October 7</date>
 	        <venue>Garrison, Toronto</venue>
@@ -6377,6 +6381,7 @@
 	        <headliner>
 	            <name>Black Rebel Motorcycle Club</name>
 	        </headliner>
+	        <notes>Wrong Creatures Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, October 28</date>
@@ -6384,13 +6389,7 @@
 	        <headliner>
 	            <name>Black Rebel Motorcycle Club</name>
 	        </headliner>
-	    </show>
-	    <show>
-	        <date>Saturday, November 11</date>
-	        <venue>Mod Club Theatre, Toronto</venue>
-	        <headliner>
-	            <name>The Drums</name>
-	        </headliner>
+	        <notes>Wrong Creatures Tour</notes>
 	    </show>
 	    <show>
 	        <date>Wednesday, November 15</date>
@@ -6503,4 +6502,31 @@
 	        <notes>Antisocialites Tour</notes>
 	    </show>
 	</annual>
+	
+	<annual>
+		<year>2018</year>
+		<show>
+			<date>Monday, February 5</date>
+			<venue>Soda Soda, Montreal</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Night Beats</name>
+			</support>
+			<notes>Wrong Creatures Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, February 6</date>
+			<venue>Rebel, Toronto</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Night Beats</name>
+			</support>
+			<notes>Wrong Creatures Tour</notes>
+		</show>
+	</annual>
+	
 </shows>
