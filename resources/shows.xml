@@ -6297,6 +6297,9 @@
 	        <headliner>
 	            <name>Widowspeak</name>
 	        </headliner>
+	        <support>
+	        	<name>Pineapple Girls</name>
+	        </support>
 	        <notes>Expect The Best Tour</notes>
 	    </show>
 	    <show>
@@ -6306,20 +6309,12 @@
 	            <name>Beach Slang</name>
 	        </headliner>
 	        <support>
-	        	<name>*Repeat Repeat</name>
+	        	<name>Repeat Repeat</name>
 	        </support>
 	        <support>
 	        	<name>Tragic Hearts</name>
 	        </support>
 	        <notes>A Loud Bash Of Teenage Feelings Tour</notes>
-	    </show>
-	    <show>
-	        <date>Saturday, September 16</date>
-	        <venue>Horseshoe Tavern, Toronto</venue>
-	        <headliner>
-	            <name>Jay Som</name>
-	        </headliner>
-	        <notes>Everybody Works Tour</notes>
 	    </show>
 	    <show>
 	        <date>Sunday, September 17</date>
@@ -6470,6 +6465,14 @@
 	        <notes>My Woman Tour</notes>
 	    </show>
 	    <show>
+	        <date>Tuesday, December 12</date>
+	        <venue>Mod Club Theatre, Toronto</venue>
+	        <headliner>
+	            <name>Alvvays</name>
+	        </headliner>
+	        <notes>Antisocialites Tour</notes>
+	    </show>
+	    <show>
 	        <date>Wednesday, December 13</date>
 	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
@@ -6505,6 +6508,17 @@
 	
 	<annual>
 		<year>2018</year>
+		<show>
+			<date>Friday, February 2</date>
+			<venue>Brooklyn Steel, Brooklyn</venue>
+			<headliner>
+				<name>Black Rebel Motorcycle Club</name>
+			</headliner>
+			<support>
+				<name>Night Beats</name>
+			</support>
+			<notes>Wrong Creatures Tour</notes>
+		</show>
 		<show>
 			<date>Monday, February 5</date>
 			<venue>Soda Soda, Montreal</venue>
