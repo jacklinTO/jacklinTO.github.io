@@ -6325,6 +6325,31 @@
 	        <notes>Every Valley Tour</notes>
 	    </show>
 	    <show>
+	    	<date>Friday, September 22</date>
+	    	<venue>Heliconian Hall, Toronto</venue>
+	    	<headliner>
+	    		<name>Idioteque</name>
+	    	</headliner>
+	    	<support>
+	    		<name>Four On The Floor String Quartet</name>
+	    	</support>
+	    	<notes>Unplugged In Toronto / Radiohead Tribute Band</notes>
+	    </show>
+	    <show>
+	    	<date>Tuesday, September 26</date>
+	    	<venue>Nathan Phillip Square, Toronto</venue>
+	    	<headliner>
+	    		<name>Sloan</name>
+	    	</headliner>
+	    	<support>
+	    		<name>James Blonde</name>
+	    	</support>
+	    	<support>
+	    		<name>Sacha</name>
+	    	</support>
+	    	<notes>Invictus Games</notes>
+	    </show>
+	    <show>
 	        <date>Saturday, October 7</date>
 	        <venue>Garrison, Toronto</venue>
 	        <headliner>
@@ -6376,6 +6401,9 @@
 	        <headliner>
 	            <name>Black Rebel Motorcycle Club</name>
 	        </headliner>
+	        <support>
+	        	<name>RESTAVRANT</name>
+	        </support>
 	        <notes>Wrong Creatures Tour</notes>
 	    </show>
 	    <show>
@@ -6384,6 +6412,9 @@
 	        <headliner>
 	            <name>Black Rebel Motorcycle Club</name>
 	        </headliner>
+	        <support>
+	        	<name>RESTAVRANT</name>
+	        </support>
 	        <notes>Wrong Creatures Tour</notes>
 	    </show>
 	    <show>
