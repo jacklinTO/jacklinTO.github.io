@@ -6364,11 +6364,25 @@
 	        <notes>Soft Sounds From Another Planet Tour</notes>
 	    </show>
 	    <show>
+	    	<date>Wednesday, October 11</date>
+	    	<venue>Horseshoe Tavern, Toronto</venue>
+	    	<headliner>
+	    		<name>Sun K</name>
+	    	</headliner>
+	    	<notes>The Legendary Horseshoe Tavern: A Complete History Book Launch</notes>
+	    </show>
+	    <show>
 	        <date>Saturday, October 14</date>
 	        <venue>Lee's Palace, Toronto</venue>
 	        <headliner>
 	            <name>Beach Fossils</name>
 	        </headliner>
+	        <support>
+	        	<name>Snail Mail</name>
+	        </support>
+	        <support>
+	        	<name>Raener</name>
+	        </support>
 	        <notes>Somersault Tour</notes>
 	    </show> 
 	    <show>
@@ -6377,6 +6391,9 @@
 	        <headliner>
 	            <name>Benjamin Booker</name>
 	        </headliner>
+	        <support>
+	        	<name>She Keeps Bees</name>
+	        </support>
 	        <notes>Witness Tour</notes>
 	    </show>
 	    <show>
@@ -6385,6 +6402,12 @@
 	    	<headliner>
 	    		<name>Cults</name>
 	    	</headliner>
+	    	<support>
+	    		<name>Cullen Omori</name>
+	    	</support>
+	    	<support>
+	    		<name>Hideout</name>
+	    	</support>
 	    	<notes>Offering Tour</notes>
 	    </show>
 	    <show>
@@ -6442,6 +6465,9 @@
 	        <headliner>
 	            <name>Son Little</name>
 	        </headliner>
+	        <support>
+	        	<name>Jade Bird</name>
+	        </support>
 	        <notes>Son Little Tour</notes>
 	    </show>
 	    <show>
