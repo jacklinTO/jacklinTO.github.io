@@ -6419,6 +6419,16 @@
 	        <notes>Hiss Spun Tour</notes>
 	    </show>
 	    <show>
+	    	<date>Sunday, October 22</date>
+	    	<venue>Drake Underground, Toronto</venue>
+	    	<headliner>
+	    		<name>This Is The Kit</name>
+	    	</headliner>
+	    	<support>
+	    		<name>Helena Deland</name>
+	    	</support>
+	    	<notes>Bashed Out Tour</notes>
+	    <show>
 	        <date>Friday, October 27</date>
 	        <venue>Academy, Manchester</venue>
 	        <headliner>
@@ -6597,6 +6607,14 @@
 				<name>Night Beats</name>
 			</support>
 			<notes>Wrong Creatures Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, February 20</date>
+			<venue>Sony Centre, Toronto</venue>
+			<headliner>
+				<name>Noel Gallagher’s High Flying Birds</name>
+			</headliner>
+			<notes>Who Built The Moon</notes>
 		</show>
 	</annual>
 	
