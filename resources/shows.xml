@@ -6416,6 +6416,9 @@
 	        <headliner>
 	            <name>Chelsea Wolfe</name>
 	        </headliner>
+	        <support>
+	        	<name>Youth Code</name>
+	        </support>
 	        <notes>Hiss Spun Tour</notes>
 	    </show>
 	    <show>
@@ -6615,7 +6618,7 @@
 			<headliner>
 				<name>Noel Gallagher’s High Flying Birds</name>
 			</headliner>
-			<notes>Who Built The Moon</notes>
+			<notes>Who Built The Moon Tour</notes>
 		</show>
 	</annual>
 	
