@@ -6364,28 +6364,6 @@
 	        <notes>Soft Sounds From Another Planet Tour</notes>
 	    </show>
 	    <show>
-	    	<date>Wednesday, October 11</date>
-	    	<venue>Horseshoe Tavern, Toronto</venue>
-	    	<headliner>
-	    		<name>Sun K</name>
-	    	</headliner>
-	    	<notes>The Legendary Horseshoe Tavern: A Complete History Book Launch</notes>
-	    </show>
-	    <show>
-	        <date>Saturday, October 14</date>
-	        <venue>Lee's Palace, Toronto</venue>
-	        <headliner>
-	            <name>Beach Fossils</name>
-	        </headliner>
-	        <support>
-	        	<name>Snail Mail</name>
-	        </support>
-	        <support>
-	        	<name>Raener</name>
-	        </support>
-	        <notes>Somersault Tour</notes>
-	    </show> 
-	    <show>
 	        <date>Wednesday, October 18</date>
 	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
@@ -6536,6 +6514,23 @@
 	        <notes>My Woman Tour</notes>
 	    </show>
 	    <show>
+	    	<date>Saturday, December 9</date>
+	    	<venue>Rec Room, Toronto</venue>
+	    	<headliner>
+	    		<name>Charly Bliss</name>
+	    	</headliner>
+	    	<support>
+	    		<name>Casper Skulls</name>
+	    	</support>
+	    	<support>
+	    		<name>Twist</name>
+	    	</support>
+	    	<support>
+	    		<name>Lonely Parade</name>
+	    	</support>
+	    	<notes>Buzz Records &amp; Inde88 Presents: A Very Special Krampus</notes>
+	    </show>
+	    <show>
 	        <date>Tuesday, December 12</date>
 	        <venue>Mod Club Theatre, Toronto</venue>
 	        <headliner>
@@ -6579,6 +6574,14 @@
 	
 	<annual>
 		<year>2018</year>
+		<show>
+			<date>Sunday, January 28</date>
+			<venue>Mod Club, Toronto</venue>
+			<headliner>
+				<name>Sleigh Bells</name>
+			</headliner>
+			<notes>Kid Kruschev Tour</notes>
+		</show>
 		<show>
 			<date>Friday, February 2</date>
 			<venue>Brooklyn Steel, Brooklyn</venue>
