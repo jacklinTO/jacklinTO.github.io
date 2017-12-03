@@ -6383,9 +6383,6 @@
 	    	<support>
 	    		<name>Cullen Omori</name>
 	    	</support>
-	    	<support>
-	    		<name>Hideout</name>
-	    	</support>
 	    	<notes>Offering Tour</notes>
 	    </show>
 	    <show>
@@ -6433,22 +6430,14 @@
 	        <notes>Wrong Creatures Tour</notes>
 	    </show>
 	    <show>
-	        <date>Wednesday, November 15</date>
-	        <venue>Garrison, Toronto</venue>
-	        <headliner>
-	            <name>EMA</name>
-	        </headliner>
-	        <support>
-	            <name>The Blow</name>
-	        </support>
-	        <notes>Exile In The Outer Ring Tour</notes>
-	    </show>
-	    <show>
 	        <date>Friday, November 17</date>
 	        <venue>Phoenix Concert Theatre, Toronto</venue>
 	        <headliner>
 	            <name>Wannabe</name>
 	        </headliner>
+	        <support>
+	        	<name>Sam Tiger Lightning White</name>
+	        </support>
 	        <notes>Spice Girls Tribute Band</notes>
 	    </show>
 	    <show>
@@ -6476,6 +6465,9 @@
 	        <headliner>
 	            <name>Liam Gallagher</name>
 	        </headliner>
+	        <support>
+	        	<name>Warbly Jets</name>
+	        </support>
 	        <notes>As You Were Tour</notes>
 	    </show>
 	    <show>
@@ -6484,6 +6476,9 @@
 	        <headliner>
 	            <name>SuperSonic</name>
 	        </headliner>
+	        <support>
+	        	<name>Gravy Jones</name>
+	        </support>
 	        <notes>Oasis Tribute Band</notes>
 	    </show>
 	    <show>
@@ -6492,6 +6487,9 @@
 	        <headliner>
 	            <name>Wolf Alice</name>
 	        </headliner>
+	        <support>
+	        	<name>Fade Awaays</name>
+	        </support>
 	        <notes>Visions Of A Life Tour</notes>
 	    </show>
 	    <show>
@@ -6562,21 +6560,13 @@
 	        </headliner>
 	        <notes>Antisocialites Tour</notes>
 	    </show>
-	    <show>
-	        <date>Saturday, December 16</date>
-	        <venue>Mod Club Theatre, Toronto</venue>
-	        <headliner>
-	            <name>Alvvays</name>
-	        </headliner>
-	        <notes>Antisocialites Tour</notes>
-	    </show>
 	</annual>
 	
 	<annual>
 		<year>2018</year>
 		<show>
 			<date>Sunday, January 28</date>
-			<venue>Mod Club, Toronto</venue>
+			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
 				<name>Sleigh Bells</name>
 			</headliner>
@@ -6593,6 +6583,15 @@
 			</support>
 			<notes>Wrong Creatures Tour</notes>
 		</show>
+		<show>
+			<date>Saturday, February 3</date>
+			<venue>Saint Vitus, Brooklyn</venue>
+			<headliner>
+				<name>Death Of Lovers</name>
+			</headliner>
+			<support>
+				<name>Choir Boy</name>
+			</support>
 		<show>
 			<date>Monday, February 5</date>
 			<venue>Club Soda, Montreal</venue>
@@ -6623,6 +6622,29 @@
 			</headliner>
 			<notes>Who Built The Moon Tour</notes>
 		</show>
+		<show>
+			<date>Tuesday, March 6</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Joywave</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Saturday, March 31</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>The Strypes</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Saturday, May 12</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>The Fratellis</name>
+			</headliner>
+			<support>
+				<name>Blood Red Shoes</name>
+			</support>
 	</annual>
 	
 </shows>
