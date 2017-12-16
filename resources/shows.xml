@@ -6498,6 +6498,9 @@
 	        <headliner>
 	            <name>Emily Haines &amp; The Soft Skeleton</name>
 	        </headliner>
+	        <support>
+	        	<name>David Beckingham</name>
+	        </support>
 	        <notes>Choir Of The Mind Tour</notes>
 	    </show>
 	    <show>
@@ -6534,22 +6537,9 @@
 	        <headliner>
 	            <name>Alvvays</name>
 	        </headliner>
-	        <notes>Antisocialites Tour</notes>
-	    </show>
-	    <show>
-	        <date>Wednesday, December 13</date>
-	        <venue>Mod Club Theatre, Toronto</venue>
-	        <headliner>
-	            <name>Alvvays</name>
-	        </headliner>
-	        <notes>Antisocialites Tour</notes>
-	    </show>
-	    <show>
-	        <date>Thursday, December 14</date>
-	        <venue>Mod Club Theatre, Toronto</venue>
-	        <headliner>
-	            <name>Alvvays</name>
-	        </headliner>
+	        <support>
+	        	<name>Napster Vertigo</name>
+	        </support>
 	        <notes>Antisocialites Tour</notes>
 	    </show>
 	    <show>
@@ -6558,7 +6548,21 @@
 	        <headliner>
 	            <name>Alvvays</name>
 	        </headliner>
+	        <support>
+	        	<name>Absolutely Free</name>
+	        </support>
 	        <notes>Antisocialites Tour</notes>
+	    </show>
+	    <show>
+	    	<date>Thursday, December 28</date>
+	    	<venue>Drake Underground, Toronto</venue>
+	    	<headliner>
+	    		<name>Cleopatrick</name>
+	    	</headliner>
+	    	<support>
+	    		<name>Day Trip</name>
+	    	</support>
+	    	<notes>What's In The Box</notes>
 	    </show>
 	</annual>
 	
@@ -6592,6 +6596,9 @@
 			<support>
 				<name>Choir Boy</name>
 			</support>
+			<support>
+				<name>DJ Fred Pessaro</name>
+			</support>
 		</show>
 		<show>
 			<date>Monday, February 5</date>
@@ -6622,6 +6629,13 @@
 				<name>Noel Gallagher’s High Flying Birds</name>
 			</headliner>
 			<notes>Who Built The Moon Tour</notes>
+		</show>
+		<show>
+			<date>Friday, March 2</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Supersonic</name>
+			</headliner>
 		</show>
 		<show>
 			<date>Tuesday, March 6</date>
