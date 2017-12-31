@@ -6510,7 +6510,7 @@
 	            <name>Angel Olsen</name>
 	        </headliner>
 	        <support>
-	        	<name>Alex Cameron</name>
+	        	<name>Heron Oblivion</name>
 	        </support>
 	        <notes>My Woman Tour</notes>
 	    </show>
@@ -6553,21 +6553,46 @@
 	        </support>
 	        <notes>Antisocialites Tour</notes>
 	    </show>
-	    <show>
-	    	<date>Thursday, December 28</date>
-	    	<venue>Drake Underground, Toronto</venue>
-	    	<headliner>
-	    		<name>Cleopatrick</name>
-	    	</headliner>
-	    	<support>
-	    		<name>Day Trip</name>
-	    	</support>
-	    	<notes>What's In The Box</notes>
-	    </show>
 	</annual>
 	
 	<annual>
 		<year>2018</year>
+		<show>
+			<date>Saturday, January 6</date>
+			<venue>Smiling Buddha, Toronto</venue>
+			<headliner>
+				<name>The Nude Dogs</name>
+			</headliner>
+			<support>
+				<name>Thrifty Kids</name>
+			</support>
+			<support>
+				<name>Gold Pony</name>
+			</support>
+			<support>
+				<name>Triples</name>
+			</support>
+			<support>
+				<name>Fade Awaays</name>
+			</support>
+			<notes>Class of 2018</notes>
+		</show>
+		<show>
+			<date>Saturday, January 13</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Nude Party</name>
+			</headliner>
+			<support>
+				<name>Blind Matty</name>
+			</support>
+			<support>
+				<name>Kaleidoscope Horse</name>
+			</support>
+			<support>
+				<name>Deana Petcoff</name>
+			</support>
+		</show>
 		<show>
 			<date>Sunday, January 28</date>
 			<venue>Mod Club Theatre, Toronto</venue>
@@ -6623,6 +6648,20 @@
 			<notes>Wrong Creatures Tour</notes>
 		</show>
 		<show>
+			<date>Sunday, February 11</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Now, Now</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Monday, February 19</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Starcrawler</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Tuesday, February 20</date>
 			<venue>Sony Centre, Toronto</venue>
 			<headliner>
@@ -6639,7 +6678,7 @@
 		</show>
 		<show>
 			<date>Tuesday, March 6</date>
-			<venue>Drake Underground, Toronto</venue>
+			<venue>Adelaide Hall, Toronto</venue>
 			<headliner>
 				<name>Joywave</name>
 			</headliner>
