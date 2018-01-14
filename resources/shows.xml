@@ -6578,20 +6578,12 @@
 			<notes>Class of 2018</notes>
 		</show>
 		<show>
-			<date>Saturday, January 13</date>
-			<venue>Horseshoe Tavern, Toronto</venue>
+			<date>Saturday, January 27</date>
+			<venue>Adelaide Hall, Toronto</venue>
 			<headliner>
-				<name>The Nude Party</name>
+				<name>Spiderwebs</name>
 			</headliner>
-			<support>
-				<name>Blind Matty</name>
-			</support>
-			<support>
-				<name>Kaleidoscope Horse</name>
-			</support>
-			<support>
-				<name>Deana Petcoff</name>
-			</support>
+			<notes>No Doubt Tribute Band</notes>
 		</show>
 		<show>
 			<date>Sunday, January 28</date>
@@ -6648,6 +6640,19 @@
 			<notes>Wrong Creatures Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, February 10</date>
+			<venue>Super Wonder Gallery, Toronto</venue>
+			<headliner>
+				<name>Casper Skulls</name>
+			</headliner>
+			<support>
+				<name>Smut</name>
+			</support>
+			<support>
+				<name>Vallens</name>
+			</support>
+		</show>
+		<show>
 			<date>Sunday, February 11</date>
 			<venue>Drake Underground, Toronto</venue>
 			<headliner>
@@ -6673,8 +6678,9 @@
 			<date>Friday, March 2</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
-				<name>Supersonic</name>
+				<name>SuperSonic</name>
 			</headliner>
+			<notes>Oasis Tribute Band</notes>
 		</show>
 		<show>
 			<date>Tuesday, March 6</date>
@@ -6684,11 +6690,28 @@
 			</headliner>
 		</show>
 		<show>
+			<date>Wednesday, March 28</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Gang Of Youths</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Saturday, March 31</date>
 			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
 				<name>The Strypes</name>
 			</headliner>
+		</show>
+		<show>
+			<date>Monday, April 9</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Pale Waves</name>
+			</headliner>
+			<support>
+				<name>Inheaven</name>
+			</support>
 		</show>
 		<show>
 			<date>Saturday, May 12</date>
