@@ -6613,9 +6613,7 @@
 			<support>
 				<name>Choir Boy</name>
 			</support>
-			<support>
-				<name>DJ Fred Pessaro</name>
-			</support>
+			<notes>The Acrobat Tour</notes>
 		</show>
 		<show>
 			<date>Monday, February 5</date>
@@ -6626,7 +6624,7 @@
 			<support>
 				<name>Night Beats</name>
 			</support>
-			<notes>Wrong Creatures Tour</notes>
+			<notes>Wrong Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, February 6</date>
@@ -6637,20 +6635,7 @@
 			<support>
 				<name>Night Beats</name>
 			</support>
-			<notes>Wrong Creatures Tour</notes>
-		</show>
-		<show>
-			<date>Saturday, February 10</date>
-			<venue>Super Wonder Gallery, Toronto</venue>
-			<headliner>
-				<name>Casper Skulls</name>
-			</headliner>
-			<support>
-				<name>Smut</name>
-			</support>
-			<support>
-				<name>Vallens</name>
-			</support>
+			<notes>Wrong Tour</notes>
 		</show>
 		<show>
 			<date>Sunday, February 11</date>
@@ -6658,6 +6643,10 @@
 			<headliner>
 				<name>Now, Now</name>
 			</headliner>
+			<support>
+				<name>Ellevator</name>
+			</support>
+			<notes>Yours Tour</notes>
 		</show>
 		<show>
 			<date>Monday, February 19</date>
@@ -6665,6 +6654,10 @@
 			<headliner>
 				<name>Starcrawler</name>
 			</headliner>
+			<support>
+				<name>Sundown Club</name>
+			</support>
+			<notes>Starcrawler Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, February 20</date>
@@ -6688,6 +6681,7 @@
 			<headliner>
 				<name>Joywave</name>
 			</headliner>
+			<notes>Content Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, March 28</date>
@@ -6695,6 +6689,7 @@
 			<headliner>
 				<name>Gang Of Youths</name>
 			</headliner>
+			<notes>Go Farther In Lightness Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, March 31</date>
@@ -6702,6 +6697,7 @@
 			<headliner>
 				<name>The Strypes</name>
 			</headliner>
+			<notes>Spitting Image Tour</notes>
 		</show>
 		<show>
 			<date>Monday, April 9</date>
@@ -6712,6 +6708,7 @@
 			<support>
 				<name>Inheaven</name>
 			</support>
+			<notes>All The Things I Never Said Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, May 12</date>
@@ -6722,6 +6719,31 @@
 			<support>
 				<name>Blood Red Shoes</name>
 			</support>
+			<notes>In Your Own Sweet Time Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, May 13</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Hinds</name>
+			</headliner>
+			<notes>CMW</notes>
+		</show>
+		<show>
+			<date>Monday, May 14</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>The Sherlocks</name>
+			</headliner>
+			<notes>Live For The Moment Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 9</date>
+			<venue>Budweiser Stage, Toronto</venue>
+			<headliner>
+				<name>Jack White</name>
+			</headliner>
+			<notes>Boarding House Reach Tour</notes>
 		</show>
 	</annual>
 	

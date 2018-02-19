@@ -71,7 +71,21 @@
 		margin-top: 6px;
 	}
 
-	#title { text-align: center }		
+	#title { text-align: center }
+	
+	.tableHeader {
+		background: #1C6EA4;
+		color: #FFFFFF;
+		font-weight: bold;
+	}
+	
+	.showRow:nth-child(odd) {
+		background: #EEEEEE;
+	}
+	
+	.showRow:nth-child(even) {
+		background: #D0E4F5;
+	}
 
 	a:link {
 		text-decoration: underline;

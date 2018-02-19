@@ -11,11 +11,7 @@
 	<tr>
 		<xsl:apply-templates select="year"/>
 	</tr>
-
-	<tr bgcolor="white"><td colspan="5"/></tr>
-	<tr bgcolor="red"><td colspan="5"/></tr>
-	<tr bgcolor="white"><td colspan="5"/></tr>
-
+	
 		<xsl:apply-templates select="show"/>
 
 	<tr bgcolor="white"><td colspan="5"/></tr>
@@ -27,7 +23,7 @@
 </xsl:template>
 
 <xsl:template match="show">
-	<tr>
+	<tr class="showRow">
 		<xsl:apply-templates select="date"/>
 				
 		<td>
@@ -39,9 +35,6 @@
 
 		<xsl:apply-templates select="notes"/>
 	</tr>
-	
-	<tr><td/><td bgcolor="red" colspan="4"/></tr>
-	<tr bgcolor="white"><td colspan="5"/></tr>
 </xsl:template>
 
 <xsl:template match="year">
@@ -53,7 +46,7 @@
 </xsl:template>
 
 <xsl:template match="date">
-	<td/>
+	<td bgcolor="#FFFFF"></td>
 	<td> 
 		<span class="date">
 			<xsl:value-of select="."/>
@@ -155,7 +148,7 @@
 <br/>
 
 <table border="0" width="80%">
-	<tr bgcolor="#99FFFF" align="left">
+	<tr class="tableHeader">
 		<td>Year</td>
 		<td>Date</td>
 		<td>Performers</td>
