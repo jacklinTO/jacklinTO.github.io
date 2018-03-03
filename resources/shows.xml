@@ -4574,6 +4574,7 @@
 			<support>
 				<name>DJ Becka Diamond</name>
 			</support>
+			<notes>Boarding House Reach Tour</notes>
 		</show>
 		<show>
 			<date>Monday, November 2</date>
@@ -6673,6 +6674,9 @@
 			<headliner>
 				<name>SuperSonic</name>
 			</headliner>
+			<support>
+				<name>Phantom Atlantic</name>
+			</support>
 			<notes>Oasis Tribute Band</notes>
 		</show>
 		<show>
@@ -6681,7 +6685,13 @@
 			<headliner>
 				<name>Joywave</name>
 			</headliner>
-			<notes>Content Tour</notes>
+			<support>
+				<name>Sasha Sloan</name>
+			</support>
+			<support>
+				<name>Humble Braggers</name>
+			</support>
+			<notes>Thanks. Thanks For Coming 2018 Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, March 28</date>
@@ -6711,6 +6721,20 @@
 			<notes>All The Things I Never Said Tour</notes>
 		</show>
 		<show>
+			<date>April 17</date>
+			<venue>Baby G</venue>
+			<headliner>
+				<name>Pink Mexico</name>
+			</headliner>
+		</show>
+		<show>
+			<date>April 23</date>
+			<venue>Mod Club, Toronto</venue>
+			<headliner>
+				<name>Kate Nash</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Saturday, May 12</date>
 			<venue>Danforth Music Hall, Toronto</venue>
 			<headliner>
@@ -6723,11 +6747,11 @@
 		</show>
 		<show>
 			<date>Sunday, May 13</date>
-			<venue>Horseshoe Tavern, Toronto</venue>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
 			<headliner>
-				<name>Hinds</name>
+				<name>Black Rebel Motorcycle Club</name>
 			</headliner>
-			<notes>CMW</notes>
+			<notes>Wrong Tour</notes>
 		</show>
 		<show>
 			<date>Monday, May 14</date>
@@ -6738,12 +6762,47 @@
 			<notes>Live For The Moment Tour</notes>
 		</show>
 		<show>
+			<date>May 19</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Thunderpussy</name>
+			</headliner>
+		</show>
+		<show>
+			<date>May 23</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>King Tuff</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Saturday, June 9</date>
 			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
 				<name>Jack White</name>
 			</headliner>
 			<notes>Boarding House Reach Tour</notes>
+		</show>
+		<show>
+			<date>June 23</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Iceage</name>
+			</headliner>
+		</show>
+		<show>
+			<date>August 22</date>
+			<venue>Adelaide Hall, Toronto</venue>
+			<headliner>
+				<name>Dagny</name>
+			</headliner>
+		</show>
+		<show>
+			<date>September 20</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Coeur de Pirate</name>
+			</headliner>
 		</show>
 	</annual>
 	
