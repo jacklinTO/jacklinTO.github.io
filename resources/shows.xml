@@ -6694,19 +6694,14 @@
 			<notes>Thanks. Thanks For Coming 2018 Tour</notes>
 		</show>
 		<show>
-			<date>Wednesday, March 28</date>
-			<venue>Velvet Underground, Toronto</venue>
-			<headliner>
-				<name>Gang Of Youths</name>
-			</headliner>
-			<notes>Go Farther In Lightness Tour</notes>
-		</show>
-		<show>
 			<date>Saturday, March 31</date>
 			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
 				<name>The Strypes</name>
 			</headliner>
+			<support>
+				<name>Peter Oren</name>
+			</support>
 			<notes>Spitting Image Tour</notes>
 		</show>
 		<show>
@@ -6728,7 +6723,7 @@
 			</headliner>
 		</show>
 		<show>
-			<date>April 23</date>
+			<date>Monday, April 23</date>
 			<venue>Mod Club, Toronto</venue>
 			<headliner>
 				<name>Kate Nash</name>
@@ -6762,7 +6757,7 @@
 			<notes>Live For The Moment Tour</notes>
 		</show>
 		<show>
-			<date>May 19</date>
+			<date>Saturday, May 19</date>
 			<venue>Garrison, Toronto</venue>
 			<headliner>
 				<name>Thunderpussy</name>
@@ -6776,12 +6771,26 @@
 			</headliner>
 		</show>
 		<show>
+			<date>June 3</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>La Luz</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Saturday, June 9</date>
 			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
 				<name>Jack White</name>
 			</headliner>
 			<notes>Boarding House Reach Tour</notes>
+		</show>
+		<show>
+			<date>June 14</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Snail Mail</name>
+			</headliner>
 		</show>
 		<show>
 			<date>June 23</date>
@@ -6791,10 +6800,24 @@
 			</headliner>
 		</show>
 		<show>
+			<date>July 9</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Shame</name>
+			</headliner>
+		</show>
+		<show>
 			<date>August 22</date>
 			<venue>Adelaide Hall, Toronto</venue>
 			<headliner>
 				<name>Dagny</name>
+			</headliner>
+		</show>
+		<show>
+			<date>September 10</date>
+			<venue>Dnforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Stereophonics</name>
 			</headliner>
 		</show>
 		<show>
