@@ -6716,17 +6716,32 @@
 			<notes>All The Things I Never Said Tour</notes>
 		</show>
 		<show>
-			<date>April 17</date>
-			<venue>Baby G</venue>
+			<date>Saturday, April 20</date>
+			<venue>Rec Room, Toronto</venue>
 			<headliner>
-				<name>Pink Mexico</name>
+				<name>Idioteque</name>
 			</headliner>
+			<notes>Radiohead Tribute Band</notes>
 		</show>
 		<show>
 			<date>Monday, April 23</date>
 			<venue>Mod Club, Toronto</venue>
 			<headliner>
 				<name>Kate Nash</name>
+			</headliner>
+			<support>
+				<name>Miya Folick</name>
+			</support>
+			<support>
+				<name>Goodbye Honolulu</name>
+			</support>
+			<notes>Yesterday Was Forever</notes>
+		</show>
+		<show>
+			<date>May 7</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Matt &amp; Kim</name>
 			</headliner>
 		</show>
 		<show>
@@ -6762,6 +6777,14 @@
 			<headliner>
 				<name>Thunderpussy</name>
 			</headliner>
+		</show>
+		<show>
+			<date>Wednesday, May 30</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Johnny Marr</name>
+			</headliner>
+			<notes>Call The Comet Tour</notes>
 		</show>
 		<show>
 			<date>May 23</date>
