@@ -6725,7 +6725,7 @@
 		</show>
 		<show>
 			<date>Monday, April 23</date>
-			<venue>Mod Club, Toronto</venue>
+			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
 				<name>Kate Nash</name>
 			</headliner>
@@ -6738,11 +6738,29 @@
 			<notes>Yesterday Was Forever</notes>
 		</show>
 		<show>
-			<date>May 7</date>
-			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<date>Friday, May 4</date>
+			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
-				<name>Matt &amp; Kim</name>
+				<name>Wannabe</name>
 			</headliner>
+			<notes>Spice Girls Tribute Band</notes>
+		</show>
+		<show>
+			<date>Friday, May 11</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Moon King</name>
+			</headliner>
+			<support>
+				<name>Anemone</name>
+			</support>
+			<support>
+				<name>Helena Deland</name>
+			</support>
+			<support>
+				<name>Absolutely Free</name>
+			</support>
+			<notes>CMW 2018 / Heavy Trip &amp; Gorilla Vs. Bear Showcase</notes>
 		</show>
 		<show>
 			<date>Saturday, May 12</date>
@@ -6756,11 +6774,28 @@
 			<notes>In Your Own Sweet Time Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, May 12</date>
+			<venue>Yonge-Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Tallies</name>
+			</support>
+			<support>
+				<name>The Kents</name>
+			</support>
+			<notes>12 Tour / CMW 2018</notes>
+		</show>
+		<show>
 			<date>Sunday, May 13</date>
 			<venue>Phoenix Concert Theatre, Toronto</venue>
 			<headliner>
 				<name>Black Rebel Motorcycle Club</name>
 			</headliner>
+			<support>
+				<name>Pete International Airport</name>
+			</support>
 			<notes>Wrong Tour</notes>
 		</show>
 		<show>
@@ -6841,6 +6876,13 @@
 			<venue>Dnforth Music Hall, Toronto</venue>
 			<headliner>
 				<name>Stereophonics</name>
+			</headliner>
+		</show>
+		<show>
+			<date>September 17</date>
+			<venue>E-Werk, Cologne, Germany</venue>
+			<headliner>
+				<name>Garbage</name>
 			</headliner>
 		</show>
 		<show>
