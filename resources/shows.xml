@@ -6749,16 +6749,10 @@
 			<date>Friday, May 11</date>
 			<venue>Baby G, Toronto</venue>
 			<headliner>
-				<name>Moon King</name>
+				<name>Anemone</name>
 			</headliner>
 			<support>
-				<name>Anemone</name>
-			</support>
-			<support>
 				<name>Helena Deland</name>
-			</support>
-			<support>
-				<name>Absolutely Free</name>
 			</support>
 			<notes>CMW 2018 / Heavy Trip &amp; Gorilla Vs. Bear Showcase</notes>
 		</show>
@@ -6766,11 +6760,8 @@
 			<date>Saturday, May 12</date>
 			<venue>Danforth Music Hall, Toronto</venue>
 			<headliner>
-				<name>The Fratellis</name>
-			</headliner>
-			<support>
 				<name>Blood Red Shoes</name>
-			</support>
+			</headliner>
 			<notes>In Your Own Sweet Time Tour</notes>
 		</show>
 		<show>
@@ -6779,12 +6770,6 @@
 			<headliner>
 				<name>Sloan</name>
 			</headliner>
-			<support>
-				<name>Tallies</name>
-			</support>
-			<support>
-				<name>The Kents</name>
-			</support>
 			<notes>12 Tour / CMW 2018</notes>
 		</show>
 		<show>
@@ -6795,6 +6780,9 @@
 			</headliner>
 			<support>
 				<name>Pete International Airport</name>
+			</support>
+			<support>
+				<name>Liam McKenzie</name>
 			</support>
 			<notes>Wrong Tour</notes>
 		</show>
@@ -6863,6 +6851,16 @@
 			<headliner>
 				<name>Shame</name>
 			</headliner>
+		</show>
+		<show>
+			<date>August 9</date>
+			<venue>Air Canada Centre, Toronto</venue>
+			<headliner>
+				<name>The Smashing Pumpkins</name>
+			</headliner>
+			<support>
+				<name>Metric</name>
+			</support>
 		</show>
 		<show>
 			<date>August 22</date>
