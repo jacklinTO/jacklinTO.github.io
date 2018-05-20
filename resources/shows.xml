@@ -6792,6 +6792,9 @@
 			<headliner>
 				<name>The Sherlocks</name>
 			</headliner>
+			<support>
+				<name>The Cool Hands</name>
+			</support>
 			<notes>Live For The Moment Tour</notes>
 		</show>
 		<show>
@@ -6800,6 +6803,10 @@
 			<headliner>
 				<name>Thunderpussy</name>
 			</headliner>
+			<support>
+				<name>The Mohrs</name>
+			</support>
+			<notes>School's Out Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, May 30</date>
@@ -6810,17 +6817,10 @@
 			<notes>Call The Comet Tour</notes>
 		</show>
 		<show>
-			<date>May 23</date>
-			<venue>Horseshoe Tavern, Toronto</venue>
+			<date>Sunday, June 3</date>
+			<venue>Fort York, Toronto</venue>
 			<headliner>
-				<name>King Tuff</name>
-			</headliner>
-		</show>
-		<show>
-			<date>June 3</date>
-			<venue>Horseshoe Tavern, Toronto</venue>
-			<headliner>
-				<name>La Luz</name>
+				<name>Yeah Yeah Yeahs</name>
 			</headliner>
 		</show>
 		<show>
@@ -6832,28 +6832,28 @@
 			<notes>Boarding House Reach Tour</notes>
 		</show>
 		<show>
-			<date>June 14</date>
+			<date>Thursday, June 14</date>
 			<venue>Velvet Underground, Toronto</venue>
 			<headliner>
 				<name>Snail Mail</name>
 			</headliner>
 		</show>
 		<show>
-			<date>June 23</date>
+			<date>Saturday, June 23</date>
 			<venue>Lee's Palace, Toronto</venue>
 			<headliner>
 				<name>Iceage</name>
 			</headliner>
 		</show>
 		<show>
-			<date>July 9</date>
+			<date>Monday, July 9</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Shame</name>
 			</headliner>
 		</show>
 		<show>
-			<date>August 9</date>
+			<date>Thursday, August 9</date>
 			<venue>Air Canada Centre, Toronto</venue>
 			<headliner>
 				<name>The Smashing Pumpkins</name>
