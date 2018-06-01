@@ -6817,11 +6817,38 @@
 			<notes>Call The Comet Tour</notes>
 		</show>
 		<show>
+			<date>Thursday, May 31</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Death From Above</name>
+			</headliner>
+			<support>
+				<name>Teenager</name>
+			</support>
+			<support>
+				<name>Casper Skulls</name>
+			</support>
+			<notes>Aurora Illumination Series</notes>
+		</show>
+		<show>
 			<date>Sunday, June 3</date>
-			<venue>Fort York, Toronto</venue>
+			<venue>Garrison Common, Fort York, Toronto</venue>
 			<headliner>
 				<name>Yeah Yeah Yeahs</name>
 			</headliner>
+			<support>
+				<name>Alvvays</name>
+			</support>
+			<support>
+				<name>Deer Tick</name>
+			</support>
+			<support>
+				<name>Cuco</name>
+			</support>
+			<support>
+				<name>Haerts</name>
+			</support>
+			<notes>Field Trip 2018</notes>
 		</show>
 		<show>
 			<date>Saturday, June 9</date>
