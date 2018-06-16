@@ -6843,7 +6843,7 @@
 				<name>Deer Tick</name>
 			</support>
 			<support>
-				<name>Cuco</name>
+				<name>Trombone Shorty &amp; Orleans Avenue</name>
 			</support>
 			<support>
 				<name>Haerts</name>
@@ -6864,6 +6864,24 @@
 			<headliner>
 				<name>Snail Mail</name>
 			</headliner>
+			<support>
+				<name>Bonny Doon</name>
+			</support>
+			<support>
+				<name>Dusk</name>
+			</support>
+			<notes>Lush Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, June 16</date>
+			<venue>Yonge-Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Chvrches</name>
+			</headliner>
+			<support>
+				<name>Lights</name>
+			</support>
+			<notes>NXNE 2018</notes>
 		</show>
 		<show>
 			<date>Saturday, June 23</date>
@@ -6880,6 +6898,17 @@
 			</headliner>
 		</show>
 		<show>
+			<date>Saturday, July 14</date>
+			<venue>Mill Street Brewery, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<support>
+				<name>Tokyo Police Club</name>
+			</support>
+			<notes>Hopped And Confused Festival</notes>
+		</show>
+		<show>
 			<date>Thursday, August 9</date>
 			<venue>Air Canada Centre, Toronto</venue>
 			<headliner>
@@ -6888,6 +6917,7 @@
 			<support>
 				<name>Metric</name>
 			</support>
+			<notes>Shiny And Oh So Bright Tour</notes>
 		</show>
 		<show>
 			<date>August 22</date>
