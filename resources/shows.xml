@@ -6820,7 +6820,7 @@
 			<date>Thursday, May 31</date>
 			<venue>Phoenix Concert Theatre, Toronto</venue>
 			<headliner>
-				<name>Death From Above</name>
+				<name>Death From Above 1979</name>
 			</headliner>
 			<support>
 				<name>Teenager</name>
@@ -6881,7 +6881,21 @@
 			<support>
 				<name>Lights</name>
 			</support>
+			<support>
+				<name>Yungblud</name>
+			</support>
 			<notes>NXNE 2018</notes>
+		</show>
+		<show>
+			<date>Friday, June 22</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Luna Li</name>
+			</headliner>
+			<support>
+				<name>Mum's Garden</name>
+			</support>
+			<notes>Silver Night - Single Release Show</notes>
 		</show>
 		<show>
 			<date>Saturday, June 23</date>
@@ -6889,6 +6903,46 @@
 			<headliner>
 				<name>Iceage</name>
 			</headliner>
+			<support>
+				<name>Mary Lattimore</name>
+			</support>
+			<notes>The Field Of Love Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, June 24</date>
+			<venue>Yonge-Dundas Square, Toronto</venue>
+			<headliner>
+				<name>Brandy</name>
+			</headliner>
+			<support>
+				<name>Kapri</name>
+			</support>
+			<notes>Final Play @ Pride 2018</notes>
+		</show>
+		<show>
+			<date>Sunday, July 1</date>
+			<venue>Steam Whistle Brewery, Toronto</venue>
+			<headliner>
+				<name>Texas King</name>
+			</headliner>
+			<support>
+				<name>Royal Castles</name>
+			</support>
+			<support>
+				<name>The Dill</name>
+			</support>
+			<notes>River Fest Elora &amp; Dine Alone Canada Day Party</notes>
+		</show>
+		<show>
+			<date>Sunday, July 1</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Whitehorse</name>
+			</headliner>
+			<support>
+				<name>Zaki Ibrahim</name>
+			</support>
+			<notes>Canada Day</notes>
 		</show>
 		<show>
 			<date>Monday, July 9</date>
@@ -6896,6 +6950,13 @@
 			<headliner>
 				<name>Shame</name>
 			</headliner>
+			<support>
+				<name>Corridor</name>
+			</support>
+			<support>
+				<name>Shade</name>
+			</support>
+			<notes>Songs Of Praise Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, July 14</date>
@@ -6910,7 +6971,7 @@
 		</show>
 		<show>
 			<date>Thursday, August 9</date>
-			<venue>Air Canada Centre, Toronto</venue>
+			<venue>Scotiabank Arena, Toronto</venue>
 			<headliner>
 				<name>The Smashing Pumpkins</name>
 			</headliner>
@@ -6920,32 +6981,50 @@
 			<notes>Shiny And Oh So Bright Tour</notes>
 		</show>
 		<show>
-			<date>August 22</date>
-			<venue>Adelaide Hall, Toronto</venue>
+			<date>Thursday, August 30</date>
+			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
-				<name>Dagny</name>
+				<name>New Order</name>
 			</headliner>
+			<support>
+				<name>Holy Ghost!</name>
+			</support>
 		</show>
 		<show>
 			<date>September 10</date>
-			<venue>Dnforth Music Hall, Toronto</venue>
+			<venue>Danforth Music Hall, Toronto</venue>
 			<headliner>
 				<name>Stereophonics</name>
 			</headliner>
 		</show>
 		<show>
-			<date>September 17</date>
+			<date>September 12</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Hatchie</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Monday, September 17</date>
 			<venue>E-Werk, Cologne, Germany</venue>
 			<headliner>
 				<name>Garbage</name>
 			</headliner>
 		</show>
 		<show>
-			<date>September 20</date>
-			<venue>Danforth Music Hall, Toronto</venue>
+			<date>Tuesday, September 18</date>
+			<venue>Huxley's Neue Welt, Berlin, Germany</venue>
 			<headliner>
-				<name>Coeur de Pirate</name>
+				<name>Garbage</name>
 			</headliner>
+		</show>
+		<show>
+			<date>Sunday, October 28</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Lily Allen</name>
+			</headliner>
+			<notes>No Shame Tour</notes>
 		</show>
 	</annual>
 	
