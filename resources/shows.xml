@@ -5045,7 +5045,7 @@
 		    <date>Tuesday, May 10</date>
 		    <venue>Plug, Sheffield</venue>
 		    <headliner>
-		        <name>Joy Formidable</name>
+		        <name>The Joy Formidable</name>
 		    </headliner>
 		    <support>
 		        <name>Demob Happy</name>
@@ -6962,6 +6962,17 @@
 			<notes>Songs Of Praise Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, July 21</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Phantogram</name>
+			</headliner>
+			<support>
+				<name>Zach Zoya</name>
+			</support>
+			<notes>Aurora Illumination Series</notes>
+		</show>
+		<show>
 			<date>Wednesday, August 8</date>
 			<venue>Scotiabank Arena, Toronto</venue>
 			<headliner>
@@ -7002,6 +7013,7 @@
 			<headliner>
 				<name>Garbage</name>
 			</headliner>
+			<notes>Version 2.0 20th Anniversary Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, September 18</date>
@@ -7009,6 +7021,7 @@
 			<headliner>
 				<name>Garbage</name>
 			</headliner>
+			<notes>Version 2.0 20th Anniversary Tour</notes>
 		</show>
 		<show>
 			<date>Sunday, October 28</date>
@@ -7017,6 +7030,13 @@
 				<name>Lily Allen</name>
 			</headliner>
 			<notes>No Shame Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, November 4</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Joy Formidable</name>
+			</headliner>
 		</show>
 	</annual>
 	
