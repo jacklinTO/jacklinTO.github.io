@@ -6417,7 +6417,7 @@
 	        <support>
 	        	<name>RESTAVRANT</name>
 	        </support>
-	        <notes>Wrong Creatures Tour</notes>
+	        <notes>Wrong Tour</notes>
 	    </show>
 	    <show>
 	        <date>Saturday, October 28</date>
@@ -6428,7 +6428,7 @@
 	        <support>
 	        	<name>RESTAVRANT</name>
 	        </support>
-	        <notes>Wrong Creatures Tour</notes>
+	        <notes>Wrong Tour</notes>
 	    </show>
 	    <show>
 	        <date>Friday, November 17</date>
@@ -6603,7 +6603,7 @@
 			<support>
 				<name>Night Beats</name>
 			</support>
-			<notes>Wrong Creatures Tour</notes>
+			<notes>Wrong Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, February 3</date>
