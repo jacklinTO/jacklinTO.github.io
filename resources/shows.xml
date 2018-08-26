@@ -6984,6 +6984,17 @@
 			<notes>Shiny And Oh So Bright Tour</notes>
 		</show>
 		<show>
+			<date>Tuesday, August 28</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Temperance Movement</name>
+			</headliner>
+			<support>
+				<name>Ready The Prince</name>
+			</support>
+			<notes>A Deeper Cut Tour</notes>
+		</show>
+		<show>
 			<date>Thursday, August 30</date>
 			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
@@ -6995,18 +7006,15 @@
 			<notes>NOMC15 Tour</notes>
 		</show>
 		<show>
-			<date>September 10</date>
-			<venue>Danforth Music Hall, Toronto</venue>
-			<headliner>
-				<name>Stereophonics</name>
-			</headliner>
-		</show>
-		<show>
-			<date>September 12</date>
+			<date>Wednesday, September 12</date>
 			<venue>Garrison, Toronto</venue>
 			<headliner>
 				<name>Hatchie</name>
 			</headliner>
+			<support>
+				<name>Tallies</name>
+			</support>
+			<notes>Sugar &amp; Spice Tour</notes>
 		</show>
 		<show>
 			<date>Monday, September 17</date>
@@ -7025,6 +7033,28 @@
 			<notes>Version 2.0 20th Anniversary Tour</notes>
 		</show>
 		<show>
+			<date>Thursday, September 27</date>
+			<venue>Piston, Toronto</venue>
+			<headliner>
+				<name>Joydrop</name>
+			</headliner>
+			<support>
+				<name>Favvkes</name>
+			</support>
+			<notes>20th Anniversary of Metasexual</notes>
+		</show>
+		<show>
+			<date>September 29</date>
+			<venue>Hard Luck Bar</venue>
+			<headliner>
+				<name>Dream Wife</name>
+			</headliner>
+			<support>
+				<name>Russo</name>
+			</support>
+			<notes>Dream Wife Tour</notes>
+		</show>
+		<show>
 			<date>Sunday, October 28</date>
 			<venue>Phoenix Concert Theatre, Toronto</venue>
 			<headliner>
@@ -7033,12 +7063,50 @@
 			<notes>No Shame Tour</notes>
 		</show>
 		<show>
+			<date>Monday, October 29</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Mirah</name>
+			</headliner>
+			<notes>Changing Light Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 1</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Ian Sweet</name>
+			</headliner>
+			<support>
+				<name>Young Jesus</name>
+			</support>
+			<notes>Crush Crusher Tour</notes>
+		</show>
+		<show>
 			<date>Sunday, November 4</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>The Joy Formidable</name>
 			</headliner>
 			<notes>AAARTH Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, November 10</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Weakened Friends</name>
+			</headliner>
+			<support>
+				<name>Nervous Dater</name>
+			</support>
+			<notes>Common Blah Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 29</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Helena Deland</name>
+			</headliner>
+			<notes>Altogether Unaccompanied</notes>
 		</show>
 	</annual>
 	
