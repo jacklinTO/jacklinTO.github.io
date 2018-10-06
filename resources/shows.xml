@@ -7022,6 +7022,9 @@
 			<headliner>
 				<name>Garbage</name>
 			</headliner>
+			<support>
+				<name>Dream Wife</name>
+			</support>
 			<notes>Version 2.0 20th Anniversary Tour</notes>
 		</show>
 		<show>
@@ -7030,6 +7033,9 @@
 			<headliner>
 				<name>Garbage</name>
 			</headliner>
+			<support>
+				<name>Dream Wife</name>
+			</support>
 			<notes>Version 2.0 20th Anniversary Tour</notes>
 		</show>
 		<show>
@@ -7044,15 +7050,29 @@
 			<notes>20th Anniversary of Metasexual</notes>
 		</show>
 		<show>
-			<date>September 29</date>
+			<date>Saturday, September 29</date>
 			<venue>Hard Luck Bar</venue>
 			<headliner>
 				<name>Dream Wife</name>
 			</headliner>
 			<support>
-				<name>Russo</name>
+				<name>Moscow Apartment</name>
+			</support>
+			<support>
+				<name>Hearken</name>
 			</support>
 			<notes>Dream Wife Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, October 9</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Triples</name>
+			</support>
+			<notes>TPC Tour</notes>
 		</show>
 		<show>
 			<date>Sunday, October 28</date>
@@ -7090,6 +7110,13 @@
 			<notes>AAARTH Tour</notes>
 		</show>
 		<show>
+			<date>November 7</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>U.S. Girls</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Saturday, November 10</date>
 			<venue>Monarch Tavern, Toronto</venue>
 			<headliner>
@@ -7107,6 +7134,25 @@
 				<name>Helena Deland</name>
 			</headliner>
 			<notes>Altogether Unaccompanied</notes>
+		</show>
+		<show>
+			<date>Saturday, December 1</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>12 Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, December 12</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Stars</name>
+			</headliner>
+			<support>
+				<name>My Brightest Diamond</name>
+			</support>
+			<notes>There Is No Love In Fluorescent Light Tour</notes>
 		</show>
 	</annual>
 	
