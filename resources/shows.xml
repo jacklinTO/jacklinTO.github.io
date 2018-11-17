@@ -7080,6 +7080,9 @@
 			<headliner>
 				<name>Lily Allen</name>
 			</headliner>
+			<support>
+				<name>S-X</name>
+			</support>
 			<notes>No Shame Tour</notes>
 		</show>
 		<show>
@@ -7088,6 +7091,9 @@
 			<headliner>
 				<name>Mirah</name>
 			</headliner>
+			<support>
+				<name>Tomberlin</name>
+			</support>
 			<notes>Changing Light Tour</notes>
 		</show>
 		<show>
@@ -7107,14 +7113,10 @@
 			<headliner>
 				<name>The Joy Formidable</name>
 			</headliner>
+			<support>
+				<name>Tancred</name>
+			</support>
 			<notes>AAARTH Tour</notes>
-		</show>
-		<show>
-			<date>November 7</date>
-			<venue>Lee's Palace, Toronto</venue>
-			<headliner>
-				<name>U.S. Girls</name>
-			</headliner>
 		</show>
 		<show>
 			<date>Saturday, November 10</date>
@@ -7125,6 +7127,9 @@
 			<support>
 				<name>Nervous Dater</name>
 			</support>
+			<support>
+				<name>Feels Fine</name>
+			</support>
 			<notes>Common Blah Tour</notes>
 		</show>
 		<show>
@@ -7133,6 +7138,12 @@
 			<headliner>
 				<name>Helena Deland</name>
 			</headliner>
+			<support>
+				<name>Luna Li</name>
+			</support>
+			<support>
+				<name>Deanna Petcoff</name>
+			</support>
 			<notes>Altogether Unaccompanied</notes>
 		</show>
 		<show>
@@ -7156,4 +7167,24 @@
 		</show>
 	</annual>
 	
+	<annual>
+		<year>2019</year>
+		<show>
+			<date>Wednesday, February 13</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Warbly Jets</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Saturday, April 20</date>
+			<venue>Longboat Hall, Great Hall, Toronto</venue>
+			<headliner>
+				<name>Girlpool</name>
+			</headliner>
+			<support>
+				<name>Hatchie</name>
+			</support>
+		</show>
+	</annual>
 </shows>
