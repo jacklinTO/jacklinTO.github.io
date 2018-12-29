@@ -7155,6 +7155,25 @@
 			<notes>12 Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, December 1</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Supersonic</name>
+			</headliner>
+			<support>
+				<name>Murmur</name>
+			</support>
+			<notes>Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Tuesday, December 11</date>
+			<venue>Royal Cinema, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<notes>Indie88's Band And A Movie / TPC Tour</notes>
+		</show>
+		<show>
 			<date>Wednesday, December 12</date>
 			<venue>Danforth Music Hall, Toronto</venue>
 			<headliner>
@@ -7164,6 +7183,20 @@
 				<name>My Brightest Diamond</name>
 			</support>
 			<notes>There Is No Love In Fluorescent Light Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, December 30</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Lonely Parade</name>
+			</headliner>
+			<support>
+				<name>Vallens</name>
+			</support>
+			<support>
+				<name>Piper Maru</name>
+			</support>
+			<notes>What's In The Box 2018</notes>
 		</show>
 	</annual>
 	
@@ -7175,6 +7208,14 @@
 			<headliner>
 				<name>Warbly Jets</name>
 			</headliner>
+		</show>
+		<show>
+			<date>Saturday, March 9</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Supersonic</name>
+			</headliner>
+			<notes>Definitely Maybe's 25th Anniversay / Oasis Tribute Band</notes>
 		</show>
 		<show>
 			<date>Saturday, April 20</date>
