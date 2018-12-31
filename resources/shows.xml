@@ -4795,7 +4795,7 @@
 		        <name>Fake Palms</name>
 		    </headliner>
 		    <support>
-		        <name>Teenager</name>
+		        <name>Teenanger</name>
 		    </support>
 		    <notes>Vans 50 Years Anniversary</notes>
 		</show>
@@ -6823,7 +6823,7 @@
 				<name>Death From Above 1979</name>
 			</headliner>
 			<support>
-				<name>Teenager</name>
+				<name>Teenanger</name>
 			</support>
 			<support>
 				<name>Casper Skulls</name>
@@ -7188,8 +7188,11 @@
 			<date>Sunday, December 30</date>
 			<venue>Drake Underground, Toronto</venue>
 			<headliner>
-				<name>Lonely Parade</name>
+				<name>Teenanger</name>
 			</headliner>
+			<support>
+				<name>Lonely Parade</name>
+			</support>
 			<support>
 				<name>Vallens</name>
 			</support>
