@@ -7213,12 +7213,46 @@
 			</headliner>
 		</show>
 		<show>
+			<date>Friday, February 15</date>
+			<venue>Rec Room, Toronto</venue>
+			<headliner>
+				<name>Chastity</name>
+			</headliner>
+			<support>
+				<name>Greys</name>
+			</support>
+			<support>
+				<name>Casper Skulls</name>
+			</support>
+		</show>
+		<show>
+			<date>Saturday, March 2</date>
+			<venue>Hideout, Toronto</venue>
+			<headliner>
+				<name>Neon Nostalgic</name>
+			</headliner>
+			<support>
+				<name>Supersonic</name>
+			</support>
+			<notes>Oasis + The KIllers: The Best of 1990s and 2000s Rock</notes>
+		</show>
+		<show>
 			<date>Saturday, March 9</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Supersonic</name>
 			</headliner>
 			<notes>Definitely Maybe's 25th Anniversay / Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Sunday, April 7</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Ex Hex</name>
+			</headliner>
+			<support>
+				<name>Moaning</name>
+			</support>
 		</show>
 		<show>
 			<date>Saturday, April 20</date>
@@ -7229,6 +7263,20 @@
 			<support>
 				<name>Hatchie</name>
 			</support>
+		</show>
+		<show>
+			<date>Thursday, April 25</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Sasami</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Friday, May 17</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Night Beats</name>
+			</headliner>
 		</show>
 	</annual>
 </shows>
