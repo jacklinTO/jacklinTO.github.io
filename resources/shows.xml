@@ -7158,7 +7158,7 @@
 			<date>Saturday, December 1</date>
 			<venue>Velvet Underground, Toronto</venue>
 			<headliner>
-				<name>Supersonic</name>
+				<name>SuperSonic</name>
 			</headliner>
 			<support>
 				<name>Murmur</name>
@@ -7211,6 +7211,13 @@
 			<headliner>
 				<name>Warbly Jets</name>
 			</headliner>
+			<support>
+				<name>Moonwalks</name>
+			</support>
+			<support>
+				<name>Keegan Powell</name>
+			</support>
+			<notes>Propaganda Tour</notes>
 		</show>
 		<show>
 			<date>Friday, February 15</date>
@@ -7224,6 +7231,7 @@
 			<support>
 				<name>Casper Skulls</name>
 			</support>
+			<notes>Death Lust Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, March 2</date>
@@ -7232,15 +7240,23 @@
 				<name>Neon Nostalgic</name>
 			</headliner>
 			<support>
-				<name>Supersonic</name>
+				<name>SuperSonic</name>
 			</support>
 			<notes>Oasis + The KIllers: The Best of 1990s and 2000s Rock</notes>
+		</show>
+		<show>
+			<date>Tuesday, March 5</date>
+			<venue>Opera House, Toronto</venue>
+			<headliner>
+				<name>The Aces</name>
+			</headliner>
+			<notes>When My Heart Felt Volcanic / Ones To Watch Presents</notes>
 		</show>
 		<show>
 			<date>Saturday, March 9</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
-				<name>Supersonic</name>
+				<name>SuperSonic</name>
 			</headliner>
 			<notes>Definitely Maybe's 25th Anniversay / Oasis Tribute Band</notes>
 		</show>
@@ -7253,6 +7269,7 @@
 			<support>
 				<name>Moaning</name>
 			</support>
+			<notes>It's Real Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, April 20</date>
@@ -7263,6 +7280,7 @@
 			<support>
 				<name>Hatchie</name>
 			</support>
+			<notes>What Chaos Is Imaginary</notes>
 		</show>
 		<show>
 			<date>Thursday, April 25</date>
@@ -7270,6 +7288,7 @@
 			<headliner>
 				<name>Sasami</name>
 			</headliner>
+			<notes>Sasami Tour</notes>
 		</show>
 		<show>
 			<date>Friday, May 17</date>
@@ -7277,6 +7296,7 @@
 			<headliner>
 				<name>Night Beats</name>
 			</headliner>
+			<notes>Myth Of A Man Tour</notes>
 		</show>
 	</annual>
 </shows>
