@@ -7239,6 +7239,7 @@
 			<headliner>
 				<name>Cherry Glazerr</name>
 			</headliner>
+		</show>
 		<show>
 			<date>Saturday, March 2</date>
 			<venue>Hideout, Toronto</venue>
@@ -7302,6 +7303,17 @@
 				<name>Sasami</name>
 			</headliner>
 			<notes>Sasami Tour</notes>
+		</show>
+		<show>
+			<date>Friday, May 10</date>
+			<venue>Phoneix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>The Dirty Nil</name>
+			</support>
+			<notes>Sirius XM and CMW Present / TPC Tour</notes>
 		</show>
 		<show>
 			<date>Friday, May 17</date>
