@@ -7239,6 +7239,10 @@
 			<headliner>
 				<name>Cherry Glazerr</name>
 			</headliner>
+			<support>
+				<name>Palehound</name>
+			</support>
+			<notes>Stuffed &amp; Ready Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, March 2</date>
@@ -7268,11 +7272,42 @@
 			<notes>Definitely Maybe's 25th Anniversay / Oasis Tribute Band</notes>
 		</show>
 		<show>
+			<date>Tuesday, March 12</date>
+			<venue>Warsaw, Brooklyn</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<notes>TPC Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, March 13</date>
+			<venue>Boot &amp; Saddle, Philadelphia</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Dizzy</name>
+			</support>
+			<notes>TPC Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, March 14</date>
+			<venue>Metro Gallery, Baltimore</venue>
+			<headliner>
+				<name>Tokyo Police Club</name>
+			</headliner>
+			<support>
+				<name>Super City</name>
+			</support>
+			<notes>TPC Tour</notes>
+		</show>
+		<show>
 			<date>Wednesday, March 20</date>
 			<venue>Velvet Underground, Toronto</venue>
 			<headliner>
 				<name>CHAI</name>
 			</headliner>
+			<notes>Punk Tour</notes>
 		</show>
 		<show>
 			<date>Sunday, April 7</date>
