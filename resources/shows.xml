@@ -1720,7 +1720,7 @@
 			<date>Wednesday, February 29</date>
 			<venue>Lee's Palace, Toronto</venue>
 			<headliner>
-				<name>The Twlight Sad</name>
+				<name>The Twilight Sad</name>
 			</headliner>
 			<support>
 				<name>Odonis Odonis</name>
@@ -7261,6 +7261,9 @@
 			<headliner>
 				<name>The Aces</name>
 			</headliner>
+			<support>
+				<name>Tishmal</name>
+			</support>
 			<notes>When My Heart Felt Volcanic / Ones To Watch Presents</notes>
 		</show>
 		<show>
@@ -7269,7 +7272,33 @@
 			<headliner>
 				<name>SuperSonic</name>
 			</headliner>
+			<support>
+				<name>The Queen Is Dead</name>
+			</support>
 			<notes>Definitely Maybe's 25th Anniversay / Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Sunday, March 10</date>
+			<venue>Mercury Lounge, New York City</venue>
+			<headliner>
+				<name>Boy Band</name>
+			</headliner>
+			<support>
+				<name>BAD</name>
+			</support>
+		</show>
+		<show>
+			<date>Monday, March 11</date>
+			<venue>Knitting Factory, Brooklyn</venue>
+			<headliner>
+				<name>Gynmshorts</name>
+			</headliner>
+			<support>
+				<name>THICK</name>
+			</support>
+			<support>
+				<name>Desert Shartks</name>
+			</support>
 		</show>
 		<show>
 			<date>Tuesday, March 12</date>
@@ -7277,6 +7306,12 @@
 			<headliner>
 				<name>Tokyo Police Club</name>
 			</headliner>
+			<support>
+				<name>Honduras</name>
+			</support>
+			<support>
+				<name>Dizzy</name>
+			</support>
 			<notes>TPC Tour</notes>
 		</show>
 		<show>
@@ -7300,6 +7335,19 @@
 				<name>Super City</name>
 			</support>
 			<notes>TPC Tour</notes>
+		</show>
+		<show>
+			<date>Friday, March 15</date>
+			<venue>Brooklyn Bazaar, Brooklyn</venue>
+			<headliner>
+				<name>Upright Man</name>
+			</headliner>
+			<support>
+				<name>Kyle Duke and The Brown Bag Boys</name>
+			</support>
+			<support>
+				<name>Moon Gel</name>
+			</support>
 		</show>
 		<show>
 			<date>Wednesday, March 20</date>
@@ -7351,12 +7399,35 @@
 			<notes>Sirius XM and CMW Present / TPC Tour</notes>
 		</show>
 		<show>
+			<date>Thursday, May 16</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>The Twilight Sad</name>
+			</headliner>
+			<support>
+				<name>Kathryn Joseph</name>
+			</support>
+		</show>
+		<show>
 			<date>Friday, May 17</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Night Beats</name>
 			</headliner>
 			<notes>Myth Of A Man Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, August 13</date>
+			<venue>Budwiser Stagre, Toronto</venue>
+			<headliner>
+				<name>The Smashing Pumpkins</name>
+			</headliner>
+			<support>
+				<name>Noel Gallagher's High Flying Birds</name>
+			</support>
+			<support>
+				<name>AFI</name>
+			</support>
 		</show>
 	</annual>
 </shows>
