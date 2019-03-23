@@ -7337,25 +7337,23 @@
 			<notes>TPC Tour</notes>
 		</show>
 		<show>
-			<date>Friday, March 15</date>
-			<venue>Brooklyn Bazaar, Brooklyn</venue>
-			<headliner>
-				<name>Upright Man</name>
-			</headliner>
-			<support>
-				<name>Kyle Duke and The Brown Bag Boys</name>
-			</support>
-			<support>
-				<name>Moon Gel</name>
-			</support>
-		</show>
-		<show>
 			<date>Wednesday, March 20</date>
 			<venue>Velvet Underground, Toronto</venue>
 			<headliner>
 				<name>CHAI</name>
 			</headliner>
+			<support>
+				<name>Haiku Hands</name>
+			</support>
 			<notes>Punk Tour</notes>
+		</show>
+		<show>
+			<date>Friday, April 5</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Nikki's Wives</name>
+			</headliner>
+			<notes>Lemonade Tour</notes>
 		</show>
 		<show>
 			<date>Sunday, April 7</date>
@@ -7377,6 +7375,9 @@
 			<support>
 				<name>Hatchie</name>
 			</support>
+			<support>
+				<name>Claud</name>
+			</support>t
 			<notes>What Chaos Is Imaginary</notes>
 		</show>
 		<show>
