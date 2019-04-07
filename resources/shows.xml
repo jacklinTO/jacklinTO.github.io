@@ -7286,19 +7286,21 @@
 			<support>
 				<name>BAD</name>
 			</support>
+			<notes>Still Tour</notes>
 		</show>
 		<show>
 			<date>Monday, March 11</date>
 			<venue>Knitting Factory, Brooklyn</venue>
 			<headliner>
-				<name>Gynmshorts</name>
+				<name>Gymshorts</name>
 			</headliner>
 			<support>
 				<name>THICK</name>
 			</support>
 			<support>
-				<name>Desert Shartks</name>
+				<name>Desert Sharks</name>
 			</support>
+			<notes>Knock Know Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, March 12</date>
@@ -7348,6 +7350,17 @@
 			<notes>Punk Tour</notes>
 		</show>
 		<show>
+			<date>Wednesday, March 27</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Methyl Ethel</name>
+			</headliner>
+			<support>
+				<name>Sauna</name>
+			</support>
+			<notes>Triage Tour</notes>
+		</show>
+		<show>
 			<date>Friday, April 5</date>
 			<venue>Lee's Palace, Toronto</venue>
 			<headliner>
@@ -7367,6 +7380,23 @@
 			<notes>It's Real Tour</notes>
 		</show>
 		<show>
+			<date>Friday, April 19</date>
+			<venue>Bovine Sex Club, Toronto</venue>
+			<headliner>
+				<name>Gymshorts</name>
+			</headliner>
+			<support>
+				<name>THICK</name>
+			</support>
+			<support>
+				<name>Bad Waitress</name>
+			</support>
+			<support>
+				<name>The Mightabins</name>
+			</support>
+			<notes>Knock Know Tour</notes>
+		</show>
+		<show>
 			<date>Saturday, April 20</date>
 			<venue>Longboat Hall, Great Hall, Toronto</venue>
 			<headliner>
@@ -7377,8 +7407,8 @@
 			</support>
 			<support>
 				<name>Claud</name>
-			</support>t
-			<notes>What Chaos Is Imaginary</notes>
+			</support>
+			<notes>What Chaos Is Imaginary Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, April 25</date>
@@ -7397,7 +7427,7 @@
 			<support>
 				<name>The Dirty Nil</name>
 			</support>
-			<notes>Sirius XM and CMW Present / TPC Tour</notes>
+			<notes>CMW 2019 / Sirius XM Present / TPC Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, May 16</date>
@@ -7408,6 +7438,7 @@
 			<support>
 				<name>Kathryn Joseph</name>
 			</support>
+			<notes>It Won/t Be Like This All The Time Tour</notes>
 		</show>
 		<show>
 			<date>Friday, May 17</date>
@@ -7416,6 +7447,22 @@
 				<name>Night Beats</name>
 			</headliner>
 			<notes>Myth Of A Man Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 18</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Yamantaka // Sonic Titan</name>
+			</headliner>
+			<notes>DIRT Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, June 2</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Rolling Blackouts Coastal Fever</name>
+			</headliner>
+			<notes>Hope Downs Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, August 13</date>
@@ -7429,6 +7476,7 @@
 			<support>
 				<name>AFI</name>
 			</support>
+			<notes>Summer 2019 Tour</notes>
 		</show>
 	</annual>
 </shows>
