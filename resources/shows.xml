@@ -7419,6 +7419,20 @@
 			<notes>Sasami Tour</notes>
 		</show>
 		<show>
+			<date>Friday, April 26</date>
+			<venue>Jasper Dandy, Toronto</venue>
+			<headliner>
+				<name>Single Mothers</name>
+			</headliner>
+			<support>
+				<name>Bad Waitress</name>
+			</support>
+			<support>
+				<name>Dear-God</name>
+			</support>
+			<notes>Grand Opening Shows</notes>
+		</show>
+		<show>
 			<date>Friday, May 10</date>
 			<venue>Phoneix Concert Theatre, Toronto</venue>
 			<headliner>
@@ -7457,6 +7471,14 @@
 			<notes>DIRT Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, June 1</date>
+			<venue>Cosmo Music, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>CosmoFEST</notes>
+		</show>
+		<show>
 			<date>Sunday, June 2</date>
 			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
@@ -7466,7 +7488,7 @@
 		</show>
 		<show>
 			<date>Tuesday, August 13</date>
-			<venue>Budwiser Stagre, Toronto</venue>
+			<venue>Budwiser Stage, Toronto</venue>
 			<headliner>
 				<name>The Smashing Pumpkins</name>
 			</headliner>
