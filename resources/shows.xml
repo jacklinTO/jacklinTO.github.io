@@ -7380,6 +7380,14 @@
 			<notes>It's Real Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, April 13</date>
+			<venue>Dine Alone Records, Toronto</venue>
+			<headliner>
+				<name>The Trews</name>
+			</headliner>
+			<notes>Record Store Day 2019</notes>
+		</show>
+		<show>
 			<date>Friday, April 19</date>
 			<venue>Bovine Sex Club, Toronto</venue>
 			<headliner>
@@ -7469,6 +7477,29 @@
 				<name>Yamantaka // Sonic Titan</name>
 			</headliner>
 			<notes>DIRT Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, May 25</date>
+			<venue>Echo Beach, Toronto</venue>
+			<headliner>
+				<name>Alvvays</name>
+			</headliner>
+			<support>
+				<name>Stars</name>
+			</support>
+			<support>
+				<name>Rhye</name>
+			</support>
+			<support>
+				<name>Coeur de Pirate</name>
+			</support>
+			<support>
+				<name>The Courtneys</name>
+			</support>
+			<support>
+				<name>Peach Pit</name>
+			</support>
+			<notes>CBC Music Festival</notes>
 		</show>
 		<show>
 			<date>Saturday, June 1</date>
