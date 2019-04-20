@@ -7356,7 +7356,7 @@
 				<name>Methyl Ethel</name>
 			</headliner>
 			<support>
-				<name>Sauna</name>
+				<name>SAUNA</name>
 			</support>
 			<notes>Triage Tour</notes>
 		</show>
@@ -7391,11 +7391,8 @@
 			<date>Friday, April 19</date>
 			<venue>Bovine Sex Club, Toronto</venue>
 			<headliner>
-				<name>Gymshorts</name>
-			</headliner>
-			<support>
 				<name>THICK</name>
-			</support>
+			</headliner>
 			<support>
 				<name>Bad Waitress</name>
 			</support>
@@ -7441,6 +7438,29 @@
 			<notes>Grand Opening Shows</notes>
 		</show>
 		<show>
+			<date>Thursday, May 9</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Hooded Fang</name>
+			</headliner>
+			<support>
+				<name>Luge</name>
+			</support>
+			<support>
+				<name>Body Lens</name>
+			</support>
+			<support>
+				<name>Nikki Fierce</name>
+			</support>
+			<support>
+				<name>Deep Bight</name>
+			</support>
+			<support>
+				<name>Oliver Forest</name>
+			</support>
+			<notes>NexT Showcase / CMW 2019</notes>
+		</show>
+		<show>
 			<date>Friday, May 10</date>
 			<venue>Phoneix Concert Theatre, Toronto</venue>
 			<headliner>
@@ -7468,6 +7488,12 @@
 			<headliner>
 				<name>Night Beats</name>
 			</headliner>
+			<support>
+				<name>Sahara</name>
+			</support>
+			<support>
+				<name>Gloin</name>
+			</support>
 			<notes>Myth Of A Man Tour</notes>
 		</show>
 		<show>
@@ -7477,6 +7503,16 @@
 				<name>Yamantaka // Sonic Titan</name>
 			</headliner>
 			<notes>DIRT Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 23</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Patio</name>
+			</headliner>
+			<support>
+				<name>Dumb Stupid Liars</name>
+			</support>
 		</show>
 		<show>
 			<date>Saturday, May 25</date>
@@ -7518,6 +7554,64 @@
 			<notes>Hope Downs Tour</notes>
 		</show>
 		<show>
+			<date>Wednesday, June 5</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Mini Mansions</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Thursday, June 13</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Finn Andrews</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Friday, June 21</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Faye Webster</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Tuesday, June 25</date>
+			<venue>Horsheshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Wand</name>
+			</headliner>
+			<support>
+				<name>Dreamdecay</name>
+			</support>
+		</show>
+		<show>
+			<date>Wednesday, June 26</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Lithics</name>
+			</headliner>
+			<support>
+				<name>SAUNA</name>
+			</support>
+			<support>
+				<name>Tough Age</name>
+			</support>
+		</show>
+		<show>
+			<date>Thursday, June 27</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>The Mystery Lights</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Friday, July 5</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>The Beths</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Tuesday, August 13</date>
 			<venue>Budwiser Stage, Toronto</venue>
 			<headliner>
@@ -7530,6 +7624,14 @@
 				<name>AFI</name>
 			</support>
 			<notes>Summer 2019 Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 21</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<notes>Love Is All You Love Tour</notes>
 		</show>
 	</annual>
 </shows>
