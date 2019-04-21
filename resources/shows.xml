@@ -4133,7 +4133,7 @@
 			<support>
 				<name>Twin Peaks</name>
 			</support>
-			<notes>CMW 2015 / Culture Collide Presents</notes>
+			<notes>CMW 2015 / Culture Collide Showcase</notes>
 		</show>
 		<show>
 			<date>Saturday, May 9</date>
@@ -4161,7 +4161,7 @@
 			<support>
 				<name>Look Vibrant</name>
 			</support>
-			<notes>Converse Rubber Tracks Presents</notes>
+			<notes>Converse Rubber Tracks Showcase</notes>
 		</show>
 		<show>
 			<date>Friday, May 15</date>
@@ -4596,7 +4596,7 @@
 			<support>
 				<name>King Creep</name>
 			</support>
-			<notes>Converse Rubber Tracks Presents / Disgraceland Tour</notes>
+			<notes>Converse Rubber Tracks Showcase / Disgraceland Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, November 28</date>
@@ -7458,7 +7458,7 @@
 			<support>
 				<name>Oliver Forest</name>
 			</support>
-			<notes>NexT Showcase / CMW 2019</notes>
+			<notes>CMW 2019 / NexT Showcase / Dynasty House Tour</notes>
 		</show>
 		<show>
 			<date>Friday, May 10</date>
@@ -7469,7 +7469,7 @@
 			<support>
 				<name>The Dirty Nil</name>
 			</support>
-			<notes>CMW 2019 / Sirius XM Present / TPC Tour</notes>
+			<notes>CMW 2019 / Sirius XM Showcase / TPC Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, May 16</date>
@@ -7513,6 +7513,7 @@
 			<support>
 				<name>Dumb Stupid Liars</name>
 			</support>
+			<notes>Essentials Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, May 25</date>
@@ -7538,19 +7539,14 @@
 			<notes>CBC Music Festival</notes>
 		</show>
 		<show>
-			<date>Saturday, June 1</date>
-			<venue>Cosmo Music, Toronto</venue>
-			<headliner>
-				<name>Sloan</name>
-			</headliner>
-			<notes>CosmoFEST</notes>
-		</show>
-		<show>
 			<date>Sunday, June 2</date>
 			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
 				<name>Rolling Blackouts Coastal Fever</name>
 			</headliner>
+			<support>
+				<name>RVG</name>
+			</support>
 			<notes>Hope Downs Tour</notes>
 		</show>
 		<show>
@@ -7559,6 +7555,7 @@
 			<headliner>
 				<name>Mini Mansions</name>
 			</headliner>
+			<notes>Guy Walks Into A Bar... Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, June 13</date>
@@ -7566,6 +7563,7 @@
 			<headliner>
 				<name>Finn Andrews</name>
 			</headliner>
+			<notes>One Piece At A Time Tour</notes>
 		</show>
 		<show>
 			<date>Friday, June 21</date>
@@ -7573,6 +7571,7 @@
 			<headliner>
 				<name>Faye Webster</name>
 			</headliner>
+			<notes>Atlanta Millionaires Club Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, June 25</date>
@@ -7583,6 +7582,7 @@
 			<support>
 				<name>Dreamdecay</name>
 			</support>
+			<notes>Laughing Matter Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, June 26</date>
@@ -7596,6 +7596,7 @@
 			<support>
 				<name>Tough Age</name>
 			</support>
+			<notes>Mating Surfaces Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, June 27</date>
@@ -7603,6 +7604,13 @@
 			<headliner>
 				<name>The Mystery Lights</name>
 			</headliner>
+			<support>
+				<name>Future Punx</name>
+			</support>
+			<support>
+				<name>The Mooks</name>
+			</support>
+			<notes>Too Much Tension! Tour</notes>
 		</show>
 		<show>
 			<date>Friday, July 5</date>
@@ -7610,6 +7618,7 @@
 			<headliner>
 				<name>The Beths</name>
 			</headliner>
+			<notes>Future Me Hates Me</notes>
 		</show>
 		<show>
 			<date>Tuesday, August 13</date>
