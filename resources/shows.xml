@@ -7417,10 +7417,21 @@
 		</show>
 		<show>
 			<date>Thursday, April 25</date>
+			<venue>950 Queen Street West, Toronto</venue>
+			<headliner>
+				<name>The Elwins</name>
+			</headliner>
+			<support>Budweiser Stage Presents: It Happened Here</support>
+		</show>
+		<show>
+			<date>Thursday, April 25</date>
 			<venue>Baby G, Toronto</venue>
 			<headliner>
 				<name>Sasami</name>
 			</headliner>
+			<support>
+				<name>Sen Morimoto</name>
+			</support>
 			<notes>Sasami Tour</notes>
 		</show>
 		<show>
@@ -7621,8 +7632,15 @@
 			<notes>Future Me Hates Me</notes>
 		</show>
 		<show>
+			<date>Friday, July 26</date>
+			<venue>Budweiser Stage, Toronto</venue>
+			<headliner>
+				<name>Tame Impala</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Tuesday, August 13</date>
-			<venue>Budwiser Stage, Toronto</venue>
+			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
 				<name>The Smashing Pumpkins</name>
 			</headliner>
