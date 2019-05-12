@@ -7417,11 +7417,11 @@
 		</show>
 		<show>
 			<date>Thursday, April 25</date>
-			<venue>950 Queen Street West, Toronto</venue>
+			<venue>Queen &amp; Shaw Pop-Up, Toronto</venue>
 			<headliner>
 				<name>The Elwins</name>
 			</headliner>
-			<support>Budweiser Stage Presents: It Happened Here</support>
+			<notes>Budweiser Stage Presents: It Happened Here</notes>
 		</show>
 		<show>
 			<date>Thursday, April 25</date>
@@ -7455,9 +7455,6 @@
 				<name>Hooded Fang</name>
 			</headliner>
 			<support>
-				<name>Luge</name>
-			</support>
-			<support>
 				<name>Body Lens</name>
 			</support>
 			<support>
@@ -7469,7 +7466,7 @@
 			<support>
 				<name>Oliver Forest</name>
 			</support>
-			<notes>CMW 2019 / NexT Showcase / Dynasty House Tour</notes>
+			<notes>CMW 2019 / NeXT Showcase / Dynasty House Tour</notes>
 		</show>
 		<show>
 			<date>Friday, May 10</date>
@@ -7513,6 +7510,12 @@
 			<headliner>
 				<name>Yamantaka // Sonic Titan</name>
 			</headliner>
+			<support>
+				<name>Volur</name>
+			</support>
+			<support>
+				<name>Labradoodle</name>
+			</support>
 			<notes>DIRT Tour</notes>
 		</show>
 		<show>
@@ -7523,6 +7526,9 @@
 			</headliner>
 			<support>
 				<name>Dumb Stupid Liars</name>
+			</support>
+			<support>
+				<name>Condo</name>
 			</support>
 			<notes>Essentials Tour</notes>
 		</show>
@@ -7569,12 +7575,62 @@
 			<notes>Guy Walks Into A Bar... Tour</notes>
 		</show>
 		<show>
+			<date>Friday, June 7</date>
+			<venue>Main Stage, 1200 Dundas Street West, Toronto</venue>
+			<headliner>
+				<name>SUUNS</name>
+			</headliner>
+			<support>
+				<name>Teenanger</name>
+			</support>
+			<support>
+				<name>Peeling</name>
+			</support>
+			<support>
+				<name>Sauna</name>
+			</support>
+			<notes>Transmit Festival 2019</notes>
+		</show>
+		<show>
+			<date>Tuesday, June 11</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Control Top</name>
+			</headliner>
+			<notes>NeXT Showcase / NXNE 2019</notes>
+		</show>
+		<show>
+			<date>Wednesday, June 12</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Bad Waitress</name>
+			</headliner>
+			<support>
+				<name>Nobro</name>
+			</support>
+			<support>
+				<name>Dish Pit</name>
+			</support>
+			<support>
+				<name>Weak Hands</name>
+			</support>
+			<notes>NeXT + Royal Mountain Showcase / NXNE 2019</notes>
+		</show>
+		<show>
 			<date>Thursday, June 13</date>
 			<venue>Monarch Tavern, Toronto</venue>
 			<headliner>
 				<name>Finn Andrews</name>
 			</headliner>
 			<notes>One Piece At A Time Tour</notes>
+		</show>
+		<show>
+			<date>Friday, June 14</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Sir Babygirl</name>
+			</headliner>
+			<notes>NeXT Showcase / NXNE 2019</notes>
 		</show>
 		<show>
 			<date>Friday, June 21</date>
@@ -7659,6 +7715,14 @@
 				<name>Band Of Skulls</name>
 			</headliner>
 			<notes>Love Is All You Love Tour</notes>
+		</show>
+		<show>
+			<date>Monday, September 23</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Bleached</name>
+			</headliner>
+			<notes>Don’t You Think You’ve Had Enough? Tour</notes>
 		</show>
 	</annual>
 </shows>
