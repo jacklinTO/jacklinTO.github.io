@@ -7572,23 +7572,28 @@
 			<headliner>
 				<name>Mini Mansions</name>
 			</headliner>
+			<support>
+				<name>James Supercave</name>
+			</support>
 			<notes>Guy Walks Into A Bar... Tour</notes>
 		</show>
 		<show>
-			<date>Friday, June 7</date>
-			<venue>Main Stage, 1200 Dundas Street West, Toronto</venue>
+			<date>Saturday, June 8</date>
+			<venue>3365 Dundas Street West, Toronto</venue>
 			<headliner>
-				<name>SUUNS</name>
+				<name>Luna Li</name>
 			</headliner>
 			<support>
-				<name>Teenanger</name>
+				<name>Boy Wonder</name>
 			</support>
-			<support>
-				<name>Peeling</name>
-			</support>
-			<support>
-				<name>Sauna</name>
-			</support>
+			<notes>Royal Mountain Backyard BBQ</notes>
+		</show>
+		<show>
+			<date>Saturday, June 8</date>
+			<venue>Main Stage, 1200 Dundas Street West, Toronto</venue>
+			<headliner>
+				<name>Blonde Elvis</name>
+			</headliner>
 			<notes>Transmit Festival 2019</notes>
 		</show>
 		<show>
@@ -7626,30 +7631,19 @@
 			<notes>NeXT + Royal Mountain Showcase / NXNE 2019</notes>
 		</show>
 		<show>
-			<date>Thursday, June 13</date>
-			<venue>Monarch Tavern, Toronto</venue>
-			<headliner>
-				<name>Finn Andrews</name>
-			</headliner>
-			<notes>One Piece At A Time Tour</notes>
-		</show>
-		<show>
 			<date>Friday, June 14</date>
 			<venue>Monarch Tavern, Toronto</venue>
 			<headliner>
 				<name>Sir Babygirl</name>
 			</headliner>
 			<support>
-				<name>Nikki Fierce</name>
+				<name>Nyssa</name>
 			</support>
 			<support>
 				<name>Rapport</name>
 			</support>
 			<support>
 				<name>Knifey</name>
-			</support>
-			<support>
-				<name>Prettyboy</name>
 			</support>
 			<notes>NeXT Showcase / NXNE 2019</notes>
 		</show>
@@ -7728,6 +7722,13 @@
 				<name>AFI</name>
 			</support>
 			<notes>Summer 2019 Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 18</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Two Door Cinema Club</name>
+			</headliner>
 		</show>
 		<show>
 			<date>Saturday, September 21</date>
