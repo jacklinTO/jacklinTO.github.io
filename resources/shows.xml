@@ -7653,6 +7653,9 @@
 			<headliner>
 				<name>Faye Webster</name>
 			</headliner>
+			<support>
+				<name>Jenny O.</name>
+			</support>
 			<notes>Atlanta Millionaires Club Tour</notes>
 		</show>
 		<show>
@@ -7695,6 +7698,14 @@
 			<notes>Too Much Tension! Tour</notes>
 		</show>
 		<show>
+			<date>Monday, July 1</date>
+			<venue>Concert Stage, Harbourfront Centre, Toronto</venue>
+			<headliner>
+				<name>Broken Social Scene</name>
+			</headliner>
+			<notes>Canada Day Weekend Celebration</notes>
+		</show>
+		<show>
 			<date>Friday, July 5</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
@@ -7729,6 +7740,7 @@
 			<headliner>
 				<name>Two Door Cinema Club</name>
 			</headliner>
+			<notes>False Alarm Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, September 21</date>
