@@ -7670,20 +7670,6 @@
 			<notes>Laughing Matter Tour</notes>
 		</show>
 		<show>
-			<date>Wednesday, June 26</date>
-			<venue>Baby G, Toronto</venue>
-			<headliner>
-				<name>Lithics</name>
-			</headliner>
-			<support>
-				<name>SAUNA</name>
-			</support>
-			<support>
-				<name>Tough Age</name>
-			</support>
-			<notes>Mating Surfaces Tour</notes>
-		</show>
-		<show>
 			<date>Thursday, June 27</date>
 			<venue>Monarch Tavern, Toronto</venue>
 			<headliner>
@@ -7735,6 +7721,13 @@
 			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
+			<date>Tuesday, September 10</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Hatchie</name>
+			</headliner>
+		</show>
+		<show>
 			<date>Wednesday, September 18</date>
 			<venue>Danforth Music Hall, Toronto</venue>
 			<headliner>
@@ -7757,6 +7750,100 @@
 				<name>Bleached</name>
 			</headliner>
 			<notes>Don’t You Think You’ve Had Enough? Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, November 3</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Temples</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Saturday, November 9</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Chastity Belt</name>
+			</headliner>
+		</show>
+		<show>
+			<date>Thursday, November 14</date>
+			<venue>Haunt Live, Brighton</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Friday, November 15</date>
+			<venue>Thekla, Bristol</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, November 16</date>
+			<venue>Wardrobe, Leeds</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Monday, November 18</date>
+			<venue>Rescue Rooms, Nottingham</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, November 19</date>
+			<venue>Islington Assembly Hall, London</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, November 20</date>
+			<venue>Gorilla, Manchester</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Friday, November 22</date>
+			<venue>Arts Club, Liverpool</venue>
+			<headliner>
+				<name>Blood Red Shoes</name>
+			</headliner>
+			<support>
+				<name>Queen Kwong</name>
+			</support>
+			<support>
+				<name>Gen And The Degenerates</name>
+			</support>
+			<notes>Get Tragic Tour</notes>
 		</show>
 	</annual>
 </shows>
