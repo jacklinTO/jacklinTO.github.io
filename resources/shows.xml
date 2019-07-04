@@ -7689,6 +7689,9 @@
 			<headliner>
 				<name>Broken Social Scene</name>
 			</headliner>
+			<support>
+				<name>Lydia Persaud</name>
+			</support>
 			<notes>Canada Day Weekend Celebration</notes>
 		</show>
 		<show>
@@ -7697,6 +7700,9 @@
 			<headliner>
 				<name>The Beths</name>
 			</headliner>
+			<support>
+				<name>Girl Friday</name>
+			</support>
 			<notes>Future Me Hates Me</notes>
 		</show>
 		<show>
@@ -7705,6 +7711,7 @@
 			<headliner>
 				<name>Tame Impala</name>
 			</headliner>
+			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, August 13</date>
@@ -7726,6 +7733,10 @@
 			<headliner>
 				<name>Hatchie</name>
 			</headliner>
+			<support>
+				<name>Orchin</name>
+			</support>
+			<notes>Keepsake Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, September 18</date>
@@ -7741,6 +7752,9 @@
 			<headliner>
 				<name>Band Of Skulls</name>
 			</headliner>
+			<support>
+				<name>Demob Happy</name>
+			</support>
 			<notes>Love Is All You Love Tour</notes>
 		</show>
 		<show>
@@ -7757,6 +7771,7 @@
 			<headliner>
 				<name>Temples</name>
 			</headliner>
+			<notes>Hot Motion Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, November 9</date>
@@ -7767,7 +7782,7 @@
 		</show>
 		<show>
 			<date>Thursday, November 14</date>
-			<venue>Haunt Live, Brighton</venue>
+			<venue>Haunt, Brighton</venue>
 			<headliner>
 				<name>Blood Red Shoes</name>
 			</headliner>
@@ -7811,7 +7826,7 @@
 		</show>
 		<show>
 			<date>Tuesday, November 19</date>
-			<venue>Islington Assembly Hall, London</venue>
+			<venue>Islington Assembly Hall, Islington, London</venue>
 			<headliner>
 				<name>Blood Red Shoes</name>
 			</headliner>
