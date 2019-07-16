@@ -7711,6 +7711,9 @@
 			<headliner>
 				<name>Tame Impala</name>
 			</headliner>
+			<support>
+				<name>Velvet Negroni</name>
+			</support>
 			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
@@ -7779,6 +7782,10 @@
 			<headliner>
 				<name>Chastity Belt</name>
 			</headliner>
+			<support>
+				<name>Strange Ranger</name>
+			</support>
+			<notes>Chastity Belt Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, November 14</date>
@@ -7814,6 +7821,17 @@
 			<notes>Get Tragic Tour</notes>
 		</show>
 		<show>
+			<date>Sunday, November 17</date>
+			<venue>Utilita Arena, Newcastle Upon Tyne</venue>
+			<headliner>
+				<name>Liam Gallagher</name>
+			</headliner>
+			<support>
+				<name>Slowthai</name>
+			</support>
+			<notes>Why Me? Why Not Tour</notes>
+		</show>
+		<show>
 			<date>Monday, November 18</date>
 			<venue>Rescue Rooms, Nottingham</venue>
 			<headliner>
@@ -7845,6 +7863,17 @@
 				<name>Queen Kwong</name>
 			</support>
 			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 21</date>
+			<venue>M&amp;S Bank Arena, Liverpool</venue>
+			<headliner>
+				<name>Liam Gallagher</name>
+			</headliner>
+			<support>
+				<name>Slowthai</name>
+			</support>
+			<notes>Why Me? Why Not Tour</notes>
 		</show>
 		<show>
 			<date>Friday, November 22</date>
