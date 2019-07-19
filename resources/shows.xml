@@ -1315,7 +1315,7 @@
 		</show>
 		<show>
 			<date>Friday, June 3</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Jonny</name>
 			</headliner>
@@ -1483,7 +1483,7 @@
 		</show>
 		<show>
 			<date>Saturday, September 10</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>The Darcys</name>
 			</headliner>
@@ -1508,7 +1508,7 @@
 		</show>
 		<show>
 			<date>Friday, September 16</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Modern Superstitions</name>
 			</headliner>
@@ -1544,7 +1544,7 @@
 		</show>
 		<show>
 			<date>Friday, September 23</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Snake &amp; Crane</name>
 			</headliner>
@@ -2304,7 +2304,7 @@
 		</show>
 		<show>
 			<date>Wednesday, September 26</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Blood Red Shoes</name>
 			</headliner>
@@ -2332,7 +2332,7 @@
 		</show>
 		<show>
 			<date>Tuesday, October 2</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Niki And The Dove</name>
 			</headliner>
@@ -2610,7 +2610,7 @@
 		</show>
 		<show>
 			<date>Thursday, May 2</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Rachel Zeffira</name>
 			</headliner>
@@ -2692,7 +2692,7 @@
 		</show>
 		<show>
 			<date>Wednesday, June 12</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Sue Newberry &amp; The Law</name>
 			</headliner>
@@ -2735,7 +2735,7 @@
 		</show>
 		<show>
 			<date>Thursday, June 13</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Camera</name>
 			</headliner>
@@ -2869,7 +2869,7 @@
 		</show>
 		<show>
 			<date>Thursday, August 8</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Teenage Kicks</name>
 			</headliner>
@@ -2985,7 +2985,7 @@
 		</show>
 		<show>
 			<date>Friday, October 25</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>The Belle Game</name>
 			</headliner>
@@ -3058,7 +3058,7 @@
 		</show>
 		<show>
 			<date>Friday, December 27</date>
-			<venue>Drake Hotel Underground, Toronto</venue>
+			<venue>Drake Underground, Toronto</venue>
 			<headliner>
 				<name>Alvvays</name>
 			</headliner>
@@ -7706,6 +7706,34 @@
 			<notes>Future Me Hates Me</notes>
 		</show>
 		<show>
+			<date>Friday, July 19</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Girlfriend Material</name>
+			</headliner>
+			<support>
+				<name>Deanna Petcoff</name>
+			</support>
+			<support>
+				<name>Knifey</name>
+			</support>
+			<support>
+				<name>Lenny Bull</name>
+			</support>
+			<notes>Cool Car Album Release Show</notes>
+		</show>
+		<show>
+			<date>Tuesday, July 23</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Repeat Repeat</name>
+			</headliner>
+			<support>
+				<name>Flipturn</name>
+			</support>
+			<notes>Glazed Tour</notes>
+		</show>
+		<show>
 			<date>Friday, July 26</date>
 			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
@@ -7729,6 +7757,20 @@
 				<name>AFI</name>
 			</support>
 			<notes>Summer 2019 Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, August 20</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Gauche</name>
+			</headliner>
+			<support>
+				<name>Nyssa</name>
+			</support>
+			<support>
+				<name>Bad Waitress</name>
+			</support>
+			<notes>A People's History Of Gauche Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, September 10</date>
@@ -7766,7 +7808,23 @@
 			<headliner>
 				<name>Bleached</name>
 			</headliner>
+			<support>
+				<name>The Paranoyds</name>
+			</support>
+			<support>
+				<name>Pony</name>
+			</support>
 			<notes>Don’t You Think You’ve Had Enough? Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, October 3</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Bombay Bicycle Club</name>
+			</headliner>
+			<support>
+				<name>The Greeting Committe</name>
+			</support>
 		</show>
 		<show>
 			<date>Sunday, November 3</date>
@@ -7774,6 +7832,9 @@
 			<headliner>
 				<name>Temples</name>
 			</headliner>
+			<support>
+				<name>Mattiel</name>
+			</support>
 			<notes>Hot Motion Tour</notes>
 		</show>
 		<show>
