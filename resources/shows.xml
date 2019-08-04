@@ -7742,6 +7742,9 @@
 			<support>
 				<name>Velvet Negroni</name>
 			</support>
+			<suppor>
+				<name>Family Of Things</name>
+			</suppor>
 			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
@@ -7817,6 +7820,25 @@
 			<notes>Don’t You Think You’ve Had Enough? Tour</notes>
 		</show>
 		<show>
+			<date>Tuesday, September 24</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Joseph</name>
+			</headliner>
+			<support>
+				<name>Deep Sea Diver</name>
+			</support>
+			<notes>Good Luck, Kid Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 28</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Weyes Blood</name>
+			</headliner>
+			<notes>Titanic Rising Tour</notes>
+		</show>
+		<show>
 			<date>Thursday, October 3</date>
 			<venue>Phoenix Concert Theatre, Toronto</venue>
 			<headliner>
@@ -7825,6 +7847,44 @@
 			<support>
 				<name>The Greeting Committe</name>
 			</support>
+		</show>
+		<show>
+			<date>Tuesday, October 8</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>The Regrettes</name>
+			</headliner>
+			<support>
+				<name>Greer</name>
+			</support>
+			<support>
+				<name>Hala</name>
+			</support>
+			<notes>How Do You Love? Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, October 10</date>
+			<venue>Longboat Hall, Great Hall, Toronto</venue>
+			<headliner>
+				<name>Kazu</name>
+			</headliner>
+			<notes>Adult Baby Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, October 27</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>The Japanese House</name>
+			</headliner>
+			<notes>Good At Falling Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, October 31</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Jenny Lewis</name>
+			</headliner>
+			<notes>On The Line Tour</notes>
 		</show>
 		<show>
 			<date>Sunday, November 3</date>
