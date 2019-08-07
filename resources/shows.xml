@@ -5174,7 +5174,7 @@
 		    <date>Saturday, May 21</date>
 		    <venue>Concorde 2, Brighton</venue>
 		    <headliner>
-		        <name>Joy Formidable</name>
+		        <name>The Joy Formidable</name>
 		    </headliner>
 		    <support>
 		        <name>Dead!</name>
@@ -5230,7 +5230,7 @@
 		    <date>Wednesday, June 15</date>
 		    <venue>Mod Club Theatre, Toronto</venue>
 		    <headliner>
-		        <name>Joy Formidable</name>
+		        <name>The Joy Formidable</name>
 		    </headliner>
 		    <support>
 		        <name>Ferraro</name>
@@ -7723,17 +7723,6 @@
 			<notes>Cool Car Album Release Show</notes>
 		</show>
 		<show>
-			<date>Tuesday, July 23</date>
-			<venue>Drake Underground, Toronto</venue>
-			<headliner>
-				<name>Repeat Repeat</name>
-			</headliner>
-			<support>
-				<name>Flipturn</name>
-			</support>
-			<notes>Glazed Tour</notes>
-		</show>
-		<show>
 			<date>Friday, July 26</date>
 			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
@@ -7869,6 +7858,14 @@
 				<name>Kazu</name>
 			</headliner>
 			<notes>Adult Baby Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, October 24</date>
+			<venue>Horeshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Sloan Tribute</name>
+			</headliner>
+			<notes>A Tribute To Sloan</notes>
 		</show>
 		<show>
 			<date>Sunday, October 27</date>
@@ -8009,6 +8006,17 @@
 				<name>Gen And The Degenerates</name>
 			</support>
 			<notes>Get Tragic Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, December 10</date>
+			<venue>Velvet Underground</venue>
+			<headliner>
+				<name>The Joy Formidable</name>
+			</headliner>
+			<support>
+				<name>Bryde</name>
+			</support>
+			<notes>A Balloon Called Moaning 10 Years Floating Tour</notes>
 		</show>
 	</annual>
 </shows>
