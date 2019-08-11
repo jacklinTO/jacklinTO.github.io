@@ -7648,6 +7648,17 @@
 			<notes>NeXT Showcase / NXNE 2019</notes>
 		</show>
 		<show>
+			<date>Wednesday, June 19</date>
+			<venue>Mod Club Theatre, Toronto</venue>
+			<headliner>
+				<name>Bucket List</name>
+			</headliner>
+			<support>
+				<name>Wellington U</name>
+			</support>
+			<notes>Toronto Tech Summer Kickoff</notes>
+		</show>
+		<show>
 			<date>Friday, June 21</date>
 			<venue>Drake Underground, Toronto</venue>
 			<headliner>
@@ -7737,6 +7748,25 @@
 			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, August 10</date>
+			<venue>Audi Feast Stage, St. Lawrence Market, Toronto</venue>
+			<headliner>
+				<name>Gracie</name>
+			</headliner>
+			<notes>St. Lawrence Market Street Celebration</notes>
+		</show>
+		<show>
+			<date>Sunday, August 11</date>
+			<venue>Bentway, Toronto</venue>
+			<headliner>
+				<name>Doomsquad</name>
+			</headliner>
+			<support>
+				<name>Phedre</name>
+			</support>
+			<notes>Sunday Social</notes>
+		</show>
+		<show>
 			<date>Tuesday, August 13</date>
 			<venue>Budweiser Stage, Toronto</venue>
 			<headliner>
@@ -7763,6 +7793,23 @@
 				<name>Bad Waitress</name>
 			</support>
 			<notes>A People's History Of Gauche Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 21</date>
+			<venue>Great Hall, Toronto</venue>
+			<headliner>
+				<name>The Beaches</name>
+			</headliner>
+			<support>
+				<name>Ralph</name>
+			</support>
+			<support>
+				<name>Prince Innocence</name>
+			</support>
+			<support>
+				<name>Dae the Poet</name>
+			</support>
+			<notes>Body Part</notes>
 		</show>
 		<show>
 			<date>Tuesday, September 10</date>
@@ -8008,8 +8055,25 @@
 			<notes>Get Tragic Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, November 23</date>
+			<venue>Tramshed, Cardiff</venue>
+			<headliner>
+				<name>The Joy Formidable</name>
+			</headliner>
+			<support>
+				<name>Blood Red Shoes</name>
+			</support>
+			<support>
+				<name>Candelas</name>
+			</support>
+			<support>
+				<name>Chroma</name>
+			</support>
+			<notes>Formidable Fest / A Balloon Called Moaning 10 Years Floating Tour</notes>
+		</show>
+		<show>
 			<date>Tuesday, December 10</date>
-			<venue>Velvet Underground</venue>
+			<venue>Velvet Underground, Toronto</venue>
 			<headliner>
 				<name>The Joy Formidable</name>
 			</headliner>
