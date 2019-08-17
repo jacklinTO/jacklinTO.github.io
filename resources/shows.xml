@@ -7778,6 +7778,9 @@
 			<support>
 				<name>AFI</name>
 			</support>
+			<support>
+				<name>Possum</name>
+			</support>
 			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
@@ -7842,6 +7845,17 @@
 			<notes>Love Is All You Love Tour</notes>
 		</show>
 		<show>
+			<date>Sunday, September 22</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Lola Kirke</name>
+			</headliner>
+			<support>
+				<name>Odetta Hartman</name>
+			</support>
+			<notes>Omens Tour</notes>
+		</show>
+		<show>
 			<date>Monday, September 23</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
@@ -7865,6 +7879,14 @@
 				<name>Deep Sea Diver</name>
 			</support>
 			<notes>Good Luck, Kid Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, September 25</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Maggie Koerner</name>
+			</headliner>
+			<notes>If I Die Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, September 28</date>
@@ -7907,8 +7929,19 @@
 			<notes>Adult Baby Tour</notes>
 		</show>
 		<show>
+			<date>Monday, October 21</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Marika Hackman</name>
+			</headliner>
+			<support>
+				<name>Girl Friday</name>
+			</support>
+			<notes>Any Human Friend Tour</notes>
+		</show>
+		<show>
 			<date>Thursday, October 24</date>
-			<venue>Horeshoe Tavern, Toronto</venue>
+			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Sloan Tribute</name>
 			</headliner>
@@ -7940,6 +7973,14 @@
 				<name>Mattiel</name>
 			</support>
 			<notes>Hot Motion Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 7</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>The Schizophonics</name>
+			</headliner>
+			<notes>People In The Sky Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, November 9</date>
