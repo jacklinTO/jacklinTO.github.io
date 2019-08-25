@@ -144,7 +144,7 @@
 		</show>
 		<show>
 			<date>Friday, September 8</date>
-			<venue>Back Campus, University of Toronto, Toronto</venue>
+			<venue>Back Campus, University Of Toronto, Toronto</venue>
 			<headliner>
 				<name>Metric</name>
 			</headliner>
@@ -798,13 +798,13 @@
 			<date>Friday, February 12</date>
 			<venue>Garage, Highbury, London</venue>
 			<headliner>
-				<name>Band of Skulls</name>
+				<name>Band Of Skulls</name>
 			</headliner>
 			<support>
 				<name>General Fiasco</name>
 			</support>
 			<support>
-				<name>Birds of Tokyo</name>
+				<name>Birds Of Tokyo</name>
 			</support>
 			<notes>HMV Next Big Thing Festival / Baby Darling Dollface Honey Tour</notes>
 		</show>
@@ -885,7 +885,7 @@
 			<date>Saturday, May 1</date>
 			<venue>Fiddler's Elbow, Camden, London</venue>
 			<headliner>
-				<name>The Wilderness of Manitoba</name>
+				<name>The Wilderness Of Manitoba</name>
 			</headliner>
 			<notes>Camden Crawl 2010 / Canadian Blast / Hymns Of Love And Spirits Tour</notes>
 		</show>
@@ -914,7 +914,7 @@
 			<headliner>
 				<name>Plan B</name>
 			</headliner>
-			<notes>Camden Crawl 2010 / The Defamation of Strickland Banks Tour</notes>
+			<notes>Camden Crawl 2010 / The Defamation Of Strickland Banks Tour</notes>
 		</show>
 		<show>
 			<date>Friday, May 14</date>
@@ -1260,7 +1260,7 @@
 		</show>
 		<show>
 			<date>Friday, April 1</date>
-			<venue>Peter Clark Hall, University of Guelph, Guelph</venue>
+			<venue>Peter Clark Hall, University Of Guelph, Guelph</venue>
 			<headliner>
 				<name>Tokyo Police Club</name>
 			</headliner>
@@ -2220,7 +2220,7 @@
 			<support>
 				<name>Secret Suburbia</name>
 			</support>
-			<notes>King of the Waves Tour</notes>
+			<notes>King Of the Waves Tour</notes>
 		</show>
 		<show>
 			<date>Friday, August 31</date>
@@ -3981,7 +3981,7 @@
 			<support>
 				<name>Fever City</name>
 			</support>
-			<notes>NeXT Presents Class of 2015 #1</notes>
+			<notes>NeXT Presents Class Of 2015 #1</notes>
 		</show>
 		<show>
 			<date>Monday, January 19</date>
@@ -4557,7 +4557,7 @@
 			<support>
 				<name>Black Pistol Fire</name>
 			</support>
-			<notes>The Story of Sonny Boy Slim Tour</notes>
+			<notes>The Story Of Sonny Boy Slim Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, October 31</date>
@@ -4604,7 +4604,7 @@
 			<headliner>
 				<name>Sloan</name>
 			</headliner>
-			<notes>Cavalcade of Lights / Commonwealth Tour</notes>
+			<notes>Cavalcade Of Lights / Commonwealth Tour</notes>
 		</show>
 		<show>
 			<date>Friday, December 4</date>
@@ -4717,7 +4717,7 @@
 			<support>
 				<name>Pins &amp; Needles</name>
 			</support>
-			<notes>Class of 2016 #3</notes>
+			<notes>Class Of 2016 #3</notes>
 		</show>
 		<show>
 			<date>Tuesday, January 12</date>
@@ -5387,7 +5387,7 @@
 		    <support>
 		        <name>Daya</name>
 		    </support>
-		    <notes>Pepsi World Cup of Hockey Premiere Party</notes>
+		    <notes>Pepsi World Cup Of Hockey Premiere Party</notes>
 		</show>
 		<show>
 		    <date>Sunday, September 18</date>
@@ -6576,7 +6576,7 @@
 			<support>
 				<name>Fade Awaays</name>
 			</support>
-			<notes>Class of 2018</notes>
+			<notes>Class Of 2018</notes>
 		</show>
 		<show>
 			<date>Saturday, January 27</date>
@@ -6666,7 +6666,7 @@
 			<headliner>
 				<name>Noel Gallagher’s High Flying Birds</name>
 			</headliner>
-			<notes>Who Built The Moon Tour</notes>
+			<notes>Stranded on the Earth World Tour</notes>
 		</show>
 		<show>
 			<date>Friday, March 2</date>
@@ -7047,7 +7047,7 @@
 			<support>
 				<name>Favvkes</name>
 			</support>
-			<notes>20th Anniversary of Metasexual</notes>
+			<notes>20th Anniversary Of Metasexual</notes>
 		</show>
 		<show>
 			<date>Saturday, September 29</date>
@@ -7253,7 +7253,7 @@
 			<support>
 				<name>SuperSonic</name>
 			</support>
-			<notes>Oasis + The KIllers: The Best of 1990s and 2000s Rock</notes>
+			<notes>Oasis + The KIllers: The Best Of 1990s and 2000s Rock</notes>
 		</show>
 		<show>
 			<date>Tuesday, March 5</date>
@@ -7784,6 +7784,17 @@
 			<notes>Summer 2019 Tour</notes>
 		</show>
 		<show>
+			<date>Sunday, August 18</date>
+			<venue>Bentway, Toronto</venue>
+			<headliner>
+				<name>Jackie</name>
+			</headliner>
+			<support>
+				<name>Future Peers</name>
+			</support>
+			<notes>New At Drugs Tour / Sunday Social</notes>
+		</show>
+		<show>
 			<date>Tuesday, August 20</date>
 			<venue>Baby G, Toronto</venue>
 			<headliner>
@@ -7812,7 +7823,21 @@
 			<support>
 				<name>Dae the Poet</name>
 			</support>
-			<notes>Body Part</notes>
+			<notes>Body Part Fundraiser</notes>
+		</show>
+		<show>
+			<date>Sunday, August 25</date>
+			<venue>Bentway, Toronto</venue>
+			<headliner>
+				<name>Fade Awaays</name>
+			</headliner>
+			<support>
+				<name>Pony</name>
+			</support>
+			<support>
+				<name>Good Kid</name>
+			</support>
+			<notes>As They Do Tour / Sunday Social</notes>
 		</show>
 		<show>
 			<date>Tuesday, September 10</date>
@@ -7831,6 +7856,9 @@
 			<headliner>
 				<name>Two Door Cinema Club</name>
 			</headliner>
+			<support>
+				<name>Overcoats</name>
+			</support>
 			<notes>False Alarm Tour</notes>
 		</show>
 		<show>
@@ -8032,9 +8060,6 @@
 			<headliner>
 				<name>Liam Gallagher</name>
 			</headliner>
-			<support>
-				<name>Slowthai</name>
-			</support>
 			<notes>Why Me? Why Not Tour</notes>
 		</show>
 		<show>
@@ -8076,9 +8101,6 @@
 			<headliner>
 				<name>Liam Gallagher</name>
 			</headliner>
-			<support>
-				<name>Slowthai</name>
-			</support>
 			<notes>Why Me? Why Not Tour</notes>
 		</show>
 		<show>
@@ -8118,6 +8140,9 @@
 			<headliner>
 				<name>The Joy Formidable</name>
 			</headliner>
+			<support>
+				<name>Twen</name>
+			</support>
 			<support>
 				<name>Bryde</name>
 			</support>
