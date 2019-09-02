@@ -7840,6 +7840,34 @@
 			<notes>As They Do Tour / Sunday Social</notes>
 		</show>
 		<show>
+			<date>Wednesday, August 28</date>
+			<venue>Baby G, Toronto</venue>
+			<headliner>
+				<name>Material Girls</name>
+			</headliner>
+			<support>
+				<name>Jean Daddy</name>
+			</support>
+			<support>
+				<name>Motorists</name>
+			</support>
+			<notes>Leather Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, September 1</date>
+			<venue>Burdock, Toronto</venue>
+			<headliner>
+				<name>Juice Girls</name>
+			</headliner>
+			<support>
+				<name>Teleri</name>
+			</support>
+			<support>
+				<name>Dub Stupid Liars</name>
+			</support>
+			<notes>Juice Girls Tour</notes>
+		</show>
+		<show>
 			<date>Tuesday, September 10</date>
 			<venue>Garrison, Toronto</venue>
 			<headliner>
@@ -7849,6 +7877,20 @@
 				<name>Orchin</name>
 			</support>
 			<notes>Keepsake Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 14</date>
+			<venue>Monarch Tavern, Toronto</venue>
+			<headliner>
+				<name>Rose Of The West</name>
+			</headliner>
+			<support>
+				<name>The Treetops</name>
+			</support>
+			<support>
+				<name>Koza</name>
+			</support>
+			<notes>Rose Of The West Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, September 18</date>
