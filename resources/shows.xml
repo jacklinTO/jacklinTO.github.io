@@ -7868,6 +7868,42 @@
 			<notes>Juice Girls Tour</notes>
 		</show>
 		<show>
+			<date>Monday, September 2</date>
+			<venue>Burdock, Toronto</venue>
+			<headliner>
+				<name>Palm Haze</name>
+			</headliner>
+			<support>
+				<name>Greenhouse</name>
+			</support>
+			<support>
+				<name>Low Kites</name>
+			</support>
+			<notes>Reve Bleu Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 7</date>
+			<venue>Slaight Music Stage, Festival Street, Toronto</venue>
+			<headliner>
+				<name>Kayla Diamond</name>
+			</headliner>
+			<notes>Toronto International Film Festival / Dirty Laundry Tour</notes>
+		</show>
+		<show>
+			<date>Sunday, September 8</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Sugar Candy Mountain</name>
+			</headliner>
+			<support>
+				<name>Roy</name>
+			</support>
+			<support>
+				<name>Carlo</name>
+			</support>
+			<notes>666 Tour</notes>
+		</show>
+		<show>
 			<date>Tuesday, September 10</date>
 			<venue>Garrison, Toronto</venue>
 			<headliner>
@@ -7956,6 +7992,9 @@
 			<headliner>
 				<name>Maggie Koerner</name>
 			</headliner>
+			<support>
+				<name>Kirty</name>
+			</support>
 			<notes>If I Die Tour</notes>
 		</show>
 		<show>
@@ -7964,6 +8003,9 @@
 			<headliner>
 				<name>Weyes Blood</name>
 			</headliner>
+			<support>
+				<name>Helena Deland</name>
+			</support>
 			<notes>Titanic Rising Tour</notes>
 		</show>
 		<show>
@@ -7975,6 +8017,7 @@
 			<support>
 				<name>The Greeting Committe</name>
 			</support>
+			<notes>Everything Else Has Gone Wrong Tour</notes>
 		</show>
 		<show>
 			<date>Tuesday, October 8</date>
@@ -8050,6 +8093,9 @@
 			<headliner>
 				<name>The Schizophonics</name>
 			</headliner>
+			<support>
+				<name>Catl</name>
+			</support>
 			<notes>People In The Sky Tour</notes>
 		</show>
 		<show>
