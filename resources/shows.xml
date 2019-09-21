@@ -4242,7 +4242,7 @@
 				<name>Warpaint</name>
 			</headliner>
 			<support>
-				<name>DIANA</name>
+				<name>Diana</name>
 			</support>
 			<support>
 				<name>Ava Luna</name>
@@ -7940,6 +7940,14 @@
 			<notes>False Alarm Tour</notes>
 		</show>
 		<show>
+			<date>Thursday, September 19</date>
+			<venue>Bier Markt, Toronto</venue>
+			<headliner>
+				<name>Pkew Pkew Pkew</name>
+			</headliner>
+			<notes>Toronto Beer Week / Optimal Lifestyles Tour</notes>
+		</show>
+		<show>
 			<date>Saturday, September 21</date>
 			<venue>Mod Club Theatre, Toronto</venue>
 			<headliner>
@@ -8111,7 +8119,7 @@
 		</show>
 		<show>
 			<date>Thursday, November 14</date>
-			<venue>Haunt, Brighton</venue>
+			<venue>Chalk, Brighton</venue>
 			<headliner>
 				<name>Blood Red Shoes</name>
 			</headliner>
@@ -8235,6 +8243,18 @@
 				<name>Bryde</name>
 			</support>
 			<notes>A Balloon Called Moaning 10 Years Floating Tour</notes>
+		</show>
+	</annual>
+	
+	<annual>
+		<year>2020</year>
+		<show>
+			<date>Friday, March 6</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Limblifter</name>
+			</headliner>
+			<notes>Bellaclava 20th Anniversary Tour</notes>
 		</show>
 	</annual>
 </shows>
