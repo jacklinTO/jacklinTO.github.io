@@ -7967,6 +7967,9 @@
 			<support>
 				<name>Odetta Hartman</name>
 			</support>
+			<support>
+				<name>Pax</name>
+			</support>
 			<notes>Omens Tour</notes>
 		</show>
 		<show>
@@ -8028,6 +8031,23 @@
 			<notes>Everything Else Has Gone Wrong Tour</notes>
 		</show>
 		<show>
+			<date>Friday, October 4</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Casper Skulls</name>
+			</headliner>
+			<support>
+				<name>Canyun</name>
+			</support>
+			<support>
+				<name>Komodo</name>
+			</support>
+			<support>
+				<name>Catholic Wilt</name>
+			</support>
+			<notes>The Garrison 10 Year Birthday Party</notes>
+		</show>
+		<show>
 			<date>Tuesday, October 8</date>
 			<venue>Velvet Underground, Toronto</venue>
 			<headliner>
@@ -8083,17 +8103,6 @@
 				<name>Jenny Lewis</name>
 			</headliner>
 			<notes>On The Line Tour</notes>
-		</show>
-		<show>
-			<date>Sunday, November 3</date>
-			<venue>Phoenix Concert Theatre, Toronto</venue>
-			<headliner>
-				<name>Temples</name>
-			</headliner>
-			<support>
-				<name>Mattiel</name>
-			</support>
-			<notes>Hot Motion Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, November 7</date>
@@ -8248,6 +8257,17 @@
 	
 	<annual>
 		<year>2020</year>
+		<show>
+			<date>Tuesday, January 28</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Temples</name>
+			</headliner>
+			<support>
+				<name>Art d'Ecco</name>
+			</support>
+			<notes>Hot Motion Tour</notes>
+		</show>
 		<show>
 			<date>Friday, March 6</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
