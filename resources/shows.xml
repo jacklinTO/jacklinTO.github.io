@@ -8067,7 +8067,30 @@
 			<headliner>
 				<name>Kazu</name>
 			</headliner>
+			<support>
+				<name>Sound Of Ceres</name>
+			</support>
 			<notes>Adult Baby Tour</notes>
+		</show>
+		<show>
+			<date>Friday, October 11</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>No Joy</name>
+			</headliner>
+			<support>
+				<name>Ice Cream</name>
+			</support>
+			<support>
+				<name>Mimico</name>
+			</support>
+			<support>
+				<name>Mother Tongues</name>
+			</support>
+			<support>
+				<name>The Blank Tapes</name>
+			</support>
+			<notes>Night Owl Festival</notes>
 		</show>
 		<show>
 			<date>Monday, October 21</date>
@@ -8229,13 +8252,28 @@
 				<name>The Joy Formidable</name>
 			</headliner>
 			<support>
+				<name>Islet</name>
+			</support>
+			<support>
 				<name>Blood Red Shoes</name>
+			</support>
+			<support>
+				<name>Bryde</name>
 			</support>
 			<support>
 				<name>Candelas</name>
 			</support>
 			<support>
+				<name>Walt Disco</name>
+			</support>
+			<support>
 				<name>Chroma</name>
+			</support>
+			<support>
+				<name>Gwenno</name>
+			</support>
+			<support>
+				<name>Rhys Peski</name>
 			</support>
 			<notes>Formidable Fest / A Balloon Called Moaning 10 Years Floating Tour</notes>
 		</show>
