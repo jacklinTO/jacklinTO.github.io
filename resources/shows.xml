@@ -8313,12 +8313,34 @@
 			<notes>Hot Motion Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, February 29</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>The Beaches</name>
+			</headliner>
+			<support>
+				<name>Goodbye Honolulu</name>
+			</support>
+			<support>
+				<name>Valley</name>
+			</support>
+			<notes>The Professional Tour</notes>
+		</show>
+		<show>
 			<date>Friday, March 6</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Limblifter</name>
 			</headliner>
 			<notes>Bellaclava 20th Anniversary Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, May 7</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Coeur de Pirate</name>
+			</headliner>
+			<notes>Unplugged Tour</notes>
 		</show>
 	</annual>
 </shows>
