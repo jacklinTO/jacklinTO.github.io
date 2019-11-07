@@ -8117,6 +8117,9 @@
 			<headliner>
 				<name>The Japanese House</name>
 			</headliner>
+			<support>
+				<name>Our Girl</name>
+			</support>
 			<notes>Good At Falling Tour</notes>
 		</show>
 		<show>
@@ -8125,6 +8128,9 @@
 			<headliner>
 				<name>Jenny Lewis</name>
 			</headliner>
+			<support>
+				<name>La Force</name>
+			</support>
 			<notes>On The Line Tour</notes>
 		</show>
 		<show>
@@ -8238,6 +8244,14 @@
 			<notes>Why Me? Why Not Tour</notes>
 		</show>
 		<show>
+			<date>Thursday, November 21</date>
+			<venue>Hangar 3, Liverpool</venue>
+			<headliner>
+				<name>Definitely Oasis</name>
+			</headliner>
+			<notes>Liam Gallagher Aftershow Party / Oasis Tribute Band</notes>
+		</show>
+		<show>
 			<date>Friday, November 22</date>
 			<venue>Arts Club, Liverpool</venue>
 			<headliner>
@@ -8327,12 +8341,31 @@
 			<notes>The Professional Tour</notes>
 		</show>
 		<show>
+			<date>Monday, March 2</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>La Roux</name>
+			</headliner>
+			<notes>International Woman Of Leisure Tour</notes>
+		</show>
+		<show>
 			<date>Friday, March 6</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Limblifter</name>
 			</headliner>
 			<notes>Bellaclava 20th Anniversary Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, March 14</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Best Coast</name>
+			</headliner>
+			<support>
+				<name>Mannequin Pussy</name>
+			</support>
+			<notes>Always Tomorrow Tour</notes>
 		</show>
 		<show>
 			<date>Thursday, May 7</date>
