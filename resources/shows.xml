@@ -8197,6 +8197,9 @@
 			<support>
 				<name>DMA's</name>
 			</support>
+			<support>
+				<name>Twisted Wheel</name>
+			</support>
 			<notes>Why Me? Why Not Tour</notes>
 		</show>
 		<show>
@@ -8241,15 +8244,10 @@
 			<support>
 				<name>Miles Kane</name>
 			</support>
+			<support>
+				<name>The Illicits</name>
+			</support>
 			<notes>Why Me? Why Not Tour</notes>
-		</show>
-		<show>
-			<date>Thursday, November 21</date>
-			<venue>Hangar 3, Liverpool</venue>
-			<headliner>
-				<name>Definitely Oasis</name>
-			</headliner>
-			<notes>Liam Gallagher Aftershow Party / Oasis Tribute Band</notes>
 		</show>
 		<show>
 			<date>Friday, November 22</date>
@@ -8271,29 +8269,21 @@
 			<headliner>
 				<name>The Joy Formidable</name>
 			</headliner>
-			<support>
-				<name>Islet</name>
-			</support>
+			
 			<support>
 				<name>Blood Red Shoes</name>
-			</support>
-			<support>
-				<name>Bryde</name>
-			</support>
-			<support>
-				<name>Candelas</name>
 			</support>
 			<support>
 				<name>Walt Disco</name>
 			</support>
 			<support>
+				<name>Islet</name>
+			</support>
+			<support>
 				<name>Chroma</name>
 			</support>
 			<support>
-				<name>Gwenno</name>
-			</support>
-			<support>
-				<name>Rhys Peski</name>
+				<name>Candelas</name>
 			</support>
 			<notes>Formidable Fest / A Balloon Called Moaning 10 Years Floating Tour</notes>
 		</show>
@@ -8311,10 +8301,26 @@
 			</support>
 			<notes>A Balloon Called Moaning 10 Years Floating Tour</notes>
 		</show>
+		<show>
+			<date>Wednesday, December 18</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>Sloan</name>
+			</headliner>
+			<notes>Josie Dye Show's Holiday Sock Drop</notes>
+		</show>
 	</annual>
 	
 	<annual>
 		<year>2020</year>
+		<show>
+			<date>Wednesday, January 22</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Olivia Jean</name>
+			</headliner>
+			<notes>Night Owl Tour</notes>
+		</show>
 		<show>
 			<date>Tuesday, January 28</date>
 			<venue>Lee's Palace, Toronto</venue>
