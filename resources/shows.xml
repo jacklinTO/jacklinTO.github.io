@@ -8303,8 +8303,24 @@
 			<headliner>
 				<name>Sloan</name>
 			</headliner>
+			<support>
+				<name>Dave Monks</name>
+			</support>
+			<support>
+				<name>Monowhales</name>
+			</support>
 			<notes>Josie Dye Show's Holiday Sock Drop</notes>
 		</show>
+		<show>
+			<date>Saturday, December 21</date>
+			<venue>Hideout, Toronto</venue>
+			<headliner>
+				<name>Neon Nostalgic</name>
+			</headliner>
+			<support>
+				<name>Supersonic</name>
+			</support>
+			<notes>Oasis + The Killers Spotlight: Best Of 90s/00s Rock: Bharity Christmas Bash</notes>
 	</annual>
 	
 	<annual>
