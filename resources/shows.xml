@@ -8332,6 +8332,9 @@
 			<headliner>
 				<name>Olivia Jean</name>
 			</headliner>
+			<support>
+				<name>Ichi-Bons</name>
+			</support>
 			<notes>Night Owl Tour</notes>
 		</show>
 		<show>
@@ -8343,7 +8346,27 @@
 			<support>
 				<name>Art d'Ecco</name>
 			</support>
+			<support>
+				<name>Plain Jade</name>
+			</support>
 			<notes>Hot Motion Tour</notes>
+		</show>
+		<show>
+			<date>Monday, February 24</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Ice Cream</name>
+			</headliner>
+			<support>
+				<name>Sylo Nozra</name>
+			</support>
+			<support>
+				<name>Alex Bent</name>
+			</support>
+			<support>
+				<name>Sabby Sousa</name>
+			</support>
+			<notes>School Night Showcase</notes>
 		</show>
 		<show>
 			<date>Saturday, February 29</date>
@@ -8358,14 +8381,6 @@
 				<name>Valley</name>
 			</support>
 			<notes>The Professional Tour</notes>
-		</show>
-		<show>
-			<date>Monday, March 2</date>
-			<venue>Phoenix Concert Theatre, Toronto</venue>
-			<headliner>
-				<name>La Roux</name>
-			</headliner>
-			<notes>International Woman Of Leisure Tour</notes>
 		</show>
 		<show>
 			<date>Friday, March 6</date>
@@ -8393,6 +8408,14 @@
 				<name>Coeur de Pirate</name>
 			</headliner>
 			<notes>Unplugged Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, November 25</date>
+			<venue>Phoenix Concert Theatre, Toronto</venue>
+			<headliner>
+				<name>La Roux</name>
+			</headliner>
+			<notes>International Woman Of Leisure Tour</notes>
 		</show>
 	</annual>
 </shows>
