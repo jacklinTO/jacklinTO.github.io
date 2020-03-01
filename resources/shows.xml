@@ -8375,10 +8375,10 @@
 				<name>The Beaches</name>
 			</headliner>
 			<support>
-				<name>Goodbye Honolulu</name>
+				<name>Valley</name>
 			</support>
 			<support>
-				<name>Valley</name>
+				<name>Goodbye Honolulu</name>
 			</support>
 			<notes>The Professional Tour</notes>
 		</show>
@@ -8402,12 +8402,46 @@
 			<notes>Always Tomorrow Tour</notes>
 		</show>
 		<show>
+			<date>Saturday, March 28</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Supersonic</name>
+			</headliner>
+			<support>
+				<name>The Queen Is Dead</name>
+			</support>
+			<notes>(What's The Story) Morning Glory? 25 Year Anniversary / Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Monday, May 4</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>Brendan Benson</name>
+			</headliner>
+			<notes>You Were Right Tour</notes>
+		</show>
+		<show>
 			<date>Thursday, May 7</date>
 			<venue>Danforth Music Hall, Toronto</venue>
 			<headliner>
 				<name>Coeur de Pirate</name>
 			</headliner>
 			<notes>Unplugged Tour</notes>
+		</show>
+		<show>
+			<date>Monday, May 11</date>
+			<venue>Horseshoe Tavern, Toronto</venue>
+			<headliner>
+				<name>She Drew The Gun</name>
+			</headliner>
+			<notes>She Drew The Gun</notes>
+		</show>
+		<show>
+			<date>Tuesday, May 18</date>
+			<venue>Velvet Underground, Toronto</venue>
+			<headliner>
+				<name>Hinds</name>
+			</headliner>
 		</show>
 		<show>
 			<date>Wednesday, November 25</date>
