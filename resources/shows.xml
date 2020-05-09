@@ -8396,21 +8396,17 @@
 			</support>
 			<notes>Bellaclava 20th Anniversary Tour</notes>
 		</show>
+		<!--
 		<show>
 			<date>Monday, May 4</date>
 			<venue>Horseshoe Tavern, Toronto</venue>
 			<headliner>
 				<name>Brendan Benson</name>
 			</headliner>
+			<support>
+				<name>Rookie</name>
+			</support>
 			<notes>You Were Right Tour</notes>
-		</show>
-		<show>
-			<date>Thursday, May 7</date>
-			<venue>Danforth Music Hall, Toronto</venue>
-			<headliner>
-				<name>Coeur de Pirate</name>
-			</headliner>
-			<notes>Unplugged Tour</notes>
 		</show>
 		<show>
 			<date>Monday, May 11</date>
@@ -8418,8 +8414,9 @@
 			<headliner>
 				<name>She Drew The Gun</name>
 			</headliner>
-			<notes>She Drew The Gun</notes>
+			<notes>She Drew The Gun Tour</notes>
 		</show>
+		-->
 		<show>
 			<date>Monday, November 9</date>
 			<venue>Velvet Underground, Toronto</venue>
@@ -8432,6 +8429,14 @@
 			<support>
 				<name>Romes</name>
 			</support>
+		</show>
+		<show>
+			<date>Thursday, November 12</date>
+			<venue>Danforth Music Hall, Toronto</venue>
+			<headliner>
+				<name>Coeur de Pirate</name>
+			</headliner>
+			<notes>Unplugged Tour</notes>
 		</show>
 		<show>
 			<date>Wednesday, November 25</date>
