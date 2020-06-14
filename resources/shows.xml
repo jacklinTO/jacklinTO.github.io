@@ -8416,20 +8416,6 @@
 			</headliner>
 			<notes>She Drew The Gun Tour</notes>
 		</show>
-		-->
-		<show>
-			<date>Monday, November 9</date>
-			<venue>Velvet Underground, Toronto</venue>
-			<headliner>
-				<name>Hinds</name>
-			</headliner>
-			<support>
-				<name>The Shivas</name>
-			</support>
-			<support>
-				<name>Romes</name>
-			</support>
-		</show>
 		<show>
 			<date>Thursday, November 12</date>
 			<venue>Danforth Music Hall, Toronto</venue>
@@ -8438,6 +8424,7 @@
 			</headliner>
 			<notes>Unplugged Tour</notes>
 		</show>
+		-->
 		<show>
 			<date>Wednesday, November 25</date>
 			<venue>Phoenix Concert Theatre, Toronto</venue>
