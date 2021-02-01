@@ -139,24 +139,26 @@
 
 </head>
 
-<body class="mid">
+<body>
 
 <h2> Gigography </h2>
 
-<a href="#recent">See Most Recent</a>
+<a href="#recent">See Most Recent Shows</a>
 
 <br/>
 
 <br/>
 
-<table border="0" width="80%">
-	<tr class="tableHeader">
-		<td>Year</td>
-		<td>Date</td>
-		<td>Performers</td>
-		<td>Venue</td>
-		<td>Notes</td>
-	</tr>
+<table class="table table-responsive-md">
+	<thead class="tableHeader">
+		<tr>
+			<th scope="col">Year</th>
+			<th scope="col">Date</th>
+			<th scope="col">Performers</th>
+			<th scope="col">Venue</th>
+			<th scope="col">Notes</th>
+		</tr>
+	</thead>
 	<xsl:apply-templates/>
 </table>
 
