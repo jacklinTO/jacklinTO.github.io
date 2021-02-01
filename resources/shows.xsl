@@ -13,8 +13,6 @@
 	</tr>
 	
 		<xsl:apply-templates select="show"/>
-
-	<tr bgcolor="white"><td colspan="5"/></tr>
 </xsl:template>
 
 <xsl:template match="show">
