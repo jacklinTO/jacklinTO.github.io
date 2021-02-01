@@ -158,10 +158,10 @@
 <a name="recent"></a>
 
 <xsl:for-each select="name">
-<xsl:sort select="name"  order="descending"/>
+<xsl:sort select="name" order="descending"/>
 <xsl:if test="position()=1">
 	Most common value: "<xsl:value-of select="current()"/>" (<xsl:value-of select="count(//show/annual/show/headliner/name/contents[text()=current()])"/>)
-</xsl:if>               
+</xsl:if>
 </xsl:for-each>
 
 </body>
