@@ -132,6 +132,8 @@
 
 <link rel="stylesheet" href="resources/style.css" type="text/css"> </link>
 
+<link rel="icon" type="image/ico" href="resources/favicon.ico"></link>
+
 </head>
 
 <body>
