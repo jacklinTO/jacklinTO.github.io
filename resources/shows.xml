@@ -8396,34 +8396,17 @@
 			</support>
 			<notes>Bellaclava 20th Anniversary Tour</notes>
 		</show>
-		<!--
+	</annual>
+	
+	<annual>
+		<year>2022</year>
 		<show>
-			<date>Monday, May 4</date>
-			<venue>Horseshoe Tavern, Toronto</venue>
-			<headliner>
-				<name>Brendan Benson</name>
-			</headliner>
-			<support>
-				<name>Rookie</name>
-			</support>
-			<notes>You Were Right Tour</notes>
+		  <date>Sunday, October 16</date>
+		  <venue>Garrison, Toronto</venue>
+		  <headliner>
+		    <name>Blood Red Shoes</name>
+		  </headliner>
+		  <notes>Ghosts On Tape Tour</notes>
 		</show>
-		<show>
-			<date>Monday, May 11</date>
-			<venue>Horseshoe Tavern, Toronto</venue>
-			<headliner>
-				<name>She Drew The Gun</name>
-			</headliner>
-			<notes>She Drew The Gun Tour</notes>
-		</show>
-		<show>
-			<date>Thursday, November 12</date>
-			<venue>Danforth Music Hall, Toronto</venue>
-			<headliner>
-				<name>Coeur de Pirate</name>
-			</headliner>
-			<notes>Unplugged Tour</notes>
-		</show>
-		-->
 	</annual>
 </shows>
