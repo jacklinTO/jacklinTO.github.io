@@ -8401,12 +8401,12 @@
 	<annual>
 		<year>2022</year>
 		<show>
-		  <date>Sunday, October 16</date>
-		  <venue>Garrison, Toronto</venue>
-		  <headliner>
-		    <name>Blood Red Shoes</name>
-		  </headliner>
-		  <notes>Ghosts On Tape Tour</notes>
+		    <date>Sunday, October 16</date>
+		    <venue>Garrison, Toronto</venue>
+		    <headliner>
+		        <name>Blood Red Shoes</name>
+		    </headliner>
+		    <notes>Ghosts On Tape Tour</notes>
 		</show>
 	</annual>
 </shows>
