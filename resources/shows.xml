@@ -8414,6 +8414,31 @@
       <headliner>
         <name>Blood Red Shoes</name>
       </headliner>
+      <support>
+        <name>Mz. Neon</name>
+      </support>
+      <notes>Ghosts On Tape Tour</notes>
+    </show>
+    <show>
+      <date>Friday, October 21</date>
+      <venue>Silk City Diner, Philadelphia</venue>
+      <headliner>
+        <name>Blood Red Shoes</name>
+      </headliner>
+      <support>
+        <name>Mz. Neon</name>
+      </support>
+      <notes>Ghosts On Tape Tour</notes>
+    </show>
+    <show>
+      <date>Saturday, October 22</date>
+      <venue>Saint Vitus, Brooklyn</venue>
+      <headliner>
+        <name>Blood Red Shoes</name>
+      </headliner>
+      <support>
+        <name>Mz. Neon</name>
+      </support>
       <notes>Ghosts On Tape Tour</notes>
     </show>
   </annual>
