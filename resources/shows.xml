@@ -8409,19 +8409,8 @@
       <notes>S Bet Home Opener / All Of Us Tour</notes>
     </show>
     <show>
-      <date>Sunday, October 16</date>
-      <venue>Garrison, Toronto</venue>
-      <headliner>
-        <name>Blood Red Shoes</name>
-      </headliner>
-      <support>
-        <name>Mz. Neon</name>
-      </support>
-      <notes>Ghosts On Tape Tour</notes>
-    </show>
-    <show>
       <date>Friday, October 21</date>
-      <venue>Silk City Diner, Philadelphia</venue>
+      <venue>Silk City, Philadelphia</venue>
       <headliner>
         <name>Blood Red Shoes</name>
       </headliner>
@@ -8438,6 +8427,9 @@
       </headliner>
       <support>
         <name>Mz. Neon</name>
+      </support>
+      <support>
+        <name>SuperKnova</name>
       </support>
       <notes>Ghosts On Tape Tour</notes>
     </show>
