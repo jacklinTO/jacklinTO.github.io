@@ -8399,17 +8399,14 @@
   </annual>
   
   <annual>
-    <year>2023</year>
+    <year>2022</year>
     <show>
-      <date>Monday, July 3</date>
-      <venue>Budweiser Stage, Toronto</venue>
+      <date>Saturday, April 2</date>
+      <venue>Rendezviews, Toronto</venue>
       <headliner>
-        <name>Noel Gallagher's High Flying Birds</name>
+        <name>Sam Roberts Band</name>
       </headliner>
-      <support>
-        <name>Garbage</name>
-      </support>
-      <notes>Council Skies Tour</notes>
+      <notes>S Bet Home Opener / All Of Us Tour</notes>
     </show>
     <show>
       <date>Friday, October 21</date>
@@ -8439,14 +8436,17 @@
   </annual>
   
   <annual>
-    <year>2022</year>
+    <year>2023</year>
     <show>
-      <date>Saturday, April 2</date>
-      <venue>Rendezviews, Toronto</venue>
+      <date>Monday, July 3</date>
+      <venue>Budweiser Stage, Toronto</venue>
       <headliner>
-        <name>Sam Roberts Band</name>
+        <name>Noel Gallagher's High Flying Birds</name>
       </headliner>
-      <notes>S Bet Home Opener / All Of Us Tour</notes>
+      <support>
+        <name>Garbage</name>
+      </support>
+      <notes>Council Skies Tour</notes>
     </show>
   </annual>
 </shows>
