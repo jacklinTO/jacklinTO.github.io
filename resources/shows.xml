@@ -8454,6 +8454,9 @@
       <headliner>
         <name>Blood Red Shoes</name>
       </headliner>
+      <support>
+        <name>Lyell</name>
+      </support>
       <notes>Summer Tour</notes>
     </show>
     <show>
@@ -8463,6 +8466,34 @@
         <name>Moonwalks</name>
       </headliner>
       <notes>Western Mystery Tradition Tour</notes>
+    </show>
+    <show>
+      <date>Thursday, August 10</date>
+      <venue>Shacklewell Arms, Hackney, London</venue>
+      <headliner>
+        <name>Viji</name>
+      </headliner>
+      <support>
+        <name>Lonnie Gunn</name>
+      </support>
+      <support>
+        <name>Hornet</name>
+      </support>
+      <notes>Cali Tour</notes>
+    </show>
+    <show>
+      <date>Friday, August 11</date>
+      <venue>Strongroom Bar, Shoreditch, London</venue>
+      <headliner>
+        <name>Make Friends</name>
+      </headliner>
+      <support>
+        <name>Coming Up Roses</name>
+      </support>
+      <support>
+        <name>Meet Arthur</name>
+      </support>
+      <notes>Waking Tour</notes>
     </show>
   </annual>
 </shows>
