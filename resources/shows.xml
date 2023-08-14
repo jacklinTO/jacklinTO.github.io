@@ -8465,6 +8465,9 @@
       <headliner>
         <name>Moonwalks</name>
       </headliner>
+      <support>
+        <name>Frances And The Majesties</name>
+      </support>
       <notes>Western Mystery Tradition Tour</notes>
     </show>
     <show>
@@ -8483,17 +8486,11 @@
     </show>
     <show>
       <date>Friday, August 11</date>
-      <venue>Strongroom Bar, Shoreditch, London</venue>
+      <venue>Rough Trade East, Brick Lane, London</venue>
       <headliner>
-        <name>Make Friends</name>
+        <name>The Hives</name>
       </headliner>
-      <support>
-        <name>Coming Up Roses</name>
-      </support>
-      <support>
-        <name>Meet Arthur</name>
-      </support>
-      <notes>Waking Tour</notes>
+      <notes>The Death Of Randy Fitzsimmons Tour</notes>
     </show>
   </annual>
 </shows>
