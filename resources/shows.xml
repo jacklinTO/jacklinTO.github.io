@@ -8492,5 +8492,55 @@
       </headliner>
       <notes>The Death Of Randy Fitzsimmons Tour</notes>
     </show>
+    <show>
+      <date>Saturday, August 18</date>
+      <venue>Trillium Park, Ontario Place, Toronto</venue>
+      <headliner>
+        <name>Gustaf</name>
+      </headliner>
+      <support>
+        <name>Kat Duma</name>
+      </support>
+      <support>
+        <name>Crasher</name>
+      </support>
+      <support>
+        <name>Lee Paradise</name>
+      </support>
+      <notes>Wavelength Summer Things 2023</notes>
+    </show>
+    <show>
+      <date>Friday, September 8</date>
+      <venue>TIFF Festival Street Music Stage, Toronto</venue>
+      <headliner>
+        <name>Nickleback</name>
+      </headliner>
+      <support>
+        <name>Classical Roots</name>
+      </support>
+      <notes>Toronto Film Festival</notes>
+    </show>
+    <show>
+      <date>Tuesday, September 12</date>
+      <venue>Brooklyn Bowl, Brooklyn</venue>
+      <headliner>
+        <name>Warpaint</name>
+      </headliner>
+      <support>
+        <name>Groupie</name>
+      </support>
+      <notes>Radiate Like This Tour</notes>
+    </show>
+    <show>
+      <date>Wednesday, September 13</date>
+      <venue>Mercury Lounge, New York City</venue>
+      <headliner>
+        <name>Night Beats</name>
+      </headliner>
+      <support>
+        <name>Moonwalks</name>
+      </support>
+      <notes>Rajan Tour</notes>
+    </show>
   </annual>
 </shows>
