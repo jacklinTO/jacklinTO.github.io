@@ -8318,7 +8318,7 @@
         <name>Neon Nostalgic</name>
       </headliner>
       <support>
-        <name>Supersonic</name>
+        <name>SuperSonic</name>
       </support>
       <notes>Oasis + The Killers Spotlight: Best Of 90s/00s Rock: Charity Christmas Bash</notes>
     </show>
@@ -8541,6 +8541,14 @@
         <name>Moonwalks</name>
       </support>
       <notes>Rajan Tour</notes>
+    </show>
+    <show>
+      <date>Saturday, December 2</date>
+      <venue>Concert Hall, Toronto</venue>
+      <headliner>
+        <name>SuperSonic</name>
+      </headliner>
+      <notes>Holiday Bash / Oasis Tribute Band</notes>
     </show>
   </annual>
 </shows>
