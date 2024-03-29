@@ -8551,4 +8551,27 @@
       <notes>Holiday Bash / Oasis Tribute Band</notes>
     </show>
   </annual>
+  
+  <annual>
+    <year>2024</year>
+    <show>
+      <date>Thursday, October 3</date>
+      <venue>Concert Hall, Toronto</venue>
+      <headliner>
+        <name>Stars</name>
+      </headliner>
+      <notes>Set Yourself On Fire 20th Anniversary Tour</notes>
+    </show>
+    <show>
+      <date>Wednesday, November 27</date>
+      <venue>History, Toronto</venue>
+      <headliner>
+        <name>Tokyo Police Club</name>
+      </headliner>
+      <support>
+        <name>Hollerado</name>
+      </support>
+      <notes>The Final Show</notes>
+    </show>
+  </annual>
 </shows>
