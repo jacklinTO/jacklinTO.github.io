@@ -8584,16 +8584,18 @@
       </support>
       <notes>Blue Rev Tour</notes>
     </show>
+  </annual>
+
+  <annual>
+    <year>2025</year>
     <show>
-      <year>2025</year>
-      <show>
-        <date>Wednesday, February 12</date>
-        <venue>Concert Hall, Toronto</venue>
-        <headliner>
-          <name>Travis</name>
-        </headliner>
-        <notes>Raze The Bar Tour</notes>
-      </show>
+      <date>Wednesday, February 12</date>
+      <venue>Concert Hall, Toronto</venue>
+      <headliner>
+        <name>Travis</name>
+      </headliner>
+      <notes>Raze The Bar Tour</notes>
     </show>
   </annual>
+
 </shows>
