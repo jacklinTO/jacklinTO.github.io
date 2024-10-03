@@ -8615,10 +8615,32 @@
     </show>
     <show>
       <date>Wednesday, July 30</date>
-      <venue>Wembley Stadium, London</venue>
+      <venue>Wembley Stadium, Wembley, London</venue>
       <headliner>
         <name>Oasis</name>
       </headliner>
+      <notes>Live 2025</notes>
+    </show>
+    <show>
+      <date>Sunday, August 24</date>
+      <venue>Rogers Stadium, Toronto</venue>
+      <headliner>
+        <name>Oasis</name>
+      </headliner>
+      <support>
+        <name>Cage The Elephant</name>
+      </support>
+      <notes>Live 2025</notes>
+    </show>
+    <show>
+      <date>Monday, August 25</date>
+      <venue>Rogers Stadium, Toronto</venue>
+      <headliner>
+        <name>Oasis</name>
+      </headliner>
+      <support>
+        <name>Cage The Elephant</name>
+      </support>
       <notes>Live 2025</notes>
     </show>
   </annual>
