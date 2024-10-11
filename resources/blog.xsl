@@ -10,7 +10,7 @@
 <xsl:template match="topic">
   <div class="card border-secondary">
 		<div class="card-header">
-			<h3 id="topic-1" style="float: left"><i class="bi bi-book" data-bs-toggle="tooltip"></i>&nbsp;Topic 1</h3>
+			<!--<h3 id="topic-1" style="float: left"><i class="bi bi-book" data-bs-toggle="tooltip"></i>&nbsp;Topic 1</h3> -->
 			<xsl:apply-templates select="date"/>
     </div>
     <ul class="list-group list-group-flush">
