@@ -138,6 +138,14 @@
 
 <body>
 
+<div class="row">
+	<div class="col-sm" align="right">
+		<h2>
+			<a href="index.html"><i class="bi bi-house-door-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Home"></i></a>
+		</h2>
+	</div>
+</div>
+
 <h2> Gigography </h2>
 
 <a href="#recent">See Most Recent Shows</a>
