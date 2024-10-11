@@ -46,11 +46,6 @@
 
 <html>
 	<head>
-		<meta http-equiv="Content-Type"<html lang="en"> content="text/html; charset=utf-8"></meta>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-		<meta property="og:title" content="Jack Lin's blog page"></meta>
-		<meta property="og:type" content="website"></meta>
-		<meta proeprty="og:description" content="This is my blog."></meta>
 		<title>Blog</title>
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous"></link>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"></link>
@@ -61,16 +56,7 @@
 		<div class="row">
 			<div class="col-sm" align="right">
 				<h2>
-					<a href="index.html"><i class="bi bi-house-door-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Home"></i></a> | 
-					<a href="mailto:jacklin@hotmail.ca"><i class="bi bi-envelope-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Email"></i></a> | 
-					<a href="https://github.com/jacklinTO"><i class="bi bi-github" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Various POC scripts relating to test automation and integrations"></i></a> | 
-					<a href="https://ca.linkedin.com/in/jack-tz-lin"><i class="bi bi-linkedin" data-bs-toggle="tooltip" data-bs-placement="bottom" title="LinkedIn"></i></a> | 
-					<a href="https://cstb.ca/certified-testers?certlevelid=0&search=tzong&next=Search"><i class="bi bi-patch-check-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="International Software Testing Qualifications Board certification"></i></a> | 
-					<a href="https://www.instagram.com/jacklin.t.o"><i class="bi bi-instagram" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Instagram"></i></a> | 
-					<a href="https://twitter.com/jacklinto"><i class="bi bi-twitter-x" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Twitter"></i></a> | 
-					<a href="https://www.oct.ca/findateacher/memberinfo?memberid=577872"><i class="bi bi-book-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Ontario College of Teachers certification" hidden></i></a>
-					<a href="shows.html"><i class="bi bi-music-note-beamed" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Live music inventory"></i></a> | 
-					<a href="https://www.discogs.com/user/03linjac/collection?header=1&sort=artist&sort_order=asc"><i class="bi bi-disc-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="CD collection"></i></a>
+					<a href="index.html"><i class="bi bi-house-door-fill" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Home"></i></a>
 				</h2>
 			</div>
 		</div>
@@ -105,5 +91,5 @@
 		</div>
 	</body>
 </html>
-
+</xsl:template>
 </xsl:stylesheet>
