@@ -6,7 +6,7 @@
 	media-type="text/html"
 	encoding="utf-8"
 	doctype-system="about:legacy-compat" />
-	<!--
+
 <xsl:template match="topic" mode="links">
 	<li>
 		<a class="text-white">
@@ -14,8 +14,8 @@
 			<xsl:apply-templates select="title" mode="links"/>
 		</a>
   </li>
-</xsl>
--->
+</xsl:template>
+
 <xsl:template match="topic" mode="content">
   <div class="card border-secondary">
 		<div class="card-header">
@@ -48,6 +48,7 @@
 
 <xsl:template match="link" mode="links">
 	<xsl:attribute name="href">
+		<xsl:text>#</xsl:text>
 		<xsl:value-of select="."/>
 	</xsl:attribute>
 </xsl:template>
@@ -99,7 +100,7 @@
 			<div class="clearfix">
 				<div class="col">
 					<h1>Pitch Black with Jack</h1>
-					<!--
+					
 					<div class="col">
 						<div class="card text-white bg-primary">
 							<div class="card-body">
@@ -109,7 +110,7 @@
 							</div>
 						</div>
 					</div>
-					-->
+					
 					<br/>
 					
 					<a name="recent"></a>
