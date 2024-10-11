@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+	<topic>
+		<link>to-come</link>
+		<title>To Come</title>
+		<icon>book</icon>
+		<date>Future</date>
+		<pre>
+			Content to come
+		</pre>
+		<main>
+			Content to come
+		</main>
+	</topic>
+</blog>
