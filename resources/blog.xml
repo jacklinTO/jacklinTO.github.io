@@ -2,8 +2,8 @@
 <blog>
 	<topic>
 		<link>to-come</link>
+		<icon>bi bi-book</icon>
 		<title>To Come</title>
-		<icon>book</icon>
 		<date>Future</date>
 		<pre>
 			Content to come

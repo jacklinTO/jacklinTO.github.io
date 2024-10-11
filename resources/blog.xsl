@@ -6,37 +6,71 @@
 	media-type="text/html"
 	encoding="utf-8"
 	doctype-system="about:legacy-compat" />
-
-<xsl:template match="topic">
+	<!--
+<xsl:template match="topic" mode="links">
+	<li>
+		<a class="text-white">
+			<xsl:apply-templates select="link" mode="links"/>
+			<xsl:apply-templates select="title" mode="links"/>
+		</a>
+  </li>
+</xsl>
+-->
+<xsl:template match="topic" mode="content">
   <div class="card border-secondary">
 		<div class="card-header">
-			<!--<h3 id="topic-1" style="float: left"><i class="bi bi-book" data-bs-toggle="tooltip"></i>&nbsp;Topic 1</h3> -->
-			<xsl:apply-templates select="date"/>
+			<h3 style="float: left">
+				<xsl:apply-templates select="link" mode="content"/>
+				<i class="bi">
+					<xsl:apply-templates select="icon" mode="content"/>
+					<xsl:text> </xsl:text>
+					<xsl:apply-templates select="title"/>
+				</i>
+			</h3>
+			<xsl:apply-templates select="date" mode="content"/>
     </div>
     <ul class="list-group list-group-flush">
 			<li class="list-group-item">
-				<xsl:apply-templates select="pre"/>
+				<xsl:apply-templates select="pre" mode="content"/>
 			  <br/>
-				<xsl:apply-templates select="main"/>
+				<xsl:apply-templates select="main" mode="content"/>
       </li>
 		</ul>
 	</div>
 	<br/>
 </xsl:template>
 
-<xsl:template match="date">
+<xsl:template match="icon" mode="content">
+	<xsl:attribute name="class">
+		<xsl:value-of select="."/>
+	</xsl:attribute>
+</xsl:template>
+
+<xsl:template match="link" mode="links">
+	<xsl:attribute name="href">
+		<xsl:value-of select="."/>
+	</xsl:attribute>
+</xsl:template>
+
+<xsl:template match="link" mode="content">
+	<xsl:attribute name="id">
+		<xsl:value-of select="."/>
+	</xsl:attribute>
+</xsl:template>
+
+<xsl:template match="date" mode="content">
 	<div style="float: right">
 		<xsl:value-of select="."/>
 	</div>
 </xsl:template>
 
-<xsl:template match="pre">
+<xsl:template match="pre" mode="content">
 	<div class="pre">
 		<xsl:value-of select="."/>
 	</div>
 </xsl:template>
 
-<xsl:template match="main">
+<xsl:template match="main" mode="content">
 	<div class="main">
 		<xsl:value-of select="."/>
 	</div>
@@ -65,26 +99,22 @@
 			<div class="clearfix">
 				<div class="col">
 					<h1>Pitch Black with Jack</h1>
-					
+					<!--
 					<div class="col">
 						<div class="card text-white bg-primary">
 							<div class="card-body">
 								<ul>
-									<li><a href="#topic-1" class="text-white">Topic 1</a></li>
-									<li><a href="#topic-2" class="text-white">Topic 2</a></li>
-									<li><a href="#topic-3" class="text-white">Topic 3</a></li>
-									<li><a href="#topic-4" class="text-white">Topic 4</a></li>
-									<li><a href="#topic-5" class="text-white">Topic 5</a></li>
-									<li><a href="#topic-6" class="text-white">Topic 6</a></li>
+									<xsl:apply-templates select="*" mode="links"/>
 								</ul>								
 							</div>
 						</div>
 					</div>
+					-->
 					<br/>
 					
 					<a name="recent"></a>
 					
-					<xsl:apply-templates/>
+					<xsl:apply-templates select="*" mode="content"/>
 				
 				</div>
 			</div>
