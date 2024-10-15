@@ -117,6 +117,7 @@
 					
 					<a name="recent"></a>
 					
+					<xsl:sort select="links/@isoValue" order="descending"/>
 					<xsl:apply-templates select="*" mode="content"/>
 				
 				</div>
