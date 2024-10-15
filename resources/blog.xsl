@@ -67,13 +67,13 @@
 
 <xsl:template match="pre" mode="content">
 	<div class="pre">
-		<xsl:value-of select="."/>
+		<xsl:value-of select="." disable-output-escaping="yes"/>
 	</div>
 </xsl:template>
 
 <xsl:template match="main" mode="content">
 	<div class="main">
-		<xsl:value-of select="."/>
+		<xsl:value-of select="." disable-output-escaping="yes"/>
 	</div>
 </xsl:template>
 

@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
 	<topic>
-		<link>to-come</link>
-		<icon>bi bi-book</icon>
-		<title>To Come</title>
-		<date>Future</date>
+		<link>verification-validation</link>
+		<icon>bi bi-search</icon>
+		<title>How do Verification and Validation Differ?</title>
+		<date>October 16, 2024</date>
 		<pre>
-			Content to come
+			I see "verify" and "validate" used interchangeably during testing, is this a big deal? We will dig through the differences, applications, and some thoughts on their usages in this first installation of my blog.
 		</pre>
 		<main>
-			Content to come
+			According to the glossary of ISTQB, they are defined as follows:<br/>
+			Verification: confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.<br/>
+			Validation: confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
 		</main>
 	</topic>
 </blog>
