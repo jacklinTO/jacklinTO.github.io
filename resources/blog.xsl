@@ -23,9 +23,9 @@
 				<xsl:apply-templates select="link" mode="content"/>
 				<i class="bi">
 					<xsl:apply-templates select="icon" mode="content"/>
-					<xsl:text> </xsl:text>
-					<xsl:apply-templates select="title"/>
 				</i>
+				<xsl:text> </xsl:text>
+				<xsl:apply-templates select="title"/>
 			</h3>
 			<xsl:apply-templates select="date" mode="content"/>
     </div>
@@ -67,7 +67,9 @@
 
 <xsl:template match="pre" mode="content">
 	<div class="pre">
-		<xsl:value-of select="." disable-output-escaping="yes"/>
+		<i>
+			<xsl:value-of select="." disable-output-escaping="yes"/>
+		</i>
 	</div>
 </xsl:template>
 
