@@ -6,24 +6,20 @@
 		<title>How do Verification and Validation Differ?</title>
 		<date>October 16, 2024</date>
 		<pre>
-			I see "verify" and "validate" used interchangeably during testing, is this a big deal? We will dig through the differences, applications, and some thoughts on their usages in this first installation of my new blog.
+			I see "verify" and "validate" used strictly in certain ways or interchangeably during testing, is this a big deal? We will dig through the difference, application using an example, and some thoughts on their usages in this first installation of my new blog.
 		</pre>
 		<main>
 			According to the glossary of ISTQB, they are defined as follows:<![CDATA[<br/>]]>
 			Verification: confirmation by examination and through provision of objective evidence that specified requirements have been fulfilled.<![CDATA[<br/>]]>
-			Validation: confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.
-		</main>
-	</topic>
-	<topic isoValue="20241023">
-		<link>test-test</link>
-		<icon>bi bi-search</icon>
-		<title>Test</title>
-		<date>October 23, 2024</date>
-		<pre>
-			Test
-		</pre>
-		<main>
-			Test
+			Validation: confirmation by examination and through provision of objective evidence that the requirements for a specific intended use or application have been fulfilled.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			At first glance, they look the same; but the main difference between the two is the end goal of the testing. We verify requirements of an application and we validate the intended use of the application. Let us imagine a form submission page. We verify all the fields are inputs and able to submit correctly. We validate that it meets the needs of the actual users: submission and data storage/application. These are strictly based on the definitions.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			There are many resources out there that claim certain activities as largely verification or validation testing. That is all fine because there are truths in there. However, to treat one or the other as simply as: static vs. dynamic, conducted before vs. after the development process, low-level vs. high-level testing, focusing on specs vs. products, before vs. after, white vs. black-box testing, who's responsible for which, performed manually or by automation, requires code execution or not, are all beside the point.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Generally, testing activities are not rigid in most of SaaS. There are verification and validation testing occurring happening all the time during the course of a project. This is why being agile is important these days; product engineering teams are iterating on ideas every day - they have to ensure they are delivering the correct features and the right value for customers.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			In coming posts, I want to drive home the idea that software testing is messy, as with term definitions and how they are used in the real world. I mean that in a good way.
 		</main>
 	</topic>
 </blog>
