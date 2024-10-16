@@ -17,7 +17,7 @@
 			<![CDATA[<br/>]]>
 			There are many resources out there that claim certain activities as largely verification or validation testing. That is all fine because there are truths in there. However, to treat one or the other as simply as: static vs. dynamic, conducted before vs. after the development process, low-level vs. high-level testing, focusing on specs vs. products, before vs. after, white vs. black-box testing, who's responsible for which, performed manually or by automation, requires code execution or not, are all beside the point.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Generally, testing activities are not rigid in most of SaaS. There are verification and validation testing occurring happening all the time during the course of a project. This is why being agile is important these days; product engineering teams are iterating on new ideas every day - they have to ensure they are delivering the correct feature requirements and providing the right value for customers in everything they do.<![CDATA[<br/>]]>
+			Generally, testing activities are not rigid in most of SaaS. There are verification and validation testing occurring all the time during the course of a project. This is why being agile in testing is also essential these days; product engineering teams are iterating on new ideas every moment - they have to triple ensure they are delivering the correct feature requirements but also providing the right value for customers in everything they do.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			In coming posts, I want to drive home the idea that software testing is messy, as with term definitions and how they are used in the real world. I mean that in a good way.
 		</main>
