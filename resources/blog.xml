@@ -11,13 +11,13 @@
 			There is no correlation here? This is the paradoxical nature of testing and the perception of testing. We will dive into each of the seven testing principles in the following weeks, and this is the first one relating to the value of testing.
 		</pre>
 		<main>
-			This is the first principal listed in section 1.3 of the ISTQB foundational level syllabus. Testing reduces the likelihood of defects that are not found in a product. However, it does not mean that the product are both verified and validated 100% correctly, even if no defects remain. Most of the time, provided that proper testing processes were followed, those defects found remaining after all testing activities have been completed are usually lower in severity and priority. I have not seen any team that implemented a testing process that can find all the defects. It is not all doom and gloom; this is okay and realistic.<![CDATA[<br/>]]>
+			This is the first principal listed in section 1.3 of the ISTQB foundational level syllabus. Testing reduces the likelihood of defects that are not found in a product. However, it does not mean that the product are both verified and validated 100% correctly, even if no defects remain. Most of the time, provided that proper testing processes were followed, those defects found remaining after all testing activities have been completed are usually lower in severity and priority. I have not seen any team that implemented a testing process that can find all the defects. It is not all doom and gloom; this is fine and realistic.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Therein lies caveat #1: some forms of verification and validation were executed. We are not going to go through what those are, since there are many types of testing involved for different projects. The goal is to proactively find and fix defects before changes are released or deployed.<![CDATA[<br/>]]>
+			Therein lies caveat #1: some forms of verification and validation were executed. We are not going to go through what those are, since there are many layers of testing involved for different type of projects. One of the goals for testing is to proactively find and fix defects before changes are released or deployed.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			The other caveat #2: people have the right expectations. More importantly, we need to ensure stakeholders, such as leadership and customers, are aware that the team, to the best of their ability and given the contextual information they know at the time, developed and tested the feature requirements they have implemented. Despite all that, the end results still do not guarantee that there will not be defects, even if testing metrics tell a story otherwise.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Ultimately, there is some risk to all of this, but testing is still worth the effort to be successful in a project. Regardless of how much (limited or otherwise) time the product engineering team can dedicate to testing, do it - it is better to be safe out there.
+			Ultimately, there is some risk to all of this, but testing is still worth the effort to be successful in a project. Regardless of how much (limited or else) time the product engineering team can dedicate to testing, do it - it is better to be safe out there.
 		</main>
 	</topic>
 	<topic isoValue="20241016">
