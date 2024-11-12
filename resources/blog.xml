@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20241113">
+		<link>testing-principle-4</link>
+		<icon>bi bi-arrows-angle-contract</icon>
+		<title>Testing Principle #4 - Defects cluster together</title>
+		<date>November 13, 2024</date>
+		<pre>
+			Defects cluster together<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Bugs in real life and in software are social creatures; they usually congregate in the same small (tight, dark) crevices of buildings and system modules. We shall dig deeper into this phenomenon in the fourth installment of the seven testing principles.
+		</pre>
+		<main>
+			This is the fourth principal listed in Section 1.3 of the ISTQB foundational level syllabus. Typically, defects are found during testing in small clusters of the platform. This runs counter to most statistical models out there, with even probability outcomes, because software development is a whole different animal. Defects appear not randomly but are distributed across certain modules in the platform since they are not alike.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Understandably, modules in a system are not all treated the same. Some are simple because they are static and have trivial workflows. While others are complex because they depend on widely disparate services, many developers worked on them, and have complicated business logics. The modules in the latter category take more time to plan and develop which have a higher likelihood of failures. Conversely, sometimes modules in the former category may have less attention devoted to them during planning and development or be executed more quickly with less oversight and inexperienced personnel. Finally, mission-critical functionalities can attract more interest. There are other factors that can contribute to where defects are found since dealing with software is always messy.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			This is why the previously mentioned risk analysis is important to assess which modules are worth more testing focus. That task takes the probabities out of verification and validation so that we can take an analytical approach in determining which and when certain test cases are executed for each risk area.
+		</main>
+	</topic>
 	<topic isoValue="20241106">
 		<link>testing-principle-3</link>
 		<icon>bi bi-arrow-left-circle</icon>
@@ -11,7 +29,7 @@
 			This is pretty intuitive and is agreed upon by everyone as a sound testing strategy. Executing some forms of testing earlier in the software development lifecycle is also called "shift left". We will look closer at this concept and understand the degree of ease in putting this into practice.
 		</pre>
 		<main>
-			This is the third principal listed in section 1.3 of the ISTQB foundational level syllabus. In order to have effective testing (finding defects, for example) in a project, some forms of verification and validation need to be executed as early as possible in the software development lifecycle. When viewing a typical diagram of the SDLC diagram, reading from left to right, it means shifting testing more towards the left direction, "shift left". This is especially valuable in reducing the length and the cost of the project. The cost of fixing issues is typically lower during the planning and development phases because the stakeholders are actively working on it already. The earlier defects are found and resolved, the earlier we can arrive at a stable version of the platform for release.<![CDATA[<br/>]]>
+			This is the third principal listed in Section 1.3 of the ISTQB foundational level syllabus. In order to have effective testing (finding defects, for example) in a project, some forms of verification and validation need to be executed as early as possible in the software development lifecycle. When viewing a typical diagram of the SDLC diagram, reading from left to right, it means shifting testing more towards the left direction, "shift left". This is especially valuable in reducing the length and the cost of the project. The cost of fixing issues is typically lower during the planning and development phases because the stakeholders are actively working on it already. The earlier defects are found and resolved, the earlier we can arrive at a stable version of the platform for release.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			As I mentioned earlier in a previous post about verification and validation testing, they can occur at all phases of a project or SDLC. The emphasis is on planning (and also being flexible enough) to apply the right approaches at the appropriate time to be save time and money properly. It can include requirement reviews during planning, static scans during development, and functional testing against requirements implemented, etc. This is called "continuous testing", a larger topic we can revisit more in a later post.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -29,7 +47,7 @@
 			Nor do we want to exhaust ourselves executing an infinite number of test scenarios. There are more valuable ways to focus our testing efforts. We shall explore some of them in this second installment of the seven testing principles.
 		</pre>
 		<main>
-			This is the second principal listed in section 1.3 of the ISTQB foundational level syllabus. Testing every combination of inputs and outputs for any platform is not realistic except for trivial cases. That number could be infinite or close to it. If we have unlimited resources and time, we can come close to achieving total coverage. Since there is always an imminent deadline ahead, we should pick those test scenarios by focusing on risk analysis, test techniques, and priorities.<![CDATA[<br/>]]>
+			This is the second principal listed in Section 1.3 of the ISTQB foundational level syllabus. Testing every combination of inputs and outputs for any platform is not realistic except for trivial cases. That number could be infinite or close to it. If we have unlimited resources and time, we can come close to achieving total coverage. Since there is always an imminent deadline ahead, we should pick those test scenarios by focusing on risk analysis, test techniques, and priorities.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Risk analysis involves stakeholders identifying risk items in the platform and assessing their risk levels. Based on this analysis, we can determine which and when certain test cases are executed for each risk item. This is valuable because each business can determine their own levels of exposure to risks and test accordingly.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -49,7 +67,7 @@
 			There is no correlation here? This is the paradoxical nature of testing and the perception of testing. We will dive into each of the seven testing principles in the following weeks, and this is the first one relating to the value of testing.
 		</pre>
 		<main>
-			This is the first principal listed in section 1.3 of the ISTQB foundational level syllabus. Testing reduces the likelihood of defects that are not found in a product. However, it does not mean that the product are both verified and validated 100% correctly, even if no defects remain. Most of the time, provided that proper testing processes were followed, those defects found remaining after all testing activities have been completed are usually lower in severity and priority. I have not seen any team that implemented a testing process that can find all the defects. It is not all doom and gloom; this is fine and realistic.<![CDATA[<br/>]]>
+			This is the first principal listed in Section 1.3 of the ISTQB foundational level syllabus. Testing reduces the likelihood of defects that are not found in a product. However, it does not mean that the product are both verified and validated 100% correctly, even if no defects remain. Most of the time, provided that proper testing processes were followed, those defects found remaining after all testing activities have been completed are usually lower in severity and priority. I have not seen any team that implemented a testing process that can find all the defects. It is not all doom and gloom; this is fine and realistic.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Therein lies caveat #1: some forms of verification and validation were executed. We are not going to go through what those are, since there are many layers of testing involved for different type of projects. One of the goals for testing is to proactively find and fix defects before changes are released or deployed.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
