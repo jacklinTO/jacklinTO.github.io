@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20241120">
+		<link>testing-principle-4</link>
+		<icon>bi bi-repeat</icon>
+		<title>Testin Principle #5 - Beware of the pesticide paradox</title>
+		<date>November 20, 2024</date>
+		<pre>
+			The continuous misuse of the same pesticides or antibiotics make them resistant to infections they are supposed to fighting against. The same can be said for executing the same tests repeatedly. We will examine what we can do about it in this next installment of the seven testing principles.
+		</pre>
+		<main>
+			Continually running the same tests can prove to be futile because we may not find new bugs. In particular, remember that our first principle (check that previous post) still applies; our expectations cannot be too optimistic when we repeat ourselves. This is not to say we should not run them - we definitely should, but with some twists.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Updating test cases periodically is important. This means setting up a frequency by which test cases are reviewed and updated with the most current behaviours and information. Furthermore, when new features are developed, updating existing test cases should be the default instead of creating new ones. This is essential to keep tests to a manageable state.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Another good way to keep tests fresh is to have different testers on the team execute them. This means setting up a frequency by which test case executions are rotated among team members. On one hand, since everyone thinks differently, how test steps are executed can vary, and therefore, tests can be updated accordingly. On the other hand, it facilitates knowledge sharing and upskills the team to be subject matter experts.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Lastly, implementing test automation can be a good investment if these tests need to be run consistently, like regression test cases. Sometimes, new bugs can even appear when tests are run repeatedly this way. In the end, it is not enough to just have tests - we must be able to refresh them whenever there is a need, since the platform under testing is never static.
+		</main>
+	</topic>
 	<topic isoValue="20241113">
 		<link>testing-principle-4</link>
 		<icon>bi bi-arrows-angle-contract</icon>
