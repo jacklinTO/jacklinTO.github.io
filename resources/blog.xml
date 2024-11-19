@@ -3,7 +3,7 @@
 	<topic isoValue="20241120">
 		<link>testing-principle-5</link>
 		<icon>bi bi-repeat</icon>
-		<title>Testing Principle #5 - Beware of the pesticide paradox</title>
+		<title>Testing Principle #5 - Beware of the Pesticide Paradox</title>
 		<date>November 20, 2024</date>
 		<pre>
 			The continuous misuse of the same pesticides or antibiotics make them resistant to infections they are supposed to fighting against. The same can be said for executing the same tests repeatedly. We will examine what we can do about it in this next installment of the seven testing principles.
@@ -21,7 +21,7 @@
 	<topic isoValue="20241113">
 		<link>testing-principle-4</link>
 		<icon>bi bi-arrows-angle-contract</icon>
-		<title>Testing Principle #4 - Defects cluster together</title>
+		<title>Testing Principle #4 - Defects Cluster Together</title>
 		<date>November 13, 2024</date>
 		<pre>
 			Defects cluster together<![CDATA[<br/>]]>
@@ -39,7 +39,7 @@
 	<topic isoValue="20241106">
 		<link>testing-principle-3</link>
 		<icon>bi bi-arrow-left-circle</icon>
-		<title>Testing Principle #3 - Early testing saves time and money</title>
+		<title>Testing Principle #3 - Early Testing Saves Time and Money</title>
 		<date>November 6, 2024</date>
 		<pre>
 			Early testing saves time and money.<![CDATA[<br/>]]>
