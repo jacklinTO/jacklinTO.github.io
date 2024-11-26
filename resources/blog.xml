@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20241127">
+		<link>testing-principle-6</link>
+		<icon>bi</icon>
+		<title>Testing Principle #6 - Testing is Context Dependent</title>
+		<date>November 27, 2024</date>
+		<pre>
+			Just like a journalist asks the Five Ws to write a story, a tester will ask the same questions to determine their testing strategies. Follow along to check out what they are in this penultimate installment of the seven testing principles.
+		</pre>
+		<main>
+			Who are the audience or customers? Testers take on the persona of who will be using the product. They will generate specific test scenarios based on the problems they need to solve. Also, the type of testing artifacts or documents produced by testers will look different if it is external customers and customer-facing support teams vs. other testers vs. developers and product managers. We need to consider the levels of details, levels of technical expertise, user/role permissions, and levels of confidentiality or authorization.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			What is the industry being considered? The type of testing will look different depending on how much oversight and regulations need to be followed and how much risk needs to be considered. For example, testing in the aerospace and medical industries is not alike to testing in finance or even social media. With more compliance and risk-averse industries, the speed of testing slows down and is more regulated. On the other hand, the same slow approach cannot be utilized for the latter category due to the danger of falling behind other fast-paced competitors.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			When will the testing be scheduled? Are we following agile or waterfall methodology of development? Should we shift-left or do continuous testing? Given the other factors in this list, verification and validation activities can be executed differently at different times during the software lifecycle.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Where are testing happening? They can take place in internal environments or externally in production. Also, we will have to consider whether user acceptance testing needs to take place separately. Each of them comes with more decisions about which levels of data are utilized during testing, versioning, etc.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Why do we need testing? The successful outcomes of a project tell us the testing we need to perform. The insurance software should be able to predict risks based on financial records. The video streaming platform should be able to scale comfortably for millions of current users. These tell us what type of functional, performance, load, security (and others) testing is necessary.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			How is the product being developed? The type of testing will look different based on architecture decisions, service or API solutions, and whether it is intended as hardware products. While the programming languages or protocols used may not matter, they also provide an insight on the areas that engineers are focusing on to fill in security gaps or over-engineer data shortcomings.
+		</main>
+	</topic>
 	<topic isoValue="20241120">
 		<link>testing-principle-5</link>
 		<icon>bi bi-repeat</icon>
