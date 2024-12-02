@@ -6,6 +6,8 @@
 		<title>Testing Principle #7 - Absence-of-errors is a fallacy</title>
 		<date>December 4, 2024</date>
 		<pre>
+			Absence-of-errors is a fallacy<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
 			Take a moment to check our first two principles: https://jacklinto.github.io/blog.html#testing-principle-1 and https://jacklinto.github.io/blog.html#testing-principle-2, we now understand finding all the defects in a platform is impossible. Also, while we can find and fix those defects, does it mean that we have guaranteed ourselves the 'perfect' system? This is the last of the seven testing principles, aiming to dispel this myth.
 		</pre>
 		<main>
@@ -24,6 +26,8 @@
 		<title>Testing Principle #6 - Testing is Context Dependent</title>
 		<date>November 27, 2024</date>
 		<pre>
+			Testing is Context Dependent<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
 			Just like a journalist asks the Five Ws to write a story, a tester will ask the same questions to determine their testing strategies. Follow along to check out what they are in this penultimate installment of the seven testing principles.
 		</pre>
 		<main>
@@ -48,6 +52,8 @@
 		<title>Testing Principle #5 - Beware of the Pesticide Paradox</title>
 		<date>November 20, 2024</date>
 		<pre>
+			Beware of the Pesticide Paradox<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
 			The continuous misuse of the same pesticides or antibiotics make them resistant to infections they are supposed to fighting against. The same can be said for executing the same tests repeatedly. We will examine what we can do about it in this next installment of the seven testing principles.
 		</pre>
 		<main>
