@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250122">
+		<link>politics-testing</link>
+		<icon>bi bi-people</icon>
+		<title>Politics of Testing</title>
+		<date>January 22, 2025</date>
+		<pre>
+			Politics of Testing<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			This post, also topical, dives into the political aspects of testing and makes an apt comparison to a career that personifies the role of a tester.
+		</pre>
+		<main>
+			Testers do a lot of different things throughout the course of a business day. Of course, test planning and test execution take up the majority of that time. But implicitly, there are also the underlying interpersonal and personal aspects of what they do too. We want to speak to the interpersonal and the political parts here.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Unspokenly and understandably, there is always a gulf between testers and other parties. Finding defects can be perceived as criticism. We can dive deeper into the psychology of this in the next post. This tension can lead to people regarding testing as a destructive activity. While not entirely up to them, testers play a big part in reducing these misconstrued attitudes to more constructive ones.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			In a lot of ways, the role of tester is a lot like a diplomat. Not unlike the government officials that represent and protect the interests of their state, government, institution, or organizations with others, testers represent and protect the interests (quality) of the platform. To do that job well, they need to build good working relationships with other parties. The foundations of those connections are as follows:<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Collaboration is key when working with other functions. Rather than being adversaries for finding issues, testers are partners in delivering a project on time and with quality. Everyone should have the same common goals.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Secondly, the proper and timely communication of test results is important for the team. Being objective and based on facts goes a long way in building good will and trust for testers. Criticizing and being judgmental do not help in creating a collaborative environment.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Above all, the advocacy of quality within the team is also essential in promoting the benefits of and managing expectations of testing. The ability for testers to navigate different priorities and negotiate trade-offs will have large impacts to the success of a project. They need to ensure the other partners are aligned on what can be achieved within a timeline so that the team can make adjustments.
+		</main>
+	</topic>
 	<topic isoValue="20241204">
 		<link>testing-principle-7</link>
 		<icon>bi bi-slash-circle</icon>
