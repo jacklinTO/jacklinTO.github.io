@@ -8579,14 +8579,14 @@
       </support>
       <notes>Set Yourself On Fire 20th Anniversary Tour</notes>
     </show>
-		<show>
-			<date>Friday, November 15</date>
-			<venue>Houndstooth</venue>
-			<headliner>
-				<name>The Antarctic Monkeys</name>
-			</headliner>
-			<notes>Arctic Monkeys Cover Band / Whatever People Say I AM, That's What I'm Not Show</notes>
-		</show>
+    <show>
+      <date>Friday, November 15</date>
+      <venue>Houndstooth, Toronto</venue>
+      <headliner>
+        <name>The Antarctic Monkeys</name>
+      </headliner>
+      <notes>Arctic Monkeys Cover Band / Whatever People Say I AM, That's What I'm Not Show</notes>
+    </show>
     <show>
       <date>Wednesday, November 27</date>
       <venue>History, Toronto</venue>
@@ -8633,6 +8633,20 @@
       <notes>Spring Tour 2025</notes>
     </show>
     <show>
+      <date>Saturday, April 12</date>
+      <venue>Phoenix Concert Theatre, Toronto</venue>
+      <headliner>
+        <name>Supersonic</name>
+      </headliner>
+      <support>
+        <name>Neon Nostalgic</name>
+      </support>
+      <support>
+        <name>Lucky 13</name>
+      </support>
+      <notes>North America Live 2025 / Oasis Tribute Band</notes>
+    </show>
+    <show>
       <date>Tuesday, May 27</date>
       <venue>History, Toronto</venue>
       <headliner>
@@ -8649,12 +8663,12 @@
       <headliner>
         <name>Oasis</name>
       </headliner>
-			<support>
-				<name>Richard Ashcroft</name>
-			</support>
-			<support>
-				<name>Cast</name>
-			</support>
+      <support>
+        <name>Richard Ashcroft</name>
+      </support>
+      <support>
+        <name>Cast</name>
+      </support>
       <notes>Live 2025</notes>
     </show>
     <show>
