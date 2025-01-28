@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250129">
+		<link>psychology-testing</link>
+		<icon>bi bi-person-circle</icon>
+		<title>Psychology of Testing</title>
+		<date>January 29, 2025</date>
+		<pre>
+			Psychology of Testing<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			In our last post about politics of testing, we realized that there are some human psychological factors at play in activities relating to quality. It is worth another post to examine that further. Warning: possible trigger alert.
+		</pre>
+		<main>
+			The underlying human trait for everyone involved in designing and building a product is bias. Product managers, developers, and designers have confirmation bias that can potentially make them harder to accept their ideas, code, or design as incorrect or flawed. On the other hand, pessimistic bias from testers may lead to negative skepticism of the produced work. Both can derail deliveries of projects because there could be under- or over-estimations of testing required.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Along the same lines, there is also bias for and against reporting defects. At times, quality metrics directly impact their roles. Testers typically report all issues to prove their worth in assessing their effectiveness. Conversely, developers may be likely to minimize reporting to decrease rework and ensure timely delivery. Ultimately, the right balance should be striked to ensured there is psychological safety for everyone to properly report issues, and job performance is not evaluated based on quality alone.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Being the messenger of bad news (and defects), inevitably, testers may be put into an unenviable position. Tensions arise as project progress is impacted. So, testing could be considered as a destructive activity. Logically, bias of testers versus others would results in different estimates of test resourcing and executions. To combat this, timely communication and constructive collaboration are keys to project success.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Furthermore, thinking about testing involves a combination of curiosity, problem-solving, attention to detail, diplomacy, and communication. These traits are wonderful qualities that everyone on the team should strive to upskill. The bias is not to focus on some of them but to seek to gain knowledge and skills in each domain every day.
+		</main>
+	</topic>
 	<topic isoValue="20250122">
 		<link>politics-testing</link>
 		<icon>bi bi-people</icon>
