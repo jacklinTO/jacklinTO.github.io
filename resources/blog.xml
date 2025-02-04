@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250205">
+		<link>color-testing</link>
+		<icon>bi bi-box</icon>
+		<title>Colors of Testing</title>
+		<date>February 5, 2025</date>
+		<pre>
+			As many of you know, I launched my blog, "Pitch Black With Jack", late last year ~ jacklinto.github.io/blog. Bookmark it on your browser, share it with your network, comment on it with your thoughts, or whatever strikes your fancy. Thank you for your support! It has been great reiterating my experiences in testing digitally and gives me a chance to evolve how I ponder about testing going forward too.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			A dear subject matter that was the namesake for my blog, this new post is about my views on the colors of testing.
+		</pre>
+		<main>
+			Thinking back on when I tried to come up with ideas about naming this blog, I mainly thought about how I approached testing throughout my career (and some clever rhymes). The result is one of the colors and categories of test techniques that I still adhere to this day: black-box testing. One of the goals of this blog is to show that testing is a lot like a pitch-black journey. Every project you work on is complex, and sometimes you will have to feel blindly around to get through to the end of it.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Black-box testing is about user behaviour. Based on product specifications (and their testing experiences), testers derive test cases and test data to validate that there are no gaps between the requirements and the implemented product. At the same time, ensuring that we have the right product that users would be able to perform their critical workflows. Ideally, those requirements are complete and correct before implementation. More often than not, testers will have to execute testing based on inadequate information and limited time.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Consider the inputs and the outputs. What general and edge use cases are possible? The tester's skill, prior experiences, and intuition can also play a part in determining where errors can occur in a product. Moreover, informal exploratory testing further enhances validation on how users perceive features. However, testing techniques merely based on user behaviours is not enough.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			The other test technique is white-box testing that is based on the internal structure of the system. Collaborating with engineers, testers derive test cases and test data from learning about the code, architecture, and design of the feature components. These can include unit code tests, component integration tests, and static architecture and algorithm design reviews.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Most projects consist of both black-box and white-box testing techniques. There are others that apply a combination of both: grey-box testing. With knowledge of internal structures, dynamic code analysis like vulnerability scanning can be helpful for user flows.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			In the end, all of these techniques have their own places when testing. Some are domains of engineers or testers, and everyone in between. No matter the color of testing, it is important to iterate that testing is messy and complex.
+		</main>
+	</topic>
 	<topic isoValue="20250129">
 		<link>psychology-testing</link>
 		<icon>bi bi-person-circle</icon>

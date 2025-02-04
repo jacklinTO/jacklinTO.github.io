@@ -102,7 +102,7 @@
 		<div class="container">
 			<div class="clearfix">
 				<div class="col">
-					<h1>Pitch Black with Jack</h1>
+					<h1>Pitch Black With Jack</h1>
 					
 					<div class="col">
 						<div class="card text-white bg-primary">
