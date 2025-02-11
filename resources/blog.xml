@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250212">
+		<link>entry-exit-criteria</link>
+		<icon>bi bi-box-arrow-in-right</icon>
+		<title>Entry &amp; Exit Criteria</title>
+		<date>Feburary 12, 2025</date>
+		<pre>
+			When should test activities start and be completed? We will look closely at the importance of defining them to sustain continuing product development successes.
+		</pre>
+		<main>
+			Entry and exit criteria related to testing may or may not be the same as the Definition of Ready or the Definition of Done in agile development, as most people imagine. The start and the end of testing activities could directly impact the start and the end of project delivery, and vice versa.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Ideally, there will be different entry criteria for various testing activities throughout the planning and delivery phases. Requirement verification can happen once the idealization of user stories is underway. Next, planning test cases will take place afterwards during implementation. Simultaneously, other test criteria like static checks can be added while incremental development work is going on. Finally, the availabilities of test environment and test data would be entry criteria for functional validation.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			The exit criteria for testing are more complex. The team should think about whether the planned tests have been executed, the requirements coverage has been achieved, the number of remaining unresolved defects is within a low limit and a tolerable risk, and a general level of quality has been attained. At times for certain projects that are smaller in scope, when the exit criteria are met, usually it means the definition of done is complete for delivery. For others, there may be other activities required for release, outside of engineering efforts.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			When these entry and exit criteria are not met or delayed, testing activities, and subsequently the project, will be more difficult to execute, more time will be spent, more costly resources will be utilized, and there will be more risk. Often, there are instances when testing activities start and end when the entry and exit criteria are not met because there is pressure to deliver. Proper communication during the development lifecycle needs to be addressed periodically amongst stakeholders to ensure there is a common understanding of risks.
+		</main>
+	</topic>
 	<topic isoValue="20250205">
 		<link>color-testing</link>
 		<icon>bi bi-box</icon>
