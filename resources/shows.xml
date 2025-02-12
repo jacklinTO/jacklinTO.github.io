@@ -8657,17 +8657,17 @@
       </support>
       <notes>North American Tour 2025</notes>
     </show>
-		<show>
-			<date>Friday, June 6</date>
-			<venue>Budweiser Stage, Toronto</venue>
-			<headliner>
-				<name>Metric</name>
-			</headliner>
-			<support>
-				<name>Bloc Party</name>
-			</support>
-			<notes>Fantasies and Silent Alarm Tour</notes>
-		</show>
+    <show>
+      <date>Friday, June 6</date>
+      <venue>Budweiser Stage, Toronto</venue>
+      <headliner>
+        <name>Metric</name>
+      </headliner>
+      <support>
+        <name>Bloc Party</name>
+      </support>
+      <notes>Fantasies and Silent Alarm Tour</notes>
+    </show>
     <show>
       <date>Wednesday, July 30</date>
       <venue>Wembley Stadium, Wembley, London</venue>
