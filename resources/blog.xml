@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250219">
+		<link>risk-management</link>
+		<icon>bi bi-exclamation-triangle</icon>
+		<title>Risk Management</title>
+		<date>February 19, 2025</date>
+		<pre>
+			Part of any testing activity when working on projects involve managing risks potentially caused during planning and development. This means risk identification and assessment are some of the considerations in prioritizing which features are built, tested, and patched.
+		</pre>
+		<main>
+			Identifying risks happens throughout the planning and delivery phases. Utilizing a combination of requirements gathering, user flows, domain knowledge, prior experiences, code changes, and stakeholder collaborations, testers can identify risk areas and issues. This provides a basis for where testing can focus on.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Next, assessing risks involve determining how likely each item can occur and its business impact. Obviously, the frequency of use and the visibility of the feature are proportional to the likelihood of occurrence. Other factors like loss of business, liability, damage to reputation, or safety concerns can greatly impact the level of risk. Sometimes, having workarounds for certain issues can decrease risk, on the other hand.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Lastly, classification of each risk item with its risk assessment can look different across organizations. Assignments like a numerical scale (1-5), categories (low, medium, high), or colours are utilized. Then, the team can finally prioritize, based on the overall ratings, any mitigations needed to manage and reduce the risks involved.
+		</main>
+	</topic>
 	<topic isoValue="20250212">
 		<link>entry-exit-criteria</link>
 		<icon>bi bi-box-arrow-in-right</icon>
