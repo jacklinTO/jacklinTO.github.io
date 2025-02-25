@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250226">
+		<link>value-testing</link>
+		<icon>bi bi-cash</icon>
+		<title>Business Value of Testing</title>
+		<date>Feburary 26, 2025</date>
+		<pre>
+			We talked at length about the testing principles of testing, but the value of testing for the business should not be ignored either. It is important for stakeholders to understand how testing delivers optimal value to a project or the whole organization.
+		</pre>
+		<main>
+			Qualitatively, the value of testing includes easier releases with better quality, increased confidence, and reducing the risks outlined in the previous post - https://jacklinto.github.io/blog.html#risk-management. All of these bring improvements to the business that are extensive: boosting internal team morale, customer and external partner relationships, and potentially sales profits.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			On the other hand, it is harder to quantify the value of testing because testers are typically more focused on the finer details of testing (requirements, behaviours, etc.) and what can be measured is limited or tricky to estimate. One of the ways to think about it would be to measure the cost of quality in executing certain tasks and mitigating risks.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Firstly, the costs of prevention refer to the upfront costs to preemptively develop code with quality in mind. This includes reviewing requirements and developer training to write maintainable, secure, scalable, and testable code with good engineering best practices. Training can be as simple as mentoring, architectural planning, and continuing education on emerging technology.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Next, the costs of detection refer to the subsequent costs to discover defects. This includes writing and executing test cases, code reviews, and other related test activities. Here, all verification and validation activities during the software development cycle are in play.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Moreover, the costs of internal failure refer to the initial costs to fix defects detected before release or find workarounds. Due to developers' familarity of current features, usually, this cost is lower than the next cost category.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Lastly, the costs of external failure refer to the ongoing costs to support and fix defects for projects already delivered to clients. The customer support includes related costs for troubleshooting, communciation, reputational risk, and repairing the client relationships.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Ideally, the goal is to keep all four costs down. However, we should aim to keep the costs of detection and internal failure below the costs of external failure. If we do, the value and the return on investment of testing aare outstanding for the organization.
+		</main>
+	</topic>
 	<topic isoValue="20250219">
 		<link>risk-management</link>
 		<icon>bi bi-exclamation-triangle</icon>
