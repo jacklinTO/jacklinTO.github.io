@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blog>
+	<topic isoValue="20250305">
+		<link>test-case</link>
+		<icon>bi bi-rulers</icon>
+		<title>How Detailed should Test Cases be?</title>
+		<date>March 5, 2025</date>
+		<pre>
+			It is that age-old question - something testers grapple with every time we sit down and document test cases. It depends on different factors and tradeoffs.
+		</pre>
+		<main>
+			Having more precise test documentation has benefits beyond ease of understanding. It leaves nothing to the imagination because the details act as a single source of truth of product behaviours for everyone on the team. Furthermore, the reproducibility of test executions is guaranteed. Finally, they act as a great neutralizer of product knowledge in a team with testers having high skill sets all the way down to junior testers.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Logically, writing more detailed tests takes more effort to develop and maintain. However, testers do not have all the time in the world; otherwise, having extensive test cases would be the ideal default. Hence, the key to documenting tests is to understand the right level of detail to add.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			Strike the right balance by providing high-level instructions of test steps, specific areas of interest for validation, examples of test strategies and data, and general descriptions of expectations. This allows some creativity on the part of the testers to utilize their skills and experiences for further exploring. At the same time, there is enough fundamental information for them to get established with a feature.<![CDATA[<br/>]]>
+			<![CDATA[<br/>]]>
+			This strategy is fine for most projects. However, given that test execution is dictated by a tester's experiences and professional judgment, there is some room for risks and gaps. Also, test estimation would be harder since there will be variability in how tests are executed. These factors can be mitigated with clear communication and cross-training.
+		</main>
+	</topic>
 	<topic isoValue="20250226">
 		<link>value-testing</link>
 		<icon>bi bi-cash</icon>
