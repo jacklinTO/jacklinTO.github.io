@@ -8721,6 +8721,14 @@
       </support>
       <notes>Live 2025</notes>
     </show>
+		<show>
+			<date>Tuesday, September 23</date>
+			<venue>History, Toronto</venue>
+      <headliner>
+        <name>Wolf Alice</name>
+      </headliner>
+			<notes>The Clearing Tour</notes>
+		</show>
     <show>
       <date>Wednesday, September 24</date>
       <venue>History, Toronto</venue>
@@ -8738,6 +8746,9 @@
       <headliner>
         <name>Black Rebel Motorcycle Club</name>
       </headliner>
+			<support>
+				<name>Humanist</name>
+			</support>
       <notes>Howl 20th Anniversary Tour</notes>
     </show>
   </annual>
