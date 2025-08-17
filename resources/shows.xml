@@ -8681,7 +8681,7 @@
 				<name>Desire</name>
 			</headliner>
 			<support>
-				<name>Thee Band of Gypsys</name>
+				<name>The Band of Gypsys</name>
 			</support>
 			<support>
 				<name>Pearl Jamming</name>
@@ -8725,15 +8725,12 @@
 			<notes>Live 2025</notes>
 		</show>
 		<show>
-			<date>Sunday, August 17</date>
-			<venue>CNE Bandshell, Toronto</venue>
+			<date>Friday, August 15</date>
+			<venue>The Bell and The Beeacon, Toronto</venue>
 			<headliner>
-				<name>Stars</name>
+				<name>The Shitty Beatles</name>
 			</headliner>
-			<support>
-				<name>Chantal Kreviazuk</name>
-			</support>
-			<notes>Set Yourself On Fire 20th Anniversary Tour</notes>
+			<notes>Shitty Beatles Jambouree</notes>
 		</show>
 		<show>
 			<date>Sunday, August 24</date>
@@ -8786,6 +8783,22 @@
 				<name>Humanist</name>
 			</support>
 			<notes>Howl 20th Anniversary Tour</notes>
+		</show>
+		<show>
+			<date>Tuesday, November 11</date>
+			<venue>Garrison, Toronto</venue>
+			<headliner>
+				<name>Rocket</name>
+			</headliner>
+			<notes>R Is for Rocket Tour</notes>
+		</show>
+		<show>
+			<date>Thursday, November 27</date>
+			<venue>Lee's Palace, Toronto</venue>
+			<headliner>
+				<name>Band Of Skulls</name>
+			</headliner>
+			<notes>Cold Fame Tour</notes>
 		</show>
 	</annual>
 
