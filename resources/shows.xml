@@ -8760,9 +8760,9 @@
 			<headliner>
 				<name>Wolf Alice</name>
 			</headliner>
-			<headliner>
+			<support>
 				<name>Willy Mason</name>
-			</headliner>
+			</support>
 			<notes>The Clearing Tour</notes>
 		</show>
 		<show>
@@ -8804,9 +8804,9 @@
 			<headliner>
 				<name>Band Of Skulls</name>
 			</headliner>
-			<headliner>
+			<support>
 				<name>Tom Hamilton</name>
-			</headliner>
+			</support>
 			<notes>Cold Fame Tour</notes>
 		</show>
 	</annual>
