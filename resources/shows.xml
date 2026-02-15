@@ -8800,4 +8800,33 @@
 		</show>
 	</annual>
 
+	<annual>
+		<year>2026</year>
+		<show>
+			<date>Sunday, July 19</date>
+			<venue>RBC Amphitheatre, Toronto</venue>
+			<headliner>
+				<name>Death Cab For Cutie</name>
+			</headliner>
+			<support>
+				<name>Japanese Breakfast</name>
+			</support>
+			<notes>Summer Tour</notes>
+		</show>
+		<show>
+			<date>Friday, August 7</date>
+			<venue>RBC Amphitheatre, Toronto</venue>
+			<headliner>
+				<name>Metric</name>
+			</headliner>
+			<support>
+				<name>Broken Social Scene</name>
+			</support>
+			<support>
+				<name>Stars</name>
+			</support>
+			<notes>All The Feelings Tour</notes>
+		</show>
+	</annual>
+
 </shows>
