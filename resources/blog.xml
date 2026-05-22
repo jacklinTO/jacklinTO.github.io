@@ -37,7 +37,7 @@
 			<![CDATA[<br/>]]>
 			Moreover, the costs of internal failure refer to the initial costs to fix defects detected before release or find workarounds. Due to developers' familarity of current features, usually, this cost is lower than the next cost category.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Lastly, the costs of external failure refer to the ongoing costs to support and fix defects for projects already delivered to clients. The customer support includes related costs for troubleshooting, communciation, reputational risk, and repairing the client relationships.<![CDATA[<br/>]]>
+			Lastly, the costs of external failure refer to the ongoing costs to support and fix defects for projects already delivered to clients. The customer support includes related costs for troubleshooting, communication, reputational risk, and repairing the client relationships.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Ideally, the goal is to keep all four costs down. However, we should aim to keep the costs of detection and internal failure below the costs of external failure. If we do, the value and the return on investment of testing aare outstanding for the organization.
 		</main>
