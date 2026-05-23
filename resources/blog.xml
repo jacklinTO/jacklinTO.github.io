@@ -9,7 +9,7 @@
 			It is that age-old question - something testers grapple with every time we sit down and document test cases. It depends on different factors and tradeoffs.
 		</pre>
 		<main>
-			Having more precise test documentation has benefits beyond ease of understanding. It leaves nothing to the imagination because the details act as a single source of truth of product behaviours for everyone on the team. Furthermore, the reproducibility of test executions is guaranteed. Finally, they act as a great neutralizer of product knowledge in a team with testers having high skill sets all the way down to junior testers.<![CDATA[<br/>]]>
+			Having more precise test documentation has benefits beyond ease of understanding. It leaves nothing to the imagination because the details act as a single source of truth of product behaviours for everyone on the team. Furthermore, the reproducibility of test executions is guaranteed. Finally, they act as a great neutralizer of product knowledge in a team with testers ranging from those with advanced skill sets all the way down to junior testers.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Logically, writing more detailed tests takes more effort to develop and maintain. However, testers do not have all the time in the world; otherwise, having extensive test cases would be the ideal default. Hence, the key to documenting tests is to understand the right level of detail to add.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -22,12 +22,12 @@
 		<link>value-testing</link>
 		<icon>bi bi-cash</icon>
 		<title>Business Value of Testing</title>
-		<date>Feburary 26, 2025</date>
+		<date>February 26, 2025</date>
 		<pre>
 			We talked at length about the testing principles of testing, but the value of testing for the business should not be ignored either. It is important for stakeholders to understand how testing delivers optimal value to a project or the whole organization.
 		</pre>
 		<main>
-			Qualitatively, the value of testing includes easier releases with better quality, increased confidence, and reducing the risks outlined in the previous post - https://jacklinto.github.io/blog.html#risk-management. All of these bring improvements to the business that are extensive: boosting internal team morale, customer and external partner relationships, and potentially sales profits.<![CDATA[<br/>]]>
+			Qualitatively, the value of testing includes easier releases with better quality, increased confidence, and the reduction of risks outlined in the previous post - https://jacklinto.github.io/blog.html#risk-management. All of these bring improvements to the business that are extensive: boosting internal team morale, customer and external partner relationships, and potentially sales profits.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			On the other hand, it is harder to quantify the value of testing because testers are typically more focused on the finer details of testing (requirements, behaviours, etc.) and what can be measured is limited or tricky to estimate. One of the ways to think about it would be to measure the cost of quality in executing certain tasks and mitigating risks.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -35,11 +35,11 @@
 			<![CDATA[<br/>]]>
 			Next, the costs of detection refer to the subsequent costs to discover defects. This includes writing and executing test cases, code reviews, and other related test activities. Here, all verification and validation activities during the software development cycle are in play.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Moreover, the costs of internal failure refer to the initial costs to fix defects detected before release or find workarounds. Due to developers' familarity of current features, usually, this cost is lower than the next cost category.<![CDATA[<br/>]]>
+			Moreover, the costs of internal failure refer to the initial costs to fix defects detected before release or find workarounds. Due to developers' familiarity with current features, usually, this cost is lower than the next cost category.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Lastly, the costs of external failure refer to the ongoing costs to support and fix defects for projects already delivered to clients. The customer support includes related costs for troubleshooting, communication, reputational risk, and repairing the client relationships.<![CDATA[<br/>]]>
+			Lastly, the costs of external failure refer to the ongoing costs to support and fix defects for projects already delivered to clients. Customer support includes related costs for troubleshooting, communication, reputational risk, and repairing the client relationships.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Ideally, the goal is to keep all four costs down. However, we should aim to keep the costs of detection and internal failure below the costs of external failure. If we do, the value and the return on investment of testing aare outstanding for the organization.
+			Ideally, the goal is to keep all four costs down. However, we should aim to keep the costs of detection and internal failure below the costs of external failure. If we do, the value and the return on investment of testing are outstanding for the organization.
 		</main>
 	</topic>
 	<topic isoValue="20250219">
@@ -48,12 +48,12 @@
 		<title>Risk Management</title>
 		<date>February 19, 2025</date>
 		<pre>
-			Part of any testing activity when working on projects involve managing risks potentially caused during planning and development. This means risk identification and assessment are some of the considerations in prioritizing which features are built, tested, and patched.
+			Part of any testing activity when working on projects involves managing risks potentially caused during planning and development. This means risk identification and assessment are some of the considerations in prioritizing which features are built, tested, and patched.
 		</pre>
 		<main>
 			Identifying risks happens throughout the planning and delivery phases. Utilizing a combination of requirements gathering, user flows, domain knowledge, prior experiences, code changes, and stakeholder collaborations, testers can identify risk areas and issues. This provides a basis for where testing can focus on.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Next, assessing risks involve determining how likely each item can occur and its business impact. Obviously, the frequency of use and the visibility of the feature are proportional to the likelihood of occurrence. Other factors like loss of business, liability, damage to reputation, or safety concerns can greatly impact the level of risk. Sometimes, having workarounds for certain issues can decrease risk, on the other hand.<![CDATA[<br/>]]>
+			Next, assessing risks involves determining how likely each item can occur and its business impact. Obviously, the frequency of use and the visibility of the feature are proportional to the likelihood of occurrence. Other factors like loss of business, liability, damage to reputation, or safety concerns can greatly impact the level of risk. Sometimes, having workarounds for certain issues can decrease risk, on the other hand.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Lastly, classification of each risk item with its risk assessment can look different across organizations. Assignments like a numerical scale (1-5), categories (low, medium, high), or colours are utilized. Then, the team can finally prioritize, based on the overall ratings, any mitigations needed to manage and reduce the risks involved.
 		</main>
@@ -62,14 +62,14 @@
 		<link>entry-exit-criteria</link>
 		<icon>bi bi-box-arrow-in-right</icon>
 		<title>Entry &amp; Exit Criteria</title>
-		<date>Feburary 12, 2025</date>
+		<date>February 12, 2025</date>
 		<pre>
 			When should test activities start and be completed? We will look closely at the importance of defining them to sustain continuing product development successes.
 		</pre>
 		<main>
 			Entry and exit criteria related to testing may or may not be the same as the Definition of Ready or the Definition of Done in agile development, as most people imagine. The start and the end of testing activities could directly impact the start and the end of project delivery, and vice versa.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Ideally, there will be different entry criteria for various testing activities throughout the planning and delivery phases. Requirement verification can happen once the idealization of user stories is underway. Next, planning test cases will take place afterwards during implementation. Simultaneously, other test criteria like static checks can be added while incremental development work is going on. Finally, the availabilities of test environment and test data would be entry criteria for functional validation.<![CDATA[<br/>]]>
+			Ideally, there will be different entry criteria for various testing activities throughout the planning and delivery phases. Requirement verification can happen once the idealization of user stories is underway. Next, planning test cases will take place afterwards during implementation. Simultaneously, other test criteria like static checks can be added while incremental development work is going on. Finally, the availability of the test environment and test data would be entry criteria for functional validation.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			The exit criteria for testing are more complex. The team should think about whether the planned tests have been executed, the requirements coverage has been achieved, the number of remaining unresolved defects is within a low limit and a tolerable risk, and a general level of quality has been attained. At times for certain projects that are smaller in scope, when the exit criteria are met, usually it means the definition of done is complete for delivery. For others, there may be other activities required for release, outside of engineering efforts.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -91,9 +91,9 @@
 			<![CDATA[<br/>]]>
 			Black-box testing is about user behaviour. Based on product specifications (and their testing experiences), testers derive test cases and test data to validate that there are no gaps between the requirements and the implemented product. At the same time, ensuring that we have the right product that users would be able to perform their critical workflows. Ideally, those requirements are complete and correct before implementation. More often than not, testers will have to execute testing based on inadequate information and limited time.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Consider the inputs and the outputs. What general and edge use cases are possible? The tester's skill, prior experiences, and intuition can also play a part in determining where errors can occur in a product. Moreover, informal exploratory testing further enhances validation on how users perceive features. However, testing techniques merely based on user behaviours is not enough.<![CDATA[<br/>]]>
+			Consider the inputs and the outputs. What general and edge use cases are possible? The tester's skill, prior experiences, and intuition can also play a part in determining where errors can occur in a product. Moreover, informal exploratory testing further enhances validation on how users perceive features. However, testing techniques merely based on user behaviours are not enough.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			The other test technique is white-box testing that is based on the internal structure of the system. Collaborating with engineers, testers derive test cases and test data from learning about the code, architecture, and design of the feature components. These can include unit code tests, component integration tests, and static architecture and algorithm design reviews.<![CDATA[<br/>]]>
+			The other test technique is white-box testing, which is based on the internal structure of the system. Collaborating with engineers, testers derive test cases and test data from learning about the code, architecture, and design of the feature components. These can include unit code tests, component integration tests, and static architecture and algorithm design reviews.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Most projects consist of both black-box and white-box testing techniques. There are others that apply a combination of both: grey-box testing. With knowledge of internal structures, dynamic code analysis like vulnerability scanning can be helpful for user flows.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -113,9 +113,9 @@
 		<main>
 			The underlying human trait for everyone involved in designing and building a product is bias. Product managers, developers, and designers have confirmation bias that can potentially make them harder to accept their ideas, code, or design as incorrect or flawed. On the other hand, pessimistic bias from testers may lead to negative skepticism of the produced work. Both can derail deliveries of projects because there could be under- or over-estimations of testing required.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Along the same lines, there is also bias for and against reporting defects. At times, quality metrics directly impact their roles. Testers typically report all issues to prove their worth in assessing their effectiveness. Conversely, developers may be likely to minimize reporting to decrease rework and ensure timely delivery. Ultimately, the right balance should be striked to ensured there is psychological safety for everyone to properly report issues, and job performance is not evaluated based on quality alone.<![CDATA[<br/>]]>
+			Along the same lines, there is also bias for and against reporting defects. At times, quality metrics directly impact their roles. Testers typically report all issues to prove their worth in assessing their effectiveness. Conversely, developers may be likely to minimize reporting to decrease rework and ensure timely delivery. Ultimately, the right balance should be struck to ensure there is psychological safety for everyone to properly report issues, and job performance is not evaluated based on quality alone.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Being the messenger of bad news (and defects), inevitably, testers may be put into an unenviable position. Tensions arise as project progress is impacted. So, testing could be considered as a destructive activity. Logically, bias of testers versus others would results in different estimates of test resourcing and executions. To combat this, timely communication and constructive collaboration are keys to project success.<![CDATA[<br/>]]>
+			Being the messenger of bad news (and defects), inevitably, testers may be put into an unenviable position. Tensions arise as project progress is impacted. So, testing could be considered as a destructive activity. Logically, bias of testers versus others would result in different estimates of test resourcing and executions. To combat this, timely communication and constructive collaboration are keys to project success.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Furthermore, thinking about testing involves a combination of curiosity, problem-solving, attention to detail, diplomacy, and communication. These traits are wonderful qualities that everyone on the team should strive to upskill. The bias is not to focus on some of them but to seek to gain knowledge and skills in each domain every day.
 		</main>
@@ -155,7 +155,7 @@
 			Take a moment to check our first two principles: https://jacklinto.github.io/blog.html#testing-principle-1 and https://jacklinto.github.io/blog.html#testing-principle-2, we now understand finding all the defects in a platform is impossible. Also, while we can find and fix those defects, does it mean that we have guaranteed ourselves the 'perfect' system? This is the last of the seven testing principles, aiming to dispel this myth.
 		</pre>
 		<main>
-			This is the seventh principal listed in Section 1.3 of the ISTQB foundational level syllabus. Despite following, with the best of intentions, all the previous testing principles during the course of a project, there is no guarantee that we can achieve project success. This is because, even with lots of test planning and execution to uncover and remediate defects, there are still a lot of unknowns when we launch the project to users.<![CDATA[<br/>]]>
+			This is the seventh principle listed in Section 1.3 of the ISTQB foundational level syllabus. Despite following, with the best of intentions, all the previous testing principles during the course of a project, there is no guarantee that we can achieve project success. This is because, even with lots of test planning and execution to uncover and remediate defects, there are still a lot of unknowns when we launch the project to users.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			One of the unknowns is the platform requirements. We have verified and validated that all the features satisfy the product requirements. But if the requirements were flawed or missing key features, we have the wrong or incomplete product. Sometimes, the documentation or the way it was marketed or positioned to be sold was unclear. Until we launch in production, we do not fully comprehend how users will use and perceive the platform, which may not be what we have hypothesized in the original requirements.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -175,7 +175,7 @@
 			Just like a journalist asks the Five Ws to write a story, a tester will ask the same questions to determine their testing strategies. Follow along to check out what they are in this penultimate installment of the seven testing principles.
 		</pre>
 		<main>
-			This is the sixth principal listed in Section 1.3 of the ISTQB foundational level syllabus. What do testers ask to come up with their testing strategies?<![CDATA[<br/>]]>
+			This is the sixth principle listed in Section 1.3 of the ISTQB foundational level syllabus. What do testers ask to come up with their testing strategies?<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Who are the audience or customers? Testers take on the persona of who will be using the product. They will generate specific test scenarios based on the problems they need to solve. Also, the type of testing artifacts or documents produced by testers will look different if it is external customers and customer-facing support teams vs. other testers vs. developers and product managers. We need to consider the levels of details, levels of technical expertise, user/role permissions, and levels of confidentiality or authorization.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -183,7 +183,7 @@
 			<![CDATA[<br/>]]>
 			When will the testing be scheduled? Are we following agile or waterfall methodology of development? Should we shift-left or do continuous testing? Given the other factors in this list, verification and validation activities can be executed differently at different times during the software lifecycle.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			Where are testing happening? They can take place in internal environments or externally in production. Also, we will have to consider whether user acceptance testing needs to take place separately. Each of them comes with more decisions about which levels of data are utilized during testing, versioning, etc.<![CDATA[<br/>]]>
+			Where is testing happening? They can take place in internal environments or externally in production. Also, we will have to consider whether user acceptance testing needs to take place separately. Each of them comes with more decisions about which levels of data are utilized during testing, versioning, etc.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Why do we need testing? The successful outcomes of a project tell us the testing we need to perform. The insurance software should be able to predict risks based on financial records. The video streaming platform should be able to scale comfortably for millions of current users. These tell us what type of functional, performance, load, security (and others) testing is necessary.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -201,7 +201,7 @@
 			The continuous misuse of the same pesticides or antibiotics make them resistant to infections they are supposed to fighting against. The same can be said for executing the same tests repeatedly. We will examine what we can do about it in this next installment of the seven testing principles.
 		</pre>
 		<main>
-			This is the fifth principal listed in Section 1.3 of the ISTQB foundational level syllabus. Continually running the same tests can prove to be futile because we may not find new bugs. In particular, remember that our first principle (check that previous post) still applies; our expectations cannot be too optimistic when we repeat ourselves. This is not to say we should not run them - we definitely should, but with some twists.<![CDATA[<br/>]]>
+			This is the fifth principle listed in Section 1.3 of the ISTQB foundational level syllabus. Continually running the same tests can prove to be futile because we may not find new bugs. In particular, remember that our first principle (check that previous post) still applies; our expectations cannot be too optimistic when we repeat ourselves. This is not to say we should not run them - we definitely should, but with some twists.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Updating test cases periodically is fundamentally important. This means setting up a frequency by which test cases are reviewed and updated with the most current behaviours and information. Furthermore, when new features are developed, updating existing test cases should be the default instead of creating new ones. This is essential to keep tests to a manageable state.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -221,11 +221,11 @@
 			Bugs in real life and in software are social creatures; they usually congregate in the same small (tight, dark) crevices of buildings and system modules. We shall dig deeper into this phenomenon in the fourth installment of the seven testing principles.
 		</pre>
 		<main>
-			This is the fourth principal listed in Section 1.3 of the ISTQB foundational level syllabus. Typically, defects are found during testing in small clusters of the platform. This runs counter to most statistical models out there, with even probability outcomes, because software development is a whole different animal. Defects appear not randomly but are distributed across certain modules in the platform since they are not alike.<![CDATA[<br/>]]>
+			This is the fourth principle listed in Section 1.3 of the ISTQB foundational level syllabus. Typically, defects are found during testing in small clusters of the platform. This runs counter to most statistical models out there, with even probability outcomes, because software development is a whole different animal. Defects appear not randomly but are distributed across certain modules in the platform since they are not alike.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Understandably, modules in a system are not all treated the same. Some are simple because they are static and have trivial workflows. While others are complex because they depend on widely disparate services, many developers worked on them, and have complicated business logics. The modules in the latter category take more time to plan and develop which have a higher likelihood of failures. Conversely, sometimes modules in the former category may have less attention devoted to them during planning and development or be executed more quickly with less oversight and inexperienced personnel. Finally, mission-critical functionalities can attract more interest. There are other factors that can contribute to where defects are found since dealing with software is always messy.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			This is why the previously mentioned risk analysis is important to assess which modules are worth more testing focus. That task takes the probabities out of verification and validation so that we can take an analytical approach in determining which and when certain test cases are executed for each risk area.
+			This is why the previously mentioned risk analysis is important to assess which modules are worth more testing focus. That task takes the probabilities out of verification and validation so that we can take an analytical approach in determining which and when certain test cases are executed for each risk area.
 		</main>
 	</topic>
 	<topic isoValue="20241106">
@@ -239,9 +239,9 @@
 			This is pretty intuitive and is agreed upon by everyone as a sound testing strategy. Executing some forms of testing earlier in the software development lifecycle is also called "shift left". We will look closer at this concept and understand the degree of ease in putting this into practice.
 		</pre>
 		<main>
-			This is the third principal listed in Section 1.3 of the ISTQB foundational level syllabus. In order to have effective testing (finding defects, for example) in a project, some forms of verification and validation need to be executed as early as possible in the software development lifecycle. When viewing a typical diagram of the SDLC diagram, reading from left to right, it means shifting testing more towards the left direction, "shift left". This is especially valuable in reducing the length and the cost of the project. The cost of fixing issues is typically lower during the planning and development phases because the stakeholders are actively working on it already. The earlier defects are found and resolved, the earlier we can arrive at a stable version of the platform for release.<![CDATA[<br/>]]>
+			This is the third principle listed in Section 1.3 of the ISTQB foundational level syllabus. In order to have effective testing (finding defects, for example) in a project, some forms of verification and validation need to be executed as early as possible in the software development lifecycle. When viewing a typical diagram of the SDLC, reading from left to right, it means shifting testing more towards the left direction, "shift left". This is especially valuable in reducing the length and the cost of the project. The cost of fixing issues is typically lower during the planning and development phases because the stakeholders are actively working on it already. The earlier defects are found and resolved, the earlier we can arrive at a stable version of the platform for release.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
-			As I mentioned earlier in a previous post about verification and validation testing, they can occur at all phases of a project or SDLC. The emphasis is on planning (and also being flexible enough) to apply the right approaches at the appropriate time to be save time and money properly. It can include requirement reviews during planning, static scans during development, and functional testing against requirements implemented, etc. This is called "continuous testing", a larger topic we can revisit more in a later post.<![CDATA[<br/>]]>
+			As I mentioned earlier in a previous post about verification and validation testing, they can occur at all phases of a project or SDLC. The emphasis is on planning (and also being flexible enough) to apply the right approaches at the appropriate time to save time and money properly. It can include requirement reviews during planning, static scans during development, and functional testing against requirements implemented, etc. This is called "continuous testing", a larger topic we can revisit more in a later post.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Testing early is something we all strive to achieve in a perfect world. However, due to budget and deadline constraints, that is not always possible. So we need to work with stakeholders to communicate the various testing strategies, however much that can be applied, used at each step of the way. Given the amount of resources, we may encounter that certain testing coverage may not be achieved or even be able to be executed until later. This means specific types of defects may not be uncovered until another dependency is done. That realistic perspective of testing is important to the success of a project.
 		</main>
@@ -257,7 +257,7 @@
 			Nor do we want to exhaust ourselves executing an infinite number of test scenarios. There are more valuable ways to focus our testing efforts. We shall explore some of them in this second installment of the seven testing principles.
 		</pre>
 		<main>
-			This is the second principal listed in Section 1.3 of the ISTQB foundational level syllabus. Testing every combination of inputs and outputs for any platform is not realistic except for trivial cases. That number could be infinite or close to it. If we have unlimited resources and time, we can come close to achieving total coverage. Since there is always an imminent deadline ahead, we should pick those test scenarios by focusing on risk analysis, test techniques, and priorities.<![CDATA[<br/>]]>
+			This is the second principle listed in Section 1.3 of the ISTQB foundational level syllabus. Testing every combination of inputs and outputs for any platform is not realistic except for trivial cases. That number could be infinite or close to it. If we have unlimited resources and time, we can come close to achieving total coverage. Since there is always an imminent deadline ahead, we should pick those test scenarios by focusing on risk analysis, test techniques, and priorities.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Risk analysis involves stakeholders identifying risk items in the platform and assessing their risk levels. Based on this analysis, we can determine which and when certain test cases are executed for each risk item. This is valuable because each business can determine their own levels of exposure to risks and test accordingly.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
@@ -277,7 +277,7 @@
 			There is no correlation here? This is the paradoxical nature of testing and the perception of testing. We will dive into each of the seven testing principles in the following weeks, and this is the first one relating to the value of testing.
 		</pre>
 		<main>
-			This is the first principal listed in Section 1.3 of the ISTQB foundational level syllabus. Testing reduces the likelihood of defects that are not found in a product. However, it does not mean that the product are both verified and validated 100% correctly, even if no defects remain. Most of the time, provided that proper testing processes were followed, those defects found remaining after all testing activities have been completed are usually lower in severity and priority. I have not seen any team that implemented a testing process that can find all the defects. It is not all doom and gloom; this is fine and realistic.<![CDATA[<br/>]]>
+			This is the first principle listed in Section 1.3 of the ISTQB foundational level syllabus. Testing reduces the likelihood of defects that are not found in a product. However, it does not mean that the product is both verified and validated 100% correctly, even if no defects remain. Most of the time, provided that proper testing processes were followed, those defects found remaining after all testing activities have been completed are usually lower in severity and priority. I have not seen any team that implemented a testing process that can find all the defects. It is not all doom and gloom; this is fine and realistic.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
 			Therein lies caveat #1: some forms of verification and validation were executed. We are not going to go through what those are, since there are many layers of testing involved for different type of projects. One of the goals for testing is to proactively find and fix defects before changes are released or deployed.<![CDATA[<br/>]]>
 			<![CDATA[<br/>]]>
