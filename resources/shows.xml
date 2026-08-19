@@ -8811,7 +8811,7 @@
 			<support>
 				<name>Japanese Breakfast</name>
 			</support>
-			<notes>I Built You A Tower Tour</notes>
+			<notes>I Built You A Tower World Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, July 25</date>
@@ -8837,6 +8837,39 @@
 				<name>Stars</name>
 			</support>
 			<notes>All The Feelings Tour</notes>
+		</show>
+		<show>
+			<date>Monday, August 17</date>
+			<venue>Drake Underground, Toronto</venue>
+			<headliner>
+				<name>Headsend</name>
+			</headliner>
+			<support>
+				<name>Mad Iris</name>
+			</support>
+			<notes>Angel Glands Tour</notes>
+		</show>
+		<show>
+			<date>Wednesday, August 26</date>
+			<venue>Bell Soundstage, CNE Bandshell, Toronto</venue>
+			<headliner>
+				<name>Bif Naked</name>
+			</headliner>
+			<support>
+				<name>Bran Van 3000</name>
+			</support>
+			<notes>Champion Tour</notes>
+		</show>
+		<show>
+			<date>Saturday, September 12</date>
+			<venue>Montgomery Stage, The Kingsway, Toronto</venue>
+			<headliner>
+				<name>SuperSonic</name>
+			</headliner>
+			<support>
+				<name>Pearl Jamming</name>
+			</support>
+			<notes>Knebworth Tour / Taste of the Kingsway</notes>
 		</show>
 	</annual>
 
