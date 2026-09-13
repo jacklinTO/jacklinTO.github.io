@@ -8862,6 +8862,17 @@
 		</show>
 		<show>
 			<date>Saturday, September 12</date>
+			<venue>Rogers Red Carpet, Yorkville, Toronto</venue>
+			<headliner>
+				<name>Our Lady Peace</name>
+			</headliner>
+			<support>
+				<name>The 99's'</name>
+			</support>
+			<notes>Gail Premiere / Toronto International Film Festival</notes>
+		</show>
+		<show>
+			<date>Saturday, September 12</date>
 			<venue>Montgomery Stage, The Kingsway, Toronto</venue>
 			<headliner>
 				<name>SuperSonic</name>
@@ -8869,7 +8880,7 @@
 			<support>
 				<name>Pearl Jamming</name>
 			</support>
-			<notes>Knebworth Tour / Taste of the Kingsway</notes>
+			<notes>Taste of the Kingsway / Oasis Tribute Band</notes>
 		</show>
 	</annual>
 
