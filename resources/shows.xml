@@ -2139,7 +2139,7 @@
 			<headliner>
 				<name>Late July</name>
 			</headliner>
-			<notes>Artist Series In Store / When The Curtain Falls Tour</notes>
+			<notes>Artist Series In-Store / When The Curtain Falls Tour</notes>
 		</show>
 		<show>
 			<date>Saturday, July 21</date>
@@ -8585,7 +8585,7 @@
 			<headliner>
 				<name>The Antarctic Monkeys</name>
 			</headliner>
-			<notes>Arctic Monkeys Cover Band / Whatever People Say I AM, That's What I'm Not Show</notes>
+			<notes>Arctic Monkeys Cover Band / Whatever People Say I Am, That's What I'm Not Show</notes>
 		</show>
 		<show>
 			<date>Wednesday, November 27</date>
@@ -8881,6 +8881,14 @@
 				<name>Pearl Jamming</name>
 			</support>
 			<notes>Taste of the Kingsway / Oasis Tribute Band</notes>
+		</show>
+		<show>
+			<date>Friday, September 25</date>
+			<venue>Sonic Boom, Toronto</venue>
+			<headliner>
+				<name>Silversun Pickups</name>
+			</headliner>
+			<notes>In-Store Performance / Tenterhooks Tour</notes>
 		</show>
 	</annual>
 
